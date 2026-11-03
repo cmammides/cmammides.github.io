@@ -42,11 +42,8 @@ h2 { margin-top: 2.2rem; padding-bottom: .3rem; border-bottom: 1px solid #e6e2d8
 .hero h1 { font-size: 2.5rem; margin: 0 0 .2rem; border: 0; }
 .hero .role { font-size: 1.15rem; color: #5b6b65; margin-bottom: 1rem; }
 .hero .tagline { font-family: $font-family-serif; font-size: 1.35rem; line-height: 1.45; color: $forest-dark; margin-bottom: 1.2rem; }
-.hero .links a {
-  display: inline-block; margin: 0 .4rem .4rem 0; padding: .35rem .9rem;
-  border: 1px solid $forest; border-radius: 999px; font-size: .92rem; text-decoration: none;
-}
-.hero .links a:hover { background: $forest; color: #fff; }
+.hero .links a { margin-right: 1.1rem; font-size: .98rem; text-decoration: none; border-bottom: 1px solid rgba(31,95,74,.35); }
+.hero .links a:hover { border-bottom-color: $forest; }
 
 @media (max-width: 720px) {
   .hero { grid-template-columns: 1fr; text-align: center; gap: 1.2rem; }
@@ -54,14 +51,21 @@ h2 { margin-top: 2.2rem; padding-bottom: .3rem; border-bottom: 1px solid #e6e2d8
   .hero h1 { font-size: 2rem; }
 }
 
-/* ---------- Theme cards ---------- */
-.themes { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin: 1rem 0 2rem; }
-.theme-card {
-  background: $sand; border-radius: 12px; padding: 1.1rem 1.2rem;
-  border-left: 4px solid $forest;
+/* ---------- Research themes ---------- */
+.themes { margin: .5rem 0 1.5rem; }
+.themes a.theme {
+  display: grid; grid-template-columns: 2.5rem 15rem 1fr; gap: 1rem;
+  padding: 1rem 0; border-bottom: 1px solid #d9d4c7;
+  color: inherit; text-decoration: none;
 }
-.theme-card h3 { font-size: 1.1rem; margin: 0 0 .4rem; }
-.theme-card p { font-size: .95rem; margin: 0; color: #3d4b46; }
+.themes .num { font-family: $font-family-serif; color: #8a968f; font-size: .95rem; padding-top: .1rem; }
+.themes .name { font-family: $font-family-serif; font-size: 1.15rem; font-weight: 600; color: $forest-dark; }
+.themes .desc { color: #4a5852; font-size: .98rem; }
+.themes a.theme:hover .name { color: $forest; text-decoration: underline; text-underline-offset: 3px; }
+@media (max-width: 720px) {
+  .themes a.theme { grid-template-columns: 2rem 1fr; }
+  .themes .desc { grid-column: 2; }
+}
 
 /* ---------- News ---------- */
 .news { list-style: none; padding-left: 0; }
@@ -86,6 +90,5 @@ h2 { margin-top: 2.2rem; padding-bottom: .3rem; border-bottom: 1px solid #e6e2d8
 
 .callout-box { background: $sand; border-radius: 12px; padding: 1rem 1.3rem; }
 
-@media (max-width: 720px) { .themes { grid-template-columns: 1fr; } }
 
 .cv-item > p { display: contents; }

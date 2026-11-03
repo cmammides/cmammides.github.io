@@ -23,27 +23,28 @@ I am a conservation scientist working at the interface of spatial ecology, stati
 
 ## Research themes
 
-::: {.themes}
-::: {.theme-card}
-### Protected area effectiveness
-Do protected areas reduce forest loss, land conversion and other human pressures? Quasi-experimental evaluations at regional to global scales.
-:::
-
-::: {.theme-card}
-### Human pressure on biodiversity
-Mapping and explaining human threats to lakes, wilderness, farmland and riparian zones, and testing how well remote metrics capture them.
-:::
-
-::: {.theme-card}
-### Soundscape ecology
-Acoustic indices and machine learning for monitoring bird communities, from Cyprus to tropical China and Australia.
-:::
-
-::: {.theme-card}
-### AI in ecology and conservation
-Large language models, uncertainty quantification and new computational tools for ecological research.
-:::
-:::
+<div class="themes">
+<a class="theme" href="research.html#protected-area-effectiveness">
+<span class="num">01</span>
+<span class="name">Protected area effectiveness</span>
+<span class="desc">Whether protected areas actually slow forest loss, settlement and land conversion, judged against comparable unprotected land rather than assumed.</span>
+</a>
+<a class="theme" href="research.html#human-pressure-on-biodiversity">
+<span class="num">02</span>
+<span class="name">Human pressure on biodiversity</span>
+<span class="desc">Where pressure on lakes, wilderness, farmland and rivers is growing, and whether satellite metrics pick up the threats that matter on the ground.</span>
+</a>
+<a class="theme" href="research.html#soundscape-ecology">
+<span class="num">03</span>
+<span class="name">Soundscape ecology</span>
+<span class="desc">Monitoring birds from sound recordings, and working out when acoustic indices can be trusted.</span>
+</a>
+<a class="theme" href="research.html#ai-and-computational-methods-in-ecology">
+<span class="num">04</span>
+<span class="name">AI in ecology</span>
+<span class="desc">What language models and machine learning are genuinely useful for in ecological research, and where they fall short.</span>
+</a>
+</div>
 
 [More about my research →](research.qmd)
 
@@ -59,7 +60,6 @@ Large language models, uncertainty quantification and new computational tools fo
 
 ## Selected publications
 
-::: {.selected}
 - **Mammides, C.**, & Campos-Arceiz, A. (2025). Media coverage of biodiversity falls short compared to climate change and popular culture. *npj Biodiversity*. [DOI](https://doi.org/10.1038/s44185-025-00082-w)
 - **Mammides, C.**, Gu, H., Nimalrathna, T. S., Avicena, N. R., Papadopoulos, H., & Campos-Arceiz, A. (2026). Emerging applications of large language models in ecology and conservation science. *Conservation Biology*. [DOI](https://doi.org/10.1111/cobi.70287)
 - Sreekar, R., Koh, L. P., Lamba, A., **Mammides, C.**, Teo, H. C., Dwiputra, A., & Zeng, Y. (2024). Conservation opportunities through improved management of recently established protected areas in Southeast Asia. *Current Biology*. [DOI](https://doi.org/10.1016/j.cub.2024.07.031)
@@ -67,7 +67,6 @@ Large language models, uncertainty quantification and new computational tools fo
 - **Mammides, C.**, Goodale, E., Elleason, M., & Corlett, R. T. (2021). Designing an ecologically representative global network of protected areas requires coordination between countries. *Environmental Research Letters*. [DOI](https://doi.org/10.1088/1748-9326/ac3534)
 
 [All publications →](publications.qmd)
-:::
 
 ## Service
 
@@ -75,10 +74,8 @@ Associate Editor for *Conservation Science and Practice*, *Ecological Solutions 
 
 ## Contact
 
-::: {.callout-box}
 **Christos Mammides**<br>
 Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences<br>
 Menglun, Mengla County, Yunnan 666303, China<br>
 <!-- Add your institutional email here, e.g.: Email: <a href="mailto:name@xtbg.ac.cn">name@xtbg.ac.cn</a> -->
 [Google Scholar](https://scholar.google.com/citations?user=kuDv6QoAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/christos-mammides/)
-:::
