@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Christos Mammides"
+  description: "Conservation scientist and Professor at Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences. Protected area effectiveness, causal inference, spatial ecology and soundscape ecology."
+  site-url: "https://USERNAME.github.io"
+  favicon: images/favicon.svg
+  open-graph: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=kuDv6QoAAAAJ&hl=en
+        aria-label: Google Scholar
+      - icon: linkedin
+        href: https://www.linkedin.com/in/christos-mammides/
+        aria-label: LinkedIn
+  page-footer:
+    left: "© Christos Mammides"
+    right: "Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    toc: false
+    page-layout: article
+    smooth-scroll: true
+    link-external-newwindow: true

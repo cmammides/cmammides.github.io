@@ -1,0 +1,89 @@
+/*-- scss:defaults --*/
+// System fonts only: Google Fonts are unreliable for visitors in mainland China.
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+$font-family-serif: Georgia, "Times New Roman", "Songti SC", serif;
+$headings-font-family: $font-family-serif;
+$headings-font-weight: 600;
+
+$forest: #1f5f4a;
+$forest-dark: #143f31;
+$sand: #f6f3ec;
+
+$primary: $forest;
+$link-color: $forest;
+$body-color: #22302b;
+$navbar-bg: #ffffff;
+$navbar-fg: #22302b;
+$navbar-hl: $forest;
+$footer-bg: $sand;
+
+/*-- scss:rules --*/
+body { font-size: 1.05rem; line-height: 1.65; }
+
+.navbar { border-bottom: 1px solid #e6e2d8; }
+.navbar-brand .navbar-title { font-family: $font-family-serif; font-weight: 600; }
+
+h1.title, .quarto-title h1 { font-size: 2.2rem; }
+h2 { margin-top: 2.2rem; padding-bottom: .3rem; border-bottom: 1px solid #e6e2d8; }
+
+/* ---------- Home hero ---------- */
+.hero {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 2.5rem;
+  align-items: center;
+  margin: 1.5rem 0 2.5rem;
+}
+.hero img.portrait {
+  width: 220px; height: 220px; object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 8px 24px rgba(20, 63, 49, .18);
+}
+.hero h1 { font-size: 2.5rem; margin: 0 0 .2rem; border: 0; }
+.hero .role { font-size: 1.15rem; color: #5b6b65; margin-bottom: 1rem; }
+.hero .tagline { font-family: $font-family-serif; font-size: 1.35rem; line-height: 1.45; color: $forest-dark; margin-bottom: 1.2rem; }
+.hero .links a {
+  display: inline-block; margin: 0 .4rem .4rem 0; padding: .35rem .9rem;
+  border: 1px solid $forest; border-radius: 999px; font-size: .92rem; text-decoration: none;
+}
+.hero .links a:hover { background: $forest; color: #fff; }
+
+@media (max-width: 720px) {
+  .hero { grid-template-columns: 1fr; text-align: center; gap: 1.2rem; }
+  .hero img.portrait { margin: 0 auto; width: 170px; height: 170px; }
+  .hero h1 { font-size: 2rem; }
+}
+
+/* ---------- Theme cards ---------- */
+.themes { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin: 1rem 0 2rem; }
+.theme-card {
+  background: $sand; border-radius: 12px; padding: 1.1rem 1.2rem;
+  border-left: 4px solid $forest;
+}
+.theme-card h3 { font-size: 1.1rem; margin: 0 0 .4rem; }
+.theme-card p { font-size: .95rem; margin: 0; color: #3d4b46; }
+
+/* ---------- News ---------- */
+.news { list-style: none; padding-left: 0; }
+.news li { padding: .45rem 0; border-bottom: 1px dashed #e0dccf; }
+.news .date { display: inline-block; min-width: 5.5rem; font-weight: 600; color: $forest; }
+
+/* ---------- Publications ---------- */
+.pubs ol, ol.pubs { padding-left: 0; list-style: none; }
+.pub { margin-bottom: 1rem; }
+.pub .ptitle { font-weight: 600; }
+.pub .journal { font-style: italic; }
+.pub a.doi {
+  font-size: .78rem; padding: .05rem .5rem; margin-left: .3rem;
+  border: 1px solid $forest; border-radius: 999px; text-decoration: none; white-space: nowrap;
+}
+.selected { background: $sand; border-radius: 12px; padding: 1rem 1.3rem; margin-bottom: 1.5rem; }
+
+/* ---------- CV ---------- */
+.cv-item { display: grid; grid-template-columns: 8.5rem 1fr; gap: 1rem; padding: .35rem 0; }
+.cv-item .when { color: #6b7a74; font-size: .95rem; }
+@media (max-width: 600px) { .cv-item { grid-template-columns: 1fr; gap: 0; } }
+
+.callout-box { background: $sand; border-radius: 12px; padding: 1rem 1.3rem; }
+
+@media (max-width: 720px) { .themes { grid-template-columns: 1fr; } }

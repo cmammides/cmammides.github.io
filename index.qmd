@@ -1,0 +1,84 @@
+---
+pagetitle: "Christos Mammides · Conservation scientist"
+---
+
+::: {.hero}
+<img class="portrait" src="https://cmammides.wordpress.com/wp-content/uploads/2023/04/cropped-profile-picture-4-1-1.jpeg" alt="Portrait of Christos Mammides">
+
+<div>
+<h1>Christos Mammides</h1>
+<div class="role">Professor · Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences</div>
+<div class="tagline">I study whether conservation actually works, using satellite data, causal inference and the sounds of ecosystems to measure human impact on biodiversity.</div>
+<div class="links">
+<a href="publications.html">Publications</a>
+<a href="research.html">Research</a>
+<a href="cv.html">CV</a>
+<a href="https://scholar.google.com/citations?user=kuDv6QoAAAAJ&hl=en">Google Scholar</a>
+<a href="https://www.linkedin.com/in/christos-mammides/">LinkedIn</a>
+</div>
+</div>
+:::
+
+I am a conservation scientist working at the interface of spatial ecology, statistics and policy. My research evaluates the effectiveness of protected areas and other area-based conservation measures in reducing human pressures on biodiversity, often using quasi-experimental designs applied to global remote-sensing data. I also work in soundscape ecology, developing methods to monitor vocalizing animal communities from acoustic recordings in biodiverse ecosystems.
+
+## Research themes
+
+::: {.themes}
+::: {.theme-card}
+### Protected area effectiveness
+Do protected areas reduce forest loss, land conversion and other human pressures? Quasi-experimental evaluations at regional to global scales.
+:::
+
+::: {.theme-card}
+### Human pressure on biodiversity
+Mapping and explaining human threats to lakes, wilderness, farmland and riparian zones, and testing how well remote metrics capture them.
+:::
+
+::: {.theme-card}
+### Soundscape ecology
+Acoustic indices and machine learning for monitoring bird communities, from Cyprus to tropical China and Australia.
+:::
+
+::: {.theme-card}
+### AI in ecology and conservation
+Large language models, uncertainty quantification and new computational tools for ecological research.
+:::
+:::
+
+[More about my research →](research.qmd)
+
+## News
+
+<ul class="news">
+<li><span class="date">2026</span> Promoted to Professor at Xishuangbanna Tropical Botanical Garden, CAS.</li>
+<li><span class="date">2026</span> Awarded the NSFC Research Fund for International Excellent Young Scientists (RFIS-II).</li>
+<li><span class="date">2026</span> New paper in <em>Conservation Biology</em> on <a href="https://doi.org/10.1111/cobi.70287">applications of large language models in ecology and conservation</a>.</li>
+<li><span class="date">2025</span> Joined the editorial boards of <em>Biodiversity and Conservation</em> and <em>Integrative Conservation</em> as Associate Editor.</li>
+<li><span class="date">2025</span> Received the Young Scientist Award, “Wisdom Yunnan” Program.</li>
+</ul>
+
+## Selected publications
+
+::: {.selected}
+- **Mammides, C.**, & Campos-Arceiz, A. (2025). Media coverage of biodiversity falls short compared to climate change and popular culture. *npj Biodiversity*. [DOI](https://doi.org/10.1038/s44185-025-00082-w)
+- **Mammides, C.**, Gu, H., Nimalrathna, T. S., Avicena, N. R., Papadopoulos, H., & Campos-Arceiz, A. (2026). Emerging applications of large language models in ecology and conservation science. *Conservation Biology*. [DOI](https://doi.org/10.1111/cobi.70287)
+- Sreekar, R., Koh, L. P., Lamba, A., **Mammides, C.**, Teo, H. C., Dwiputra, A., & Zeng, Y. (2024). Conservation opportunities through improved management of recently established protected areas in Southeast Asia. *Current Biology*. [DOI](https://doi.org/10.1016/j.cub.2024.07.031)
+- **Mammides, C.**, Zotos, S., & Martini, F. (2024). Quantifying the amount of land lost to artificial surfaces in European habitats: a comparison inside and outside Natura 2000 sites using a quasi-experimental design. *Biological Conservation*. [DOI](https://doi.org/10.1016/j.biocon.2024.110556)
+- **Mammides, C.**, Goodale, E., Elleason, M., & Corlett, R. T. (2021). Designing an ecologically representative global network of protected areas requires coordination between countries. *Environmental Research Letters*. [DOI](https://doi.org/10.1088/1748-9326/ac3534)
+
+[All publications →](publications.qmd)
+:::
+
+## Service
+
+Associate Editor for *Conservation Science and Practice*, *Ecological Solutions and Evidence*, *Biodiversity and Conservation* and *Integrative Conservation*. Member of the IUCN World Commission on Protected Areas (WCPA). Expert evaluator for the EU Horizon Europe Programme and reviewer for UNEP's Global Environment Outlook (GEO-7). [Full record in CV →](cv.qmd#academic-service)
+
+## Contact
+
+::: {.callout-box}
+**Christos Mammides**<br>
+Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences<br>
+Menglun, Mengla County, Yunnan 666303, China<br>
+<!-- Add your institutional email here, e.g.: Email: <a href="mailto:name@xtbg.ac.cn">name@xtbg.ac.cn</a> -->
+[Google Scholar](https://scholar.google.com/citations?user=kuDv6QoAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/christos-mammides/)
+:::

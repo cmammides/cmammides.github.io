@@ -1,0 +1,116 @@
+---
+title: "Curriculum Vitae"
+---
+
+<!-- Optional: put a PDF of your CV in the files/ folder and uncomment the next line.
+[Download full CV (PDF)](files/Mammides_CV.pdf){.btn .btn-outline-primary}
+-->
+
+## Positions
+
+::: {.cv-item}
+<span class="when">2026 – present</span>
+<span>**Professor**, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, China</span>
+:::
+::: {.cv-item}
+<span class="when">2024 – 2026</span>
+<span>**Associate Professor**, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, China</span>
+:::
+::: {.cv-item}
+<span class="when">2021 – 2024</span>
+<span>**European Research Area (ERA) Fellow & Senior Researcher**, Frederick University, Cyprus</span>
+:::
+::: {.cv-item}
+<span class="when">2022, 2023</span>
+<span>**Visiting Lecturer** (spring semesters), University of Cyprus, Cyprus</span>
+:::
+::: {.cv-item}
+<span class="when">2016 – 2021</span>
+<span>**Associate Professor**, Guangxi University, China</span>
+:::
+::: {.cv-item}
+<span class="when">2014 – 2016</span>
+<span>**Postdoctoral Research Fellow**, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, China</span>
+:::
+::: {.cv-item}
+<span class="when">2006 – 2007</span>
+<span>**Environmental Consultant**, Nicolaides & Associates, Cyprus</span>
+:::
+::: {.cv-item}
+<span class="when">2005 – 2006</span>
+<span>**Teaching Assistant**, Columbia University, USA</span>
+:::
+
+## Education
+
+::: {.cv-item}
+<span class="when">2007 – 2012</span>
+<span>**PhD, Conservation Biology**, Imperial College London, UK</span>
+:::
+::: {.cv-item}
+<span class="when">2004 – 2006</span>
+<span>**MA, Conservation Biology**, Columbia University, USA</span>
+:::
+::: {.cv-item}
+<span class="when">2003 – 2004</span>
+<span>**Graduate Diploma in Management**, Mediterranean Institute of Management, Cyprus</span>
+:::
+::: {.cv-item}
+<span class="when">2000 – 2003</span>
+<span>**BSc, Biology (Emphasis in Ecology)**, San Diego State University, USA</span>
+:::
+
+## Grants
+
+Total funding ≈ €860,000.
+
+- National Natural Science Foundation of China (2026). Research Fund for International Excellent Young Scientists (RFIS-II). NSFC 3261101766.
+- Yunnan Provincial Government (2025). High-End Foreign Experts Project, Yunnan Revitalization Talent Support Program.
+- European Commission (2023). PRO-COAST 101082327. HORIZON-CL6-2022-BIODIV-01-09, Horizon Europe.
+- European Commission (2022). BIOMON 101090273. ERA Fellowship (HORIZON-WIDERA-2022-TALENTS), Horizon Europe.
+- National Natural Science Foundation of China (2019). Young International Scientist Award. NSFC 31950410549.
+- National Natural Science Foundation of China (2019). Regional Science Project. NSFC 31960235.
+- Guangxi University (2016). Foreign Talent Start-up Fund.
+- Xishuangbanna Tropical Botanical Garden (2014). Postdoctoral Research Start-up Fund.
+- Research Promotion Foundation, Cyprus (2008). PENEK/SUPPORT/0308/42.
+
+## Awards and memberships
+
+- Young Scientist Award, “Wisdom Yunnan” Program, Yunnan Provincial Government (2025)
+- Marie Skłodowska-Curie Actions Alumni (2024 – )
+- Member, IUCN World Commission on Protected Areas (WCPA)
+- A.G. Leventis Foundation Scholarship (2008 – 2012)
+- Cyprus American Scholarship Program (CASP), Fulbright Commission (2004 – 2006)
+- Golden Key International Honour Society (2003)
+
+## Academic service
+
+**Associate Editor**
+
+- *Integrative Conservation* (Xishuangbanna Tropical Botanical Garden / Wiley), 2025 – present
+- *Biodiversity and Conservation* (Springer Nature), 2025 – present
+- *Conservation Science and Practice* (Society for Conservation Biology), 2023 – present
+- *Ecological Solutions and Evidence* (British Ecological Society), 2023 – present
+- *Frontiers in Conservation Science*, Global Threats section, 2021 – 2024
+
+**Research Topic Editor**
+
+- *Frontiers in Forests and Global Change*: [Global Patterns and Drivers of Forest Loss and Degradation Within Protected Areas](https://www.frontiersin.org/research-topics/20400/global-patterns-and-drivers-of-forest-loss-and-degradation-within-protected-areas) (>135k views and downloads)
+
+**Expert reviewer**
+
+- Proposals to the EU Horizon Europe Programme (MSCA-PF, Twinning and Cluster 6)
+- Proposals to the Smith Fellows Program (Society for Conservation Biology)
+- Chapters of UNEP's Global Environment Outlook (GEO-7)
+- More than 140 manuscripts for journals including *Nature Communications*, *One Earth*, *Ecology Letters*, *PLOS Biology*, *Conservation Biology* and *Biological Conservation*
+
+## Teaching
+
+- **GIS and Remote Sensing in Ecology** (graduate), University of Cyprus, 2022, 2023
+- **Advanced Statistical Methods in Ecology** (graduate), Guangxi University, 2017 – 2021
+- **Frontiers in Ecology and Conservation** (undergraduate, co-taught), Guangxi University, 2019
+- Workshops: Data Analysis in R (2022, 2023); Scientific Writing (co-taught)
+
+## Skills
+
+R, ArcGIS Pro, Python, QGIS; quasi-experimental and causal-inference methods; species distribution modelling; passive acoustic monitoring.

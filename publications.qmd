@@ -1,0 +1,190 @@
+---
+title: "Publications"
+subtitle: "72 peer-reviewed publications · full metrics on [Google Scholar](https://scholar.google.com/citations?user=kuDv6QoAAAAJ&hl=en)"
+---
+
+<!-- To add a paper: copy an entry below, paste it under the right year, and edit it. Your name is in bold; ** marks bold, * marks italics. -->
+
+
+## 2026
+
+- He, R. C., **Mammides, C.**, Wang, L., Zhou, J., Li, Z. Y., Gan, Z. L., & Quan, R. C. (2026). Beyond conflict in “overabundant” species management: Wild boar abundance is associated with increased crop damage, but also higher vertebrate richness and co-occurrence network stability. *Biological Conservation, 323, 112123*. [DOI](https://doi.org/10.1016/j.biocon.2026.112123)
+
+- Chen, Y. F., **Mammides, C.**, Li, S., Darras, K., & Shen, X. (2026). Acoustic indices can be driven by habitat characteristics rather than bird diversity. *Environmental and Sustainability Indicators, 101412*. [DOI](https://doi.org/10.1016/j.indic.2026.101412)
+
+- **Mammides, C.**, Huang, G., Sreekar, R., Ieronymidou, C., & Papadopoulos, H. (2026). Using conformal prediction to quantify uncertainty in machine learning models for monitoring animal communities. *Environmental and Sustainability Indicators, 101387*. [DOI](https://doi.org/10.1016/j.indic.2026.101387)
+
+- Geng, Y., **Mammides, C.**, He, R. C., Wang, L., Luo, K., Zhang, Z. Y., … & Quan, R. C. (2026). Human hunters are no substitute for vanishing apex predators. *Journal of Animal Ecology*. [DOI](https://doi.org/10.1111/1365-2656.70306)
+
+- Sreekar, R., Ni’am, L., Meyers, K., Lim, J. Y., Zeng, Y., Lamba, A.,… **Mammides, C.**….& Watson, J. E. (2026). Disentangling the impacts of agriculture, logging, and extractive industries on Tapanuli orangutan habitat: A geo-ethnographic assessment. *Biological Conservation, 321, 111960*. [DOI](https://doi.org/10.1016/j.biocon.2026.111960)
+
+- **Mammides, C.**, Gu, H., Nimalrathna, T. S., Avicena, N. R., Papadopoulos, H., & Campos‐Arceiz, A. (2026). Emerging applications of large language models in ecology and conservation science. *Conservation Biology, e70287*. [DOI](https://doi.org/10.1111/cobi.70287)
+
+- Pontikis, M., Sfenthourakis, S., & **Mammides, C.** (2026). Riparian zones across the European Union face continued threats from agriculture and urbanization, although pressures are lower within protected Natura 2000 sites. *Biological Conservation, 318, 111856*. [DOI](https://doi.org/10.1016/j.biocon.2026.111856)
+
+
+## 2025
+
+- Sharma, M. V., Viswanathan, P., Leo, R., Gemmill-Herren, B., **Mammides, C.**, & Ngo, H. T. (2025). Factors influencing pollinator abundance in Indigenous coffee farms of the Nilgiris, Western Ghats, India. *Journal of Apicultural Research, 1-14*. [DOI](https://doi.org/10.1080/00218839.2025.2531313)
+
+- Darras, K. F., Rountree, R. A., Van Wilgenburg, S. L., Cord, A. F., Pitz, F., Chen, Y., …**Mammides, C.**… & Riede, K. (2025). Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms. *Global Ecology and Biogeography, 34 (5), e70021*. [DOI](https://doi.org/10.1111/geb.70021)
+
+- **Mammides, C.**, & Campos-Arceiz, A. (2025). Media coverage of biodiversity falls short compared to climate change and popular culture. *npj Biodiversity, 4 (1), 11*. [DOI](https://doi.org/10.1038/s44185-025-00082-w)
+
+- Liu, Y., He, R. C., Wang, L., **Mammides, C.**, & Quan, R. (2025). Occupancy and coexistence patterns of sympatric felid species in human-disturbed tropical habitats of Xishuangbanna, southwestern China. *Zoological Research: Diversity and Conservation*. [DOI](https://dx.doi.org/10.24272/j.issn.2097-3772.2025.002)
+
+- **Mammides, C.**, Ieronymidou, C., & Papadopoulos, H. (2025). An ecoacoustic dataset collected on the island of Cyprus in the Mediterranean Basin biodiversity hotspot. *Scientific Data, 12 (461), 1-6*. [DOI](https://doi.org/10.1038/s41597-025-04807-1)
+
+- Wijerathne, I., Deng, Y., Goodale, E., Jiang, A., Karunarathna, S., **Mammides, C.**, … & Zhang, Z. (2025). The vulnerability of endemic vertebrates in Sri Lanka to climate change. *Global Ecology and Conservation, e03515*. [DOI](https://doi.org/10.1016/j.gecco.2025.e03515)
+
+- **Mammides, C.**, Wuyuan, P., Huang, G., Sreekar, R., Ieronymidou, C., Jiang, A., … & Papadopoulos, H. (2025). The combined effectiveness of acoustic indices in measuring bird species richness in biodiverse sites in Cyprus, China, and Australia. *Ecological Indicators, 170, 113105*. [DOI](https://doi.org/10.1016/j.ecolind.2025.113105)
+
+
+## 2024
+
+- **Mammides, C.**, & Papadopoulos, H. (2024). The role of large language models in interdisciplinary research: Opportunities, challenges and ways forward. *Methods in Ecology and Evolution, 15 (10), 1774-1776*. [DOI](https://doi.org/10.1111/2041-210X.14398)
+
+- Sreekar, R., Koh, L. P., Lamba, A., **Mammides, C.**, Teo, H. C., Dwiputra, A., & Zeng, Y. (2024). Conservation opportunities through improved management of recently established protected areas in Southeast Asia. *Current Biology*. [DOI](https://doi.org/10.1016/j.cub.2024.07.031)
+
+- Dayananda, S. K., Athukorala, H. F., Peabotuwage, I., Kumara, C., Ranasinghe, T., Samarasinghe, D., Gouveia, A., Kotagama, S. W., **Mammides, C.**, Jiang, A. & Goodale, E. (2024). Rubber plantations are impermeable to an avian understory specialist in Sri Lanka. *Movement Ecology, 12 (1), 47*. [DOI](https://doi.org/10.1186/s40462-024-00484-8)
+
+- Galappaththi, S., Goodale, E., Sun, J., Jiang, A., & **Mammides, C.** (2024). The incidence of bird sounds, and other categories of non-focal sounds, confound the relationships between acoustic indices and bird species richness in southern China. *Global Ecology and Conservation, 51, e02922*. [DOI](https://doi.org/10.1016/j.gecco.2024.e02922)
+
+- **Mammides, C.**, Zotos, S., & Martini, F. (2024). Quantifying the amount of land lost to artificial surfaces in European habitats: A comparison inside and outside Natura 2000 sites using a quasi-experimental design. *Biological Conservation, 293, 110556*. [DOI](https://doi.org/10.1016/j.biocon.2024.110556)
+
+- Erotokritou, E., **Mammides, C.**, Vogiatzakis, I. N., & Sfenthourakis, S. (2024). Environmental heterogeneity and lizard assemblages in riparian areas in Cyprus. *Reptiles & Amphibians, 31 (1), e18972*. [DOI](https://doi.org/10.17161/randa.v31i1.18972)
+
+- Martini, F., Chen, Y. F., **Mammides, C.**, Goodale, E., & Goodale, U. M. (2024). Exploring potential relationships between acoustic indices and ecosystem functions: a test on insect herbivory. *Oecologia, 1-9*. [DOI](https://doi.org/10.1007/s00442-024-05536-9)
+
+- Pan, W., Goodale, E., Jiang, A., & **Mammides, C.** (2024). The effect of latitude on the efficacy of acoustic indices to predict biodiversity: A meta-analysis. *Ecological Indicators, 159, 111747*. [DOI](https://doi.org/10.1016/j.ecolind.2024.111747)
+
+- Martini, F., Kounnamas, C., Goodale, E., & **Mammides, C.** (2024). Examining the co-occurrences of human threats within terrestrial protected areas. *Ambio, 1-12*. [DOI](https://doi.org/10.1007/s13280-023-01966-6)
+
+- Zhou, L., **Mammides, C.**, Chen, Y., Zhou, W., Dai, W., Braun, E. L., … & Goodale, E. (2024). High association strengths are linked to phenotypic similarity, including plumage color and patterns, of participants in mixed-species bird flocks of southwestern China. *Current Zoology*. [DOI](https://doi.org/10.1093/cz/zoac096)
+
+
+## 2023
+
+- Deng, Y., Goodale, E., Dong, A., Jiang, D., Jiang, A., Zhang, Z., & **Mammides, C.** (2023). Projecting shifts in the distributions of Chinese endemic vertebrate species under climate and land-use change. *Frontiers in Ecology and Evolution, 11, 521*. [DOI](https://doi.org/10.3389/fevo.2023.1174495)
+
+
+## 2022
+
+- Shen, Y., Holyoak, M., Goodale, E., **Mammides, C.**, Zou, F., Chen, Y., … & Zhang, Q. (2022). Mixed-species bird flocks re-assemble interspecific associations across an elevational gradient. *Proceedings of the Royal Society B, 289 (1989), 20221840*. [DOI](https://doi.org/10.1098/rspb.2022.1840)
+
+- **Mammides, C.**, Martini, F., & Kounnamas, C. (2022). Remote assessments of human pressure on biodiversity may miss important human threats. *Integrative Conservation, 1, 52-59*. [DOI](https://doi.org/10.1002/inc3.11)
+
+- Cicuzza, D., & **Mammides, C.** (2022). Soil, Topography and Forest Structure Shape the Abundance, Richness and Composition of Fern Species in the Fragmented Tropical Landscape of Xishuangbanna, Yunnan, China. *Forests, 13 (9), 1453*. [DOI](https://doi.org/10.3390/f13091453)
+
+- Goodale, E., **Mammides, C.**, Mtemi, W., Chen, Y. F., Barthakur, R., Goodale, U. M., … & Bawa, K. S. (2022). Increasing collaboration between China and India in the environmental sciences to foster global sustainability. *Ambio, 1-11*. [DOI](https://doi.org/10.1007/s13280-021-01681-0)
+
+- **Mammides, C.**, Ma, J., Bertzky, B., & Langner, A. (2022). Editorial: Global Patterns and Drivers of Forest Loss and Degradation Within Protected Areas. *Frontiers in Forests and Global Change, 5, 907537*. [DOI](https://doi.org/10.3389/ffgc.2022.907537)
+
+
+## 2021
+
+- **Mammides, C.**, Goodale, E., Elleason, M., & Corlett, R. T. (2021). Designing an ecologically representative global network of protected areas requires coordination between countries. *Environmental Research Letters, 16, 121001*. [DOI](https://doi.org/10.1088/1748-9326/ac3534)
+
+- Dayananda, S. K., **Mammides, C.**, Liang, D., Kotagama, S. W., & Goodale, E. (2021). A review of avian experimental translocations that measure movement through human-modified landscapes. *Global Ecology and Conservation, 31, e01876*. [DOI](https://doi.org/10.1016/j.gecco.2021.e01876)
+
+- Chen, Y. F., Luo, Y., **Mammides, C.**, Cao, K. F., Zhu, S., & Goodale, E. (2021). The relationship between acoustic indices, elevation, and vegetation, in a forest plot network of southern China. *Ecological Indicators, 129, 107942*. [DOI](https://doi.org/10.1016/j.ecolind.2021.107942)
+
+- **Mammides, C.**, Goodale, E., Dayananda, S. K., Luo, K., & Chen, J. (2021). On the use of the acoustic evenness index to monitor biodiversity: A comment on “Rapid assessment of avian species richness and abundance using acoustic indices” by Bradfer-Lawrence et al. (2020). *Ecological Indicators, 126, 107626*. [DOI](https://doi.org/10.1016/j.ecolind.2021.107626)
+
+- Guan, Z., Elleason, M., Goodale, E., & **Mammides, C.** (2021). Global patterns and potential drivers of human settlements within protected areas. *Environmental Research Letters, 16 (6), 064085*. [DOI](https://doi.org/10.1088/1748-9326/ac0567)
+
+- Elleason, M., Guan, Z., Deng, Y., Jiang, A., Goodale, E., & **Mammides, C.** (2021). Strictly protected areas are not necessarily more effective than areas in which multiple human uses are permitted. *Ambio, 50, 1058-1073*. [DOI](https://doi.org/10.1007/s13280-020-01426-5)
+
+- Li, C., Chen, X., Jiang, A., Lee, M. B., **Mammides, C.**, & Goodale, E. (2021). Socioeconomic determinants of crop diversity and its effect on farmer income in Guangxi, Southern China. *Agriculture, 11(4), 336*. [DOI](https://doi.org/10.3390/agriculture11040336)
+
+- Meaux, E., Castillo-Díaz, D., Pradhan, N., Dayananda, S. K., Balboa, C. M., Goodale, E., … & Goodale, U. M. (2021). Transparency about human diversity in transnational environmental NGOs. *Biological Conservation, 256, 109027*. [DOI](https://doi.org/10.1016/j.biocon.2021.109027)
+
+- Meaux, E., Peabotuwage, I., **Mammides, C.**, Malykhina, K., Quan, R. C., & Goodale, E. (2021). Behavioural variables influence contact call rate more than characteristics of the vegetation in a group-living passerine species. *Behavioural Processes, 185, 104345*. [DOI](https://doi.org/10.1016/j.beproc.2021.104345)
+
+- Martini, F., Aluthwattha, S. T., **Mammides, C.**, Armani, M., & Goodale, U. M. (2021). Plant apparency drives leaf herbivory in seedling communities across four subtropical forests. *Oecologia, 195 (3), 575-587*. [DOI](https://doi.org/10.1007/s00442-020-04804-8)
+
+- Dai, W., Goodale, E., He, R., **Mammides, C.**, Liu, S., Zhou, L., … & Jiang, A. (2021). An eco-compensation policy increases shorebird diversity during the non-farming period for aquaculture. *Wetlands, 41, 1-9*. [DOI](https://doi.org/10.1007/s13157-021-01397-7)
+
+
+## 2020
+
+- Zhou, X., **Mammides, C.**, Zhou, X., Hobson, K. A., Zhu, H., Wen, Y., & Jiang, A. (2020). Food web structure in exotic eucalyptus plantations in Southern China: stable isotope (δ13C, δ15N) analyses reveal the importance of understory and landscape-level planning. *Global Ecology and Conservation, 24, e01259*. [DOI](https://doi.org/10.1016/j.gecco.2020.e01259)
+
+- Anderson, E., & **Mammides, C.** (2020). Changes in land-cover within high nature value farmlands inside and outside Natura 2000 sites in Europe: A preliminary assessment. *Ambio, 49, 1958-1971*. [DOI](https://doi.org/10.1007/s13280-020-01330-y)
+
+- Viswanathan, P., **Mammides, C.**, Roy, P., & Sharma, M. V. (2020). Flower visitors in agricultural farms of Nilgiri Biosphere Reserve: Do forests act as pollinator reservoirs? *Journal of Apicultural Research, 59 (5), 978-987*. [DOI](https://doi.org/10.1080/00218839.2020.1762994)
+
+- Sreekar, R., Koh, L. P., **Mammides, C.**, Corlett, R. T., Dayananda, S., Goodale, U. M., … & Goodale, E. (2020). Drivers of bird beta diversity in the Western Ghats–Sri Lanka biodiversity hotspot are scale dependent: roles of land use, climate, and distance. *Oecologia, 193, 801-809*. [DOI](https://doi.org/10.1007/s00442-020-04671-3)
+
+- Bawa, K. S., Goodale, E., Mtemi, W., Chen, Y. F., Barthakur, R., Goodale, U. M., … & Cao, K. F. (2020). China and India: Toward a sustainable world. *Science, 369 (6503), 515* (Letter). [DOI](https://doi.org/10.1126/science.abd4723)
+
+- **Mammides, C.** (2020). A global assessment of the human pressure on the world’s lakes. *Global Environmental Change, 63, 102084*. [DOI](https://doi.org/10.1016/j.gloenvcha.2020.102084)
+
+- **Mammides, C.** (2020). A global analysis of the drivers of human pressure within protected areas at the national level. *Sustainability Science, 15, 1223-1232*. [DOI](https://doi.org/10.1007/s11625-020-00809-7)
+
+- **Mammides, C.**, & Kirkos, G. (2020). An analysis of the European Union’s conservation funding allocation by habitat and country. *Environmental Conservation, 47 (2), 123-129*. [DOI](https://doi.org/10.1017/S0376892920000028)
+
+- Anderson, E., & **Mammides, C.** (2020). The role of protected areas in mitigating human impact in the world’s last wilderness areas. *Ambio, 49 (2), 434-441*. [DOI](https://doi.org/10.1007/s13280-019-01213-x)
+
+- Zhang, J. Q., **Mammides, C.**, & Corlett, R. T. (2020). Reasons for the survival of tropical forest fragments in Xishuangbanna, Southwest China. *Forests, 11 (2), 159*. [DOI](https://doi.org/10.3390/f11020159)
+
+- **Mammides, C.** (2020). Evidence from eleven countries in four continents suggests that protected areas are not associated with higher poverty rates. *Biological Conservation, 241, 108353*. [DOI](https://doi.org/10.1016/j.biocon.2019.108353)
+
+
+## 2019
+
+- Zhou, L., Peabotuwage, I., Gu, H., Jiang, D., Hu, G., Jiang, A., … & Goodale, E. (2019). The response of mixed-species bird flocks to anthropogenic disturbance and elevational variation in southwest China. *The Condor, 121 (3), duz028*. [DOI](https://doi.org/10.1093/condor/duz028)
+
+- **Mammides, C.** (2019). European Union’s conservation efforts are taxonomically biased. *Biodiversity and Conservation, 28 (5), 1291-1296*. [DOI](https://doi.org/10.1007/s10531-019-01725-8)
+
+- Ramachandran, V. S., Mohandass, D., Campbell, M. J., **Mammides, C.**, & Shao, S. C. (2019). Selective logging intensity alters the population stand structure of Cullenia-Mesua-Palaquium dominated tropical wet evergreen forest of the Western Ghats, South India. *Applied Ecology and Environmental Research, 17 (4), 9591-9607*. [DOI](http://dx.doi.org/10.15666/aeer/1704_95919607)
+
+
+## 2018
+
+- **Mammides, C.**, Chen, J., Goodale, U. M., Kotagama, S. W., & Goodale, E. (2018). Measurement of species associations in mixed‐species bird flocks across environmental and human disturbance gradients. *Ecosphere, 9 (7), e02324*. [DOI](https://doi.org/10.1002/ecs2.2324)
+
+- Giosa, E., **Mammides, C.**, & Zotos, S. (2018). The importance of artificial wetlands for birds: A case study from Cyprus. *PLoS One, 13 (5), e0197286*. [DOI](https://doi.org/10.1371/journal.pone.0197286)
+
+- **Mammides, C.** (2018). Do satellite-derived data on forest loss correlate with indices of small-scale logging measured in the field? *African Journal of Ecology, 56(2), 390-394*. [DOI](https://doi.org/10.1111/aje.12434)
+
+
+## 2017
+
+- Jenkins, H. M., **Mammides, C.**, & Keane, A. (2017). Exploring differences in stakeholders’ perceptions of illegal bird trapping in Cyprus. *Journal of Ethnobiology and Ethnomedicine, 13, 1-10*. [DOI](https://doi.org/10.1186/s13002-017-0194-3)
+
+- Dayananda, S. K., **Mammides, C.**, Lee, M. B., Liu, J. J., Pasion, B. O., Sreekar, R., … & Goodale, E. (2017). Topography and soil type are critical to understanding how bird and herpetofaunal communities persist in forest fragments of tropical China. *Biological Conservation, 215, 107-115*. [DOI](https://doi.org/10.1016/j.biocon.2017.08.034)
+
+- **Mammides, C.**, Goodale, E., Dayananda, S. K., Kang, L., & Chen, J. (2017). Do acoustic indices correlate with bird diversity? Insights from two biodiverse regions in Yunnan Province, south China. *Ecological Indicators, 82, 470-477*. [DOI](https://doi.org/10.1016/j.ecolind.2017.07.017)
+
+- Abeysinghe, K. S., Qiu, G., Goodale, E., Anderson, C. W., Bishop, K., Evers, D. C., … & Feng, X. (2017). Mercury flow through an Asian rice-based food web. *Environmental Pollution, 229, 219-228*. [DOI](https://doi.org/10.1016/j.envpol.2017.05.067)
+
+- Mohandass, D., Campbell, M. J., Hughes, A. C., **Mammides, C.**, & Davidar, P. (2017). The effect of altitude, patch size and disturbance on species richness and density of lianas in montane forest patches. *Acta Oecologica, 83, 1-14*. [DOI](https://doi.org/10.1016/j.actao.2017.06.004)
+
+- Abeysinghe, K. S., Yang, X. D., Goodale, E., Anderson, C. W., Bishop, K., Cao, A., … & Qiu, G. (2017). Total mercury and methylmercury concentrations over a gradient of contamination in earthworms living in rice paddy soil. *Environmental Toxicology and Chemistry, 36 (5), 1202-1210*. [DOI](https://doi.org/10.1002/etc.3643)
+
+
+## 2016
+
+- **Mammides, C.**, Goodale, U. M., Corlett, R. T., Chen, J., Bawa, K. S., Hariya, H., … & Goodale, E. (2016). Increasing geographic diversity in the international conservation literature: A stalled process? *Biological Conservation, 198, 78-83*. [DOI](https://doi.org/10.1016/j.biocon.2016.03.030)
+
+- Dayananda, S. K., Goodale, E., Lee, M. B., Liu, J. J., **Mammides, C.**, Pasion, B. O., … & Yasuda, M. (2016). Effects of forest fragmentation on nocturnal Asian birds: A case study from Xishuangbanna, China. *Zoological Research, 37(3), 151*. [DOI](https://doi.org/10.13918/j.issn.2095-8137.2016.3.151)
+
+- **Mammides, C.**, Kounnamas, C., Goodale, E., & Kadis, C. (2016). Do unpaved, low-traffic roads affect bird communities? *Acta Oecologica, 71, 14-21*. [DOI](https://doi.org/10.1016/j.actao.2016.01.004)
+
+
+## 2015
+
+- **Mammides, C.**, Schleuning, M., Böhning-Gaese, K., Schaab, G., Farwig, N., Kadis, C., & Coulson, T. (2015). The indirect effects of habitat disturbance on the bird communities in a tropical African forest. *Biodiversity and Conservation, 24, 3083-3107*. [DOI](https://doi.org/10.1007/s10531-015-1001-x)
+
+- **Mammides, C.**, Chen, J., Goodale, U. M., Kotagama, S. W., Sidhu, S., & Goodale, E. (2015). Does mixed-species flocking influence how birds respond to a gradient of land-use intensity? *Proceedings of the Royal Society B: Biological Sciences, 282 (1811), 20151118*. [DOI](https://doi.org/10.1098/rspb.2015.1118)
+
+- Sreekar, R., Srinivasan, U., **Mammides, C.**, Chen, J., Manage Goodale, U., Wimalabandara Kotagama, S., … & Goodale, E. (2015). The effect of land-use on the diversity and mass-abundance relationships of understory avian insectivores in Sri Lanka and southern India. *Scientific Reports, 5 (1), 11569*. [DOI](https://doi.org/10.1038/srep11569)
+
+- **Mammides, C.**, Kadis, C., & Coulson, T. (2015). The effects of road networks and habitat heterogeneity on the species richness of birds in Natura 2000 sites in Cyprus. *Landscape Ecology, 30, 67-75*. [DOI](https://doi.org/10.1007/s10980-014-0100-5)
+
+
+## 2009
+
+- **Mammides, C.**, Cords, M., & Peters, M. K. (2009). Effects of habitat disturbance and food supply on population densities of three primate species in the Kakamega Forest, Kenya. *African Journal of Ecology, 47 (1), 87-96*. [DOI](https://doi.org/10.1111/j.1365-2028.2007.00921.x)
+
