@@ -70,7 +70,14 @@ I am a conservation scientist working at the interface of spatial ecology, stati
 
 ## Service
 
-Associate Editor for *Conservation Science and Practice*, *Ecological Solutions and Evidence*, *Biodiversity and Conservation* and *Integrative Conservation*. Member of the IUCN World Commission on Protected Areas (WCPA). Expert evaluator for the EU Horizon Europe Programme and reviewer for UNEP's Global Environment Outlook (GEO-7). [Full record in CV →](cv.qmd#academic-service)
+<div class="facts">
+<div class="row"><span class="label">Associate Editor</span><span class="val"><em>Conservation Science and Practice</em><br><em>Ecological Solutions and Evidence</em><br><em>Biodiversity and Conservation</em><br><em>Integrative Conservation</em></span></div>
+<div class="row"><span class="label">IUCN</span><span class="val">Member, World Commission on Protected Areas (WCPA)</span></div>
+<div class="row"><span class="label">Grant evaluation</span><span class="val">Expert evaluator, EU Horizon Europe Programme</span></div>
+<div class="row"><span class="label">Global assessments</span><span class="val">Reviewer, UNEP Global Environment Outlook (GEO-7)</span></div>
+</div>
+
+[Full service record in CV →](cv.qmd#academic-service)
 
 ## Contact
 

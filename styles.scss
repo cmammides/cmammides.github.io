@@ -67,6 +67,13 @@ h2 { margin-top: 2.2rem; padding-bottom: .3rem; border-bottom: 1px solid #e6e2d8
   .themes .desc { grid-column: 2; }
 }
 
+/* ---------- Key facts (service) ---------- */
+.facts { margin: .5rem 0 1rem; }
+.facts .row { display: grid; grid-template-columns: 11rem 1fr; gap: 1rem; padding: .7rem 0; border-bottom: 1px solid #d9d4c7; margin: 0; }
+.facts .label { font-family: $font-family-serif; font-weight: 600; color: $forest-dark; }
+.facts .val { color: #3d4b46; }
+@media (max-width: 600px) { .facts .row { grid-template-columns: 1fr; gap: .2rem; } }
+
 /* ---------- News ---------- */
 .news { list-style: none; padding-left: 0; }
 .news li { padding: .45rem 0; border-bottom: 1px dashed #e0dccf; }
