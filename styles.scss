@@ -87,3 +87,5 @@ h2 { margin-top: 2.2rem; padding-bottom: .3rem; border-bottom: 1px solid #e6e2d8
 .callout-box { background: $sand; border-radius: 12px; padding: 1rem 1.3rem; }
 
 @media (max-width: 720px) { .themes { grid-template-columns: 1fr; } }
+
+.cv-item > p { display: contents; }

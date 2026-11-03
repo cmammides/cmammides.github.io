@@ -60,28 +60,9 @@ title: "Curriculum Vitae"
 <span>**BSc, Biology (Emphasis in Ecology)**, San Diego State University, USA</span>
 :::
 
-## Grants
+## Grants and awards
 
-Total funding ≈ €860,000.
-
-- National Natural Science Foundation of China (2026). Research Fund for International Excellent Young Scientists (RFIS-II). NSFC 3261101766.
-- Yunnan Provincial Government (2025). High-End Foreign Experts Project, Yunnan Revitalization Talent Support Program.
-- European Commission (2023). PRO-COAST 101082327. HORIZON-CL6-2022-BIODIV-01-09, Horizon Europe.
-- European Commission (2022). BIOMON 101090273. ERA Fellowship (HORIZON-WIDERA-2022-TALENTS), Horizon Europe.
-- National Natural Science Foundation of China (2019). Young International Scientist Award. NSFC 31950410549.
-- National Natural Science Foundation of China (2019). Regional Science Project. NSFC 31960235.
-- Guangxi University (2016). Foreign Talent Start-up Fund.
-- Xishuangbanna Tropical Botanical Garden (2014). Postdoctoral Research Start-up Fund.
-- Research Promotion Foundation, Cyprus (2008). PENEK/SUPPORT/0308/42.
-
-## Awards and memberships
-
-- Young Scientist Award, “Wisdom Yunnan” Program, Yunnan Provincial Government (2025)
-- Marie Skłodowska-Curie Actions Alumni (2024 – )
-- Member, IUCN World Commission on Protected Areas (WCPA)
-- A.G. Leventis Foundation Scholarship (2008 – 2012)
-- Cyprus American Scholarship Program (CASP), Fulbright Commission (2004 – 2006)
-- Golden Key International Honour Society (2003)
+See the [Grants](grants.qmd) page.
 
 ## Academic service
 

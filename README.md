@@ -12,6 +12,7 @@ You can edit everything in the GitHub web interface. Open a file, click the penc
 | Research themes | `research.qmd` |
 | Publication list | `publications.qmd` (copy an existing entry and paste it under the right year) |
 | Projects | `projects.qmd` |
+| Grants and awards | `grants.qmd` |
 | CV | `cv.qmd` |
 | Menu, links, site description | `_quarto.yml` |
 | Colours and fonts | `styles.scss` |
