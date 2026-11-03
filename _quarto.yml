@@ -5,7 +5,7 @@ project:
 website:
   title: "Christos Mammides"
   description: "Conservation scientist and Professor at Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences. Protected area effectiveness, causal inference, spatial ecology and soundscape ecology."
-  site-url: "https://USERNAME.github.io"
+  site-url: "https://cmammides.github.io"
   favicon: images/favicon.svg
   open-graph: true
   navbar:
