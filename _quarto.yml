@@ -30,5 +30,7 @@ format:
       light: [cosmo, styles.scss]
     toc: false
     page-layout: article
+    grid:
+      body-width: 940px
     smooth-scroll: true
     link-external-newwindow: true

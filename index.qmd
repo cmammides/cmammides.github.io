@@ -8,7 +8,7 @@ body-classes: home
 <img class="portrait" src="https://cmammides.wordpress.com/wp-content/uploads/2023/04/cropped-profile-picture-4-1-1.jpeg" alt="Portrait of Christos Mammides">
 <div class="hero-text">
 <p class="name">Christos Mammides</p>
-<p class="role">Professor<br>Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences</p>
+<p class="role">Professor, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences</p>
 <p class="tagline">I evaluate the effectiveness of conservation interventions, combining remote sensing, causal inference and acoustic monitoring to quantify human impacts on biodiversity.</p>
 <div class="profiles">
 <a href="https://scholar.google.com/citations?user=kuDv6QoAAAAJ&hl=en"><i class="bi bi-mortarboard-fill"></i>Google Scholar</a>
