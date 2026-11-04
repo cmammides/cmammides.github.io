@@ -37,7 +37,7 @@ body-classes: home
 <a class="fs-link" href="https://doi.org/10.1007/s13280-020-01426-5">Ambio, 2021<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
-<p class="fs-theme">Human pressure</p>
+<p class="fs-theme">Protected areas</p>
 <h3>One-third of the world’s lakes are under considerable human pressure.</h3>
 <p>Between 1993 and 2009, pressure increased in 16% of lakes, with sizeable increases in tropical and subtropical regions. The share of lakes with increasing pressure was three times larger within Key Biodiversity Areas.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.gloenvcha.2020.102084">Global Environmental Change, 2020<i class="bi bi-box-arrow-up-right"></i></a>
