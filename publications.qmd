@@ -4,8 +4,8 @@ title: "Publications"
 
 <!-- Summary line: update the numbers occasionally from Google Scholar. -->
 ```{=html}
-<p class="pub-lead">More than 70 peer-reviewed papers, cited nearly 2,200 times (h-index 26), in journals including Global Environmental Change, Current Biology, Conservation Biology, Proceedings of the Royal Society B and Ecological Indicators.
-<a class="scholar-icon" href="https://scholar.google.com/citations?user=kuDv6QoAAAAJ&hl=en" title="Google Scholar profile" aria-label="Google Scholar profile"><i class="bi bi-mortarboard-fill"></i></a></p>
+<p class="pub-lead">More than 70 peer-reviewed papers, cited nearly 2,200 times (h-index 26), in journals including Global Environmental Change, Current Biology, Conservation Biology, Proceedings of the Royal Society B and Ecological Indicators.</p>
+<div class="profiles pub-profiles"><a href="https://scholar.google.com/citations?user=kuDv6QoAAAAJ&hl=en"><i class="bi bi-mortarboard-fill"></i>Google Scholar</a></div>
 ```
 
 <!-- To add a paper: copy an entry below, paste it under the right year, and edit it. The title is the link: [Title.<icon>](https://doi.org/...). ** marks bold, * marks italics. -->

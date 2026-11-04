@@ -114,7 +114,9 @@ a.pub-link:hover { color: $forest; text-decoration: underline; text-underline-of
 a.pub-link i { font-size: .72em; margin-left: .3em; color: $forest; vertical-align: .08em; }
 
 /* Publications summary line */
-.pub-lead { font-family: $font-family-serif; font-size: 1.3rem; line-height: 1.5; color: $forest-dark; margin: 1.2rem 0 1.8rem; max-width: 46rem; }
+.pub-lead { font-family: $font-family-serif; font-size: 1.3rem; line-height: 1.5; color: $forest-dark; margin: 1.2rem 0 .8rem; max-width: 46rem; }
+.pub-profiles { margin-bottom: 1.8rem; }
+@media (max-width: 720px) { .pub-profiles { justify-content: flex-start; } }
 .pub-lead .scholar-icon { margin-left: .35rem; text-decoration: none; color: $forest; }
 .pub-lead .scholar-icon i { font-size: 1.3rem; vertical-align: -.1em; }
 .pub-lead .scholar-icon:hover { color: $forest-dark; }
