@@ -22,7 +22,7 @@ website:
       - href: grants.qmd
         text: Grants
       - href: cv.qmd
-        text: CV
+        text: Curriculum vitae
   page-footer:
     left: "© Christos Mammides"
     right: "Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences"

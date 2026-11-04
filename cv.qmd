@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae"
+title: "Curriculum vitae"
 ---
 
 <!-- Optional: put a PDF of your CV in the files/ folder and uncomment the next line.
