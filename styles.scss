@@ -27,10 +27,11 @@ h1.title, .quarto-title h1 { font-size: 2.2rem; }
 h2 { margin-top: 2.2rem; padding-bottom: .3rem; border-bottom: 1px solid #e6e2d8; }
 
 /* ---------- Home hero ---------- */
-.hero { display: flex; gap: 2rem; align-items: center; margin: 2rem 0 0; }
+.hero { display: flex; gap: 2rem; align-items: center; margin: 2rem 0 2.5rem; }
 .hero img.portrait { width: 150px; height: 150px; flex: 0 0 150px; object-fit: cover; border-radius: 50%; }
 .hero .name { font-family: $font-family-serif; font-size: 2.3rem; font-weight: 600; line-height: 1.15; margin: 0 0 .35rem; color: $forest-dark; }
-.hero .role { color: #5b6b65; font-size: 1rem; line-height: 1.5; margin: 0 0 .9rem; }
+.hero .role { color: #5b6b65; font-size: 1rem; line-height: 1.5; margin: 0 0 1rem; }
+.hero .tagline { font-family: $font-family-serif; font-size: 1.35rem; line-height: 1.45; color: $forest-dark; margin: 0 0 1.1rem; }
 .profiles { display: flex; flex-wrap: wrap; gap: .5rem 1.4rem; }
 .profiles a { display: inline-flex; align-items: center; gap: .45rem; font-size: 1rem; font-weight: 500; text-decoration: none; color: $forest; }
 .profiles a i { font-size: 1.45rem; line-height: 1; }
