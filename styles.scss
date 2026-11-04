@@ -128,3 +128,12 @@ a.pub-link i { font-size: .72em; margin-left: .3em; color: $forest; vertical-ali
 .rgrants { display: grid; grid-template-columns: 1fr 1fr; column-gap: 2.5rem; row-gap: 1.2rem; margin: 1rem 0 1.4rem; }
 .rg .rg-year { display: block; font-size: .85rem; font-weight: 600; letter-spacing: .08em; color: #6b7a74; margin-bottom: .25rem; }
 @media (max-width: 720px) { .rgrants { grid-template-columns: 1fr; } }
+
+/* "See more" buttons under homepage sections */
+.more-btn {
+  display: inline-block; margin: .2rem 0 1rem; padding: .5rem 1.2rem;
+  border: 1px solid $forest; border-radius: 6px;
+  font-size: .95rem; font-weight: 500; color: $forest; text-decoration: none;
+}
+.more-btn:hover { background: $forest; color: #fff; }
+@media (max-width: 720px) { .more-btn { display: block; text-align: center; } }
