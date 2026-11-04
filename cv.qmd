@@ -62,31 +62,34 @@ title: "Curriculum Vitae"
 
 ## Academic service
 
-### Editorial roles
+### Associate Editor
 
 ::: {.cv-item}
 <span class="when">2025 – present</span>
-<span>**Associate Editor**, Integrative Conservation, Xishuangbanna Tropical Botanical Garden and Wiley</span>
+<span>**Integrative Conservation**, Xishuangbanna Tropical Botanical Garden and Wiley</span>
 :::
 ::: {.cv-item}
 <span class="when">2025 – present</span>
-<span>**Associate Editor**, Biodiversity and Conservation, Springer Nature</span>
+<span>**Biodiversity and Conservation**, Springer Nature</span>
 :::
 ::: {.cv-item}
 <span class="when">2023 – present</span>
-<span>**Associate Editor**, Conservation Science and Practice, Society for Conservation Biology</span>
+<span>**Conservation Science and Practice**, Society for Conservation Biology</span>
 :::
 ::: {.cv-item}
 <span class="when">2023 – present</span>
-<span>**Associate Editor**, Ecological Solutions and Evidence, British Ecological Society</span>
+<span>**Ecological Solutions and Evidence**, British Ecological Society</span>
 :::
 ::: {.cv-item}
 <span class="when">2021 – 2024</span>
-<span>**Associate Editor**, Frontiers in Conservation Science, Global Threats section</span>
+<span>**Frontiers in Conservation Science**, Global Threats section</span>
 :::
+
+### Research Topic Editor
+
 ::: {.cv-item}
 <span class="when">2022</span>
-<span>**Research Topic Editor**, Frontiers in Forests and Global Change: [Global Patterns and Drivers of Forest Loss and Degradation Within Protected Areas](https://www.frontiersin.org/research-topics/20400/global-patterns-and-drivers-of-forest-loss-and-degradation-within-protected-areas) (more than 135,000 views and downloads)</span>
+<span>**Frontiers in Forests and Global Change**, [Global Patterns and Drivers of Forest Loss and Degradation Within Protected Areas](https://www.frontiersin.org/research-topics/20400/global-patterns-and-drivers-of-forest-loss-and-degradation-within-protected-areas) (more than 135,000 views and downloads)</span>
 :::
 
 ### Expert evaluation
