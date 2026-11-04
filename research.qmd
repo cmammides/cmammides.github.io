@@ -1,9 +1,9 @@
 ---
 title: "Research"
-subtitle: "Measuring human impact on biodiversity, and whether conservation reduces it"
+subtitle: "Human impacts on biodiversity and the effectiveness of conservation measures"
 ---
 
-My work combines spatial and statistical tools to study how people affect biodiversity, and to provide evidence for conservation decisions. Much of it relies on large, openly available datasets (satellite imagery, global maps of human pressure, biodiversity records), analysed with methods designed to separate cause from correlation.
+My research examines how human activities affect biodiversity and how effectively conservation measures mitigate these impacts, combining large-scale spatial data with quasi-experimental and statistical methods. I also develop and evaluate acoustic and computational approaches for biodiversity monitoring.
 
 ```{=html}
 <img class="research-photo" src="images/research.jpg" alt="Asian elephants feeding in dense vegetation">
