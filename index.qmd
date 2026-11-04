@@ -56,29 +56,6 @@ body-classes: home
 
 [All publications →](publications.qmd)
 
-## Research themes
-
-<div class="themes">
-<a class="theme" href="research.html#protected-area-effectiveness">
-<span class="name">Protected area effectiveness</span>
-<span class="desc">Whether protected areas actually slow forest loss, settlement and land conversion, judged against comparable unprotected land rather than assumed.</span>
-</a>
-<a class="theme" href="research.html#human-pressure-on-biodiversity">
-<span class="name">Human pressure on biodiversity</span>
-<span class="desc">Where pressure on lakes, wilderness, farmland and rivers is growing, and whether satellite metrics pick up the threats that matter on the ground.</span>
-</a>
-<a class="theme" href="research.html#soundscape-ecology">
-<span class="name">Soundscape ecology</span>
-<span class="desc">Monitoring birds from sound recordings, and working out when acoustic indices can be trusted.</span>
-</a>
-<a class="theme" href="research.html#ai-and-computational-methods-in-ecology">
-<span class="name">AI in ecology</span>
-<span class="desc">What language models and machine learning are genuinely useful for in ecological research, and where they fall short.</span>
-</a>
-</div>
-
-[More about my research →](research.qmd)
-
 ## Academic service
 
 ```{=html}

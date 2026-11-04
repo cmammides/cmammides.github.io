@@ -59,20 +59,6 @@ h2 { margin-top: 2.2rem; padding-bottom: .3rem; border-bottom: 1px solid #e6e2d8
 .study a { font-weight: 500; }
 @media (max-width: 720px) { .study { grid-template-columns: 1fr; gap: 1rem; } }
 
-/* ---------- Research themes ---------- */
-.themes { margin: .5rem 0 1.5rem; }
-.themes a.theme {
-  display: grid; grid-template-columns: 15rem 1fr; gap: 1rem;
-  padding: 1rem 0; border-bottom: 1px solid #d9d4c7;
-  color: inherit; text-decoration: none;
-}
-.themes .name { font-family: $font-family-serif; font-size: 1.15rem; font-weight: 600; color: $forest-dark; }
-.themes .desc { color: #4a5852; font-size: .98rem; }
-.themes a.theme:hover .name { color: $forest; text-decoration: underline; text-underline-offset: 3px; }
-@media (max-width: 720px) {
-  .themes a.theme { grid-template-columns: 1fr; gap: .3rem; }
-}
-
 /* ---------- Academic service ---------- */
 .svc { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin: 1rem 0 1rem; }
 .svc .svc-head { font-family: $font-family-sans-serif; font-size: .8rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: #6b7a74; margin: 0 0 .6rem; padding-bottom: .4rem; border-bottom: 1px solid #d9d4c7; }
