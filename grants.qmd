@@ -17,6 +17,14 @@ Total funding ≈ €860,000.
 <span>**High-End Foreign Experts Project**<br>Yunnan Revitalization Talent Support Program, Yunnan Provincial Government</span>
 :::
 ::: {.cv-item}
+<span class="when">2025</span>
+<span>**Yunnan Fundamental Research Project**<br>Yunnan Provincial Government, 202601CF070114</span>
+:::
+::: {.cv-item}
+<span class="when">2025</span>
+<span>**Young Scientist Award**<br>“Wisdom Yunnan” Program, Yunnan Provincial Government</span>
+:::
+::: {.cv-item}
 <span class="when">2023</span>
 <span>**PRO-COAST: A proactive approach for communities to enable societal transformation**<br>European Commission, Horizon Europe (HORIZON-CL6-2022-BIODIV-01-09), [101082327](https://cordis.europa.eu/project/id/101082327)</span>
 :::
@@ -47,10 +55,6 @@ Total funding ≈ €860,000.
 
 ## Awards and memberships
 
-::: {.cv-item}
-<span class="when">2025</span>
-<span>**Young Scientist Award**, “Wisdom Yunnan” Program, Yunnan Provincial Government</span>
-:::
 ::: {.cv-item}
 <span class="when">2024 –</span>
 <span>**Marie Skłodowska-Curie Actions Alumni**</span>
