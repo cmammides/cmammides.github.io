@@ -16,8 +16,6 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
-      - href: projects.qmd
-        text: Projects
       - href: grants.qmd
         text: Grants
       - href: cv.qmd
