@@ -65,10 +65,10 @@ h2 { margin-top: 2.2rem; padding-bottom: .3rem; border-bottom: 1px solid #e6e2d8
 .svc { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin: 1rem 0 1rem; }
 .svc .svc-head { font-family: $font-family-sans-serif; font-size: .85rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: #6b7a74; margin: 0 0 .8rem; }
 .svc ul { list-style: none; padding: 0; margin: 0; }
-.svc li { margin: 0 0 .75rem; line-height: 1.35; }
-.svc-main { display: block; color: $forest-dark; font-weight: 500; font-size: 1rem; }
+.svc li { margin: 0 0 .9rem; line-height: 1.45; }
+.svc-main { display: block; color: $forest-dark; font-weight: 500; font-size: 1.05rem; }
 .svc-main a { color: inherit; text-decoration: none; border-bottom: 1px solid rgba(31,95,74,.35); }
-.svc-sub { display: block; color: #6b7a74; font-size: .95rem; margin-top: .1rem; }
+.svc-sub { display: block; color: #5b6b65; font-size: 1rem; margin-top: .1rem; }
 @media (max-width: 760px) { .svc { grid-template-columns: 1fr; gap: 1.2rem; } }
 
 /* ---------- Publications ---------- */
