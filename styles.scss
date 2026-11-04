@@ -156,3 +156,13 @@ h2.head-row .head-link { margin-left: auto; order: 99; }
 
 /* Page subtitles in the same font and weight as body text */
 .quarto-title p.subtitle { font-family: $font-family-sans-serif; font-weight: 400; font-size: 1.15rem; line-height: 1.5; color: #4a5852; margin-top: .4rem; }
+
+/* Publication entries: title, journal, authors */
+.pub { margin: 0 0 1.5rem; }
+.pub > p { margin: 0; }
+.pub .pub-title { display: block; font-weight: 600; font-size: 1.08rem; line-height: 1.4; color: $forest-dark; text-decoration: none; margin-bottom: .25rem; }
+.pub .pub-title:hover { color: $forest; text-decoration: underline; text-underline-offset: 3px; }
+.pub .pub-title i { font-size: .72em; margin-left: .35em; color: $forest; }
+.pub .pub-journal { display: block; font-size: 1rem; color: #22302b; font-weight: 500; }
+.pub .pub-authors { display: block; font-size: .95rem; color: #6b7a74; line-height: 1.5; margin-top: .1rem; }
+.pub .pub-authors strong { color: #22302b; }
