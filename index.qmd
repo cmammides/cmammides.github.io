@@ -84,20 +84,20 @@ body-classes: home
 ```{=html}
 <div class="svc">
 <h3 class="svc-head">Editorial roles</h3>
-<div class="svc-item"><div><div class="svc-main">Associate Editor, <em>Conservation Science and Practice</em></div><div class="svc-sub">Society for Conservation Biology</div></div><div class="svc-when">2023 – present</div></div>
-<div class="svc-item"><div><div class="svc-main">Associate Editor, <em>Ecological Solutions and Evidence</em></div><div class="svc-sub">British Ecological Society</div></div><div class="svc-when">2023 – present</div></div>
-<div class="svc-item"><div><div class="svc-main">Associate Editor, <em>Biodiversity and Conservation</em></div><div class="svc-sub">Springer Nature</div></div><div class="svc-when">2025 – present</div></div>
-<div class="svc-item"><div><div class="svc-main">Associate Editor, <em>Integrative Conservation</em></div><div class="svc-sub">Xishuangbanna Tropical Botanical Garden and Wiley</div></div><div class="svc-when">2025 – present</div></div>
-<div class="svc-item"><div><div class="svc-main">Associate Editor, <em>Frontiers in Conservation Science</em></div><div class="svc-sub">Global Threats section</div></div><div class="svc-when">2021 – 2024</div></div>
-<div class="svc-item"><div><div class="svc-main">Research Topic Editor, <em>Frontiers in Forests and Global Change</em></div><div class="svc-sub"><a href="https://www.frontiersin.org/research-topics/20400/global-patterns-and-drivers-of-forest-loss-and-degradation-within-protected-areas">Global Patterns and Drivers of Forest Loss and Degradation Within Protected Areas</a>, more than 135,000 views and downloads</div></div><div class="svc-when"></div></div>
+<div class="svc-item"><div><div class="svc-main">Associate Editor, Conservation Science and Practice</div><div class="svc-sub">Society for Conservation Biology</div></div></div>
+<div class="svc-item"><div><div class="svc-main">Associate Editor, Ecological Solutions and Evidence</div><div class="svc-sub">British Ecological Society</div></div></div>
+<div class="svc-item"><div><div class="svc-main">Associate Editor, Biodiversity and Conservation</div><div class="svc-sub">Springer Nature</div></div></div>
+<div class="svc-item"><div><div class="svc-main">Associate Editor, Integrative Conservation</div><div class="svc-sub">Xishuangbanna Tropical Botanical Garden and Wiley</div></div></div>
 <h3 class="svc-head">Expert evaluation</h3>
-<div class="svc-item"><div><div class="svc-main">Expert evaluator, EU Horizon Europe Programme</div><div class="svc-sub">Marie Skłodowska-Curie Postdoctoral Fellowships, Twinning and Cluster 6 proposals</div></div><div class="svc-when"></div></div>
-<div class="svc-item"><div><div class="svc-main">Reviewer, UNEP Global Environment Outlook (GEO-7)</div><div class="svc-sub">Chapters of the seventh Global Environment Outlook assessment</div></div><div class="svc-when"></div></div>
-<div class="svc-item"><div><div class="svc-main">Reviewer, Smith Fellows Program</div><div class="svc-sub">Society for Conservation Biology</div></div><div class="svc-when"></div></div>
-<div class="svc-item"><div><div class="svc-main">Peer reviewer, more than 140 manuscripts</div><div class="svc-sub">Including <em>Nature Communications</em>, <em>One Earth</em>, <em>Ecology Letters</em>, <em>PLOS Biology</em> and <em>Conservation Biology</em></div></div><div class="svc-when"></div></div>
+<div class="svc-item"><div><div class="svc-main">Expert evaluator, EU Horizon Europe Programme</div><div class="svc-sub">Marie Skłodowska-Curie Postdoctoral Fellowships, Twinning and Cluster 6 proposals</div></div></div>
+<div class="svc-item"><div><div class="svc-main">Reviewer, UNEP Global Environment Outlook (GEO-7)</div><div class="svc-sub">Chapters of the seventh Global Environment Outlook assessment</div></div></div>
+<div class="svc-item"><div><div class="svc-main">Reviewer, Smith Fellows Program</div><div class="svc-sub">Society for Conservation Biology</div></div></div>
+<div class="svc-item"><div><div class="svc-main">Peer reviewer, more than 140 manuscripts</div><div class="svc-sub">Including Nature Communications, One Earth, Ecology Letters, PLOS Biology and Conservation Biology</div></div></div>
 <h3 class="svc-head">Memberships</h3>
-<div class="svc-item"><div><div class="svc-main">IUCN World Commission on Protected Areas (WCPA)</div><div class="svc-sub">Member</div></div><div class="svc-when"></div></div>
-<div class="svc-item"><div><div class="svc-main">Marie Skłodowska-Curie Actions Alumni</div><div class="svc-sub">Member</div></div><div class="svc-when">2024 – present</div></div>
+<div class="svc-item"><div><div class="svc-main">IUCN World Commission on Protected Areas (WCPA)</div><div class="svc-sub">Member</div></div></div>
+<div class="svc-item"><div><div class="svc-main"><a href="https://www.glp.earth/people/christos-mammides">Global Land Programme (GLP)</a></div><div class="svc-sub">Member, global research network of Future Earth</div></div></div>
+<div class="svc-item"><div><div class="svc-main"><a href="https://scb-impact.org/">Impact Evaluation Working Group</a></div><div class="svc-sub">Member, Society for Conservation Biology</div></div></div>
+<div class="svc-item"><div><div class="svc-main">Marie Skłodowska-Curie Actions Alumni</div><div class="svc-sub">Member</div></div></div>
 </div>
 ```
 
