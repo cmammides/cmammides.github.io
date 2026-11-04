@@ -44,7 +44,7 @@ body-classes: home
 <a class="fs-link" href="https://doi.org/10.1016/j.biocon.2024.110556">Biological Conservation, 2024<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
-<a class="more-btn" href="publications.html">All publications</a>
+<a class="more-btn" href="publications.html">Publications</a>
 ```
 
 ## Recent grants
@@ -54,7 +54,7 @@ body-classes: home
 <div class="rg"><span class="rg-year">2026</span><span class="svc-main">Research Fund for International Excellent Young Scientists (RFIS-II)</span><span class="svc-sub">National Natural Science Foundation of China</span></div>
 <div class="rg"><span class="rg-year">2025</span><span class="svc-main">High-End Foreign Experts Project</span><span class="svc-sub">Yunnan Revitalization Talent Support Program, Yunnan Provincial Government</span></div>
 </div>
-<a class="more-btn" href="grants.html">All grants and awards</a>
+<a class="more-btn" href="grants.html">Grants and awards</a>
 ```
 
 ## Academic service
@@ -80,7 +80,7 @@ body-classes: home
 <li><span class="svc-main"><a href="https://www.mariecuriealumni.eu/">Marie Skłodowska-Curie Actions Alumni</a></span></li>
 </ul></div>
 </div>
-<a class="more-btn" href="cv.html#academic-service">Full CV</a>
+<a class="more-btn" href="cv.html#academic-service">Curriculum vitae</a>
 ```
 
 ## Contact
