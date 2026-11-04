@@ -19,45 +19,29 @@ body-classes: home
 </div>
 ```
 
-## Featured studies
+## Recent studies
 
 ```{=html}
 <div class="fstudies">
 <article class="fs">
-<p class="fs-theme">Protected areas</p>
-<h3>Land artificialisation is lower inside Natura 2000 sites, but it has not been halted.</h3>
-<p>Impervious surfaces, and their rates of change, were lower within Natura 2000 sites for all habitats examined. Coastal habitats, grasslands and agricultural habitats, however, had higher levels of artificial surfaces, even within the sites.</p>
-<a class="fs-link" href="https://doi.org/10.1016/j.biocon.2024.110556">Biological Conservation, 2024<i class="bi bi-box-arrow-up-right"></i></a>
-</article>
-<article class="fs">
-<p class="fs-theme">Protected areas</p>
-<h3>Strictly protected areas are not necessarily more effective than multiple-use areas.</h3>
-<p>Analysing more than 19,000 terrestrial protected areas worldwide, we found that the differences between strictly protected areas and areas in which multiple human uses are permitted are often small and not statistically significant.</p>
-<a class="fs-link" href="https://doi.org/10.1007/s13280-020-01426-5">Ambio, 2021<i class="bi bi-box-arrow-up-right"></i></a>
-</article>
-<article class="fs">
-<p class="fs-theme">Protected areas</p>
-<h3>One-third of the world’s lakes are under considerable human pressure.</h3>
-<p>Between 1993 and 2009, pressure increased in 16% of lakes, with sizeable increases in tropical and subtropical regions. The share of lakes with increasing pressure was three times larger within Key Biodiversity Areas.</p>
-<a class="fs-link" href="https://doi.org/10.1016/j.gloenvcha.2020.102084">Global Environmental Change, 2020<i class="bi bi-box-arrow-up-right"></i></a>
-</article>
-<article class="fs">
-<p class="fs-theme">Soundscape ecology</p>
-<h3>Acoustic indices may not yet be effective for accurately monitoring bird species richness.</h3>
-<p>Evaluating sixty acoustic indices at 114 sites in Cyprus, China and Australia, we found that their effectiveness varied considerably across study areas, and none of the indices was useful in all three.</p>
-<a class="fs-link" href="https://doi.org/10.1016/j.ecolind.2025.113105">Ecological Indicators, 2025<i class="bi bi-box-arrow-up-right"></i></a>
-</article>
-<article class="fs">
-<p class="fs-theme">AI in ecology</p>
 <h3>Large language models have potentially transformative implications for ecology and conservation science.</h3>
-<p>We synthesise emerging applications, from analysing unstructured texts to enhancing biodiversity monitoring and generating policy-relevant insights, together with the technical and ethical challenges they raise.</p>
+<p>We synthesised emerging applications of large language models, described the associated challenges, and outlined potential ways to address them.</p>
 <a class="fs-link" href="https://doi.org/10.1111/cobi.70287">Conservation Biology, 2026<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
-<p class="fs-theme">Conservation and society</p>
 <h3>Media coverage of biodiversity falls short compared to climate change and popular culture.</h3>
-<p>Analysing 227,940 media stories worldwide, we found that the climate summit COP27 received nearly seven times more coverage than the biodiversity summit COP15, which was also overshadowed by Taylor Swift.</p>
+<p>We showed that COP15, the summit at which the Kunming-Montreal Global Biodiversity Framework was adopted, received far less media attention than the climate summit held a month earlier.</p>
 <a class="fs-link" href="https://doi.org/10.1038/s44185-025-00082-w">npj Biodiversity, 2025<i class="bi bi-box-arrow-up-right"></i></a>
+</article>
+<article class="fs">
+<h3>Acoustic indices may not yet be effective for accurately monitoring bird species richness.</h3>
+<p>We analysed 60 acoustic indices across 114 sites in Cyprus, China and Australia and found that accurately monitoring bird species richness with them remained challenging.</p>
+<a class="fs-link" href="https://doi.org/10.1016/j.ecolind.2025.113105">Ecological Indicators, 2025<i class="bi bi-box-arrow-up-right"></i></a>
+</article>
+<article class="fs">
+<h3>Land artificialisation is lower inside Natura 2000 sites, but it has not been halted.</h3>
+<p>Impervious surfaces were lower within Natura 2000 sites for all habitats examined, yet coastal, grassland and agricultural habitats remained affected, even within protected sites.</p>
+<a class="fs-link" href="https://doi.org/10.1016/j.biocon.2024.110556">Biological Conservation, 2024<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
 ```
