@@ -63,7 +63,7 @@ body-classes: home
 <li><span class="svc-main">Conservation Science and Practice</span><span class="svc-sub">Society for Conservation Biology</span></li>
 <li><span class="svc-main">Ecological Solutions and Evidence</span><span class="svc-sub">British Ecological Society</span></li>
 <li><span class="svc-main">Biodiversity and Conservation</span><span class="svc-sub">Springer Nature</span></li>
-<li><span class="svc-main">Integrative Conservation</span><span class="svc-sub">XTBG and Wiley</span></li>
+<li><span class="svc-main">Integrative Conservation</span><span class="svc-sub">Xishuangbanna Tropical Botanical Garden</span></li>
 </ul></div>
 <div class="svc-col"><h3 class="svc-head">Expert evaluation</h3><ul>
 <li><span class="svc-main">EU Horizon Europe Programme</span><span class="svc-sub">MSCA Postdoctoral Fellowships, Twinning, Cluster 6</span></li>
