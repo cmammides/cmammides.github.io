@@ -44,12 +44,6 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ## 2026
 
-::: {.pub topics="pam"}
-[WABAD: A world annotated bird acoustic dataset for passive acoustic monitoring<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1002/ecy.70317){.pub-title}
-[*Ecology, 107(2), e70317*, 2026]{.pub-journal}
-[Pérez‐Granados, C., Morant, J., Darras, K. F., Marín‐Gómez, O. H., Mendoza, I., Muñoz‐Mohedano, M. A., … **Mammides, C.**, … & Sebastián‐González, E.]{.pub-authors}
-:::
-
 ::: {.pub topics=""}
 [Beyond conflict in “overabundant” species management: Wild boar abundance is associated with increased crop damage, but also higher vertebrate richness and co-occurrence network stability<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1016/j.biocon.2026.112123){.pub-title}
 [*Biological Conservation, 323, 112123*, 2026]{.pub-journal}
@@ -90,6 +84,12 @@ document.addEventListener('DOMContentLoaded',function(){
 [Riparian zones across the European Union face continued threats from agriculture and urbanization, although pressures are lower within protected Natura 2000 sites<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1016/j.biocon.2026.111856){.pub-title}
 [*Biological Conservation, 318, 111856*, 2026]{.pub-journal}
 [Pontikis, M., Sfenthourakis, S., & **Mammides, C.**]{.pub-authors}
+:::
+
+::: {.pub topics="pam"}
+[WABAD: A world annotated bird acoustic dataset for passive acoustic monitoring<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1002/ecy.70317){.pub-title}
+[*Ecology, 107(2), e70317*, 2026]{.pub-journal}
+[Pérez‐Granados, C., Morant, J., Darras, K. F., Marín‐Gómez, O. H., Mendoza, I., Muñoz‐Mohedano, M. A., … **Mammides, C.**, … & Sebastián‐González, E.]{.pub-authors}
 :::
 
 ## 2025
