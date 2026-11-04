@@ -44,16 +44,6 @@ I am a conservation scientist working at the interface of spatial ecology, stati
 
 [More about my research →](research.qmd)
 
-## News
-
-<ul class="news">
-<li><span class="date">2026</span> Promoted to Professor at Xishuangbanna Tropical Botanical Garden, CAS.</li>
-<li><span class="date">2026</span> Awarded the NSFC Research Fund for International Excellent Young Scientists (RFIS-II).</li>
-<li><span class="date">2026</span> New paper in <em>Conservation Biology</em> on <a href="https://doi.org/10.1111/cobi.70287">applications of large language models in ecology and conservation</a>.</li>
-<li><span class="date">2025</span> Joined the editorial boards of <em>Biodiversity and Conservation</em> and <em>Integrative Conservation</em> as Associate Editor.</li>
-<li><span class="date">2025</span> Received the Young Scientist Award, “Wisdom Yunnan” Program.</li>
-</ul>
-
 ## Selected publications
 
 - **Mammides, C.**, & Campos-Arceiz, A. (2025). Media coverage of biodiversity falls short compared to climate change and popular culture. *npj Biodiversity*. [DOI](https://doi.org/10.1038/s44185-025-00082-w)

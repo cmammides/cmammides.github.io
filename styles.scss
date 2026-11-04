@@ -72,11 +72,6 @@ h2 { margin-top: 2.2rem; padding-bottom: .3rem; border-bottom: 1px solid #e6e2d8
 .facts .val { color: #3d4b46; }
 @media (max-width: 600px) { .facts .row { grid-template-columns: 1fr; gap: .2rem; } }
 
-/* ---------- News ---------- */
-.news { list-style: none; padding-left: 0; }
-.news li { padding: .45rem 0; border-bottom: 1px dashed #e0dccf; }
-.news .date { display: inline-block; min-width: 5.5rem; font-weight: 600; color: $forest; }
-
 /* ---------- Publications ---------- */
 .pubs ol, ol.pubs { padding-left: 0; list-style: none; }
 .pub { margin-bottom: 1rem; }
