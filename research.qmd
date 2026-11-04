@@ -5,7 +5,9 @@ subtitle: "Measuring human impact on biodiversity, and whether conservation redu
 
 My work combines spatial and statistical tools to study how people affect biodiversity, and to provide evidence for conservation decisions. Much of it relies on large, openly available datasets (satellite imagery, global maps of human pressure, biodiversity records), analysed with methods designed to separate cause from correlation.
 
-![Fieldwork photo](https://cmammides.wordpress.com/wp-content/uploads/2023/04/dsc_1494-1.jpeg?w=1024){fig-alt="Wildlife photographed during fieldwork" width="100%"}
+```{=html}
+<img class="research-photo" src="images/research.jpg" alt="Asian elephants feeding in dense vegetation">
+```
 
 ## Protected areas and human pressure
 

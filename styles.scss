@@ -121,3 +121,5 @@ a.pub-link i { font-size: .72em; margin-left: .3em; color: $forest; vertical-ali
 .rstudies .fs h3 { font-size: 1.05rem; line-height: 1.35; }
 .rstudies .fs p { font-size: .9rem; }
 @media (max-width: 900px) { .rstudies { grid-template-columns: 1fr; } }
+
+.research-photo { width: 100%; height: auto; border-radius: 6px; margin: .6rem 0 1.2rem; }

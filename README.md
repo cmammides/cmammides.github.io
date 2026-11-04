@@ -19,7 +19,7 @@ You can edit everything in the GitHub web interface. Open a file, click the penc
 ## Photos
 
 To add a photo, upload it to the `images/` folder (**Add file → Upload files**), then reference it, e.g. `images/portrait.jpg`.
-The homepage portrait is `images/portrait.jpg`. The photo on the Research page is still loaded from the old WordPress site: upload it to `images/` and update the link in `research.qmd` before you delete that site.
+The homepage portrait is `images/portrait.jpg` and the Research page photo is `images/research.jpg`. To swap either one, upload a new file with the same name.
 
 ## Previewing locally (optional)
 
