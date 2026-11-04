@@ -153,3 +153,6 @@ h2.head-row .head-link { margin-left: auto; order: 99; }
 .head-link:hover { text-decoration: underline; text-underline-offset: 3px; }
 @media (min-width: 721px) { .more-btn { display: none; } }
 @media (max-width: 720px) { .head-link { display: none; } }
+
+/* Page subtitles in the same green serif as the homepage statement */
+.quarto-title p.subtitle { font-family: $font-family-serif; font-weight: 400; font-size: 1.3rem; line-height: 1.45; color: $forest-dark; margin-top: .4rem; }
