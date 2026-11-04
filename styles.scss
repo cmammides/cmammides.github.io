@@ -154,5 +154,5 @@ h2.head-row .head-link { margin-left: auto; order: 99; }
 @media (min-width: 721px) { .more-btn { display: none; } }
 @media (max-width: 720px) { .head-link { display: none; } }
 
-/* Page subtitles in the same green serif as the homepage statement */
-.quarto-title p.subtitle { font-family: $font-family-serif; font-weight: 400; font-size: 1.3rem; line-height: 1.45; color: $forest-dark; margin-top: .4rem; }
+/* Page subtitles in the same font and weight as body text */
+.quarto-title p.subtitle { font-family: $font-family-sans-serif; font-weight: 400; font-size: 1.15rem; line-height: 1.5; color: #4a5852; margin-top: .4rem; }
