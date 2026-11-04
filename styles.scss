@@ -51,7 +51,7 @@ h2 { margin-top: 2.2rem; padding-bottom: .3rem; border-bottom: 1px solid #e6e2d8
 }
 
 /* ---------- Featured studies ---------- */
-.fstudies { display: grid; grid-template-columns: repeat(3, 1fr); column-gap: 2rem; margin: .4rem 0 1.2rem; }
+.fstudies { display: grid; grid-template-columns: repeat(2, 1fr); column-gap: 3rem; margin: .4rem 0 1.2rem; }
 .fs { padding: 1.1rem 0 1.6rem; }
 .fs .fs-theme { font-size: .85rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: #6b7a74; margin: 0 0 .45rem; }
 .fs h3 { font-family: $font-family-serif; font-size: 1.25rem; line-height: 1.32; margin: 0 0 .55rem; color: $forest-dark; }
@@ -125,7 +125,7 @@ a.pub-link i { font-size: .72em; margin-left: .3em; color: $forest; vertical-ali
 .research-photo { width: 100%; height: auto; border-radius: 6px; margin: .6rem 0 1.2rem; }
 
 /* Homepage recent grants */
-.rgrants { display: grid; grid-template-columns: repeat(3, 1fr); column-gap: 2rem; row-gap: 1.2rem; margin: 1rem 0 1.4rem; }
+.rgrants { display: grid; grid-template-columns: repeat(2, 1fr); column-gap: 3rem; row-gap: 1.2rem; margin: 1rem 0 1.4rem; }
 .rg .rg-year { display: block; font-size: .85rem; font-weight: 600; letter-spacing: .08em; color: #6b7a74; margin-bottom: .25rem; }
 @media (max-width: 720px) { .rgrants { grid-template-columns: 1fr; } }
 
@@ -179,7 +179,7 @@ h2.head-row .head-link { margin-left: auto; order: 99; }
 body.pub-filtered section.level2 { margin: 0; }
 
 /* Homepage: In the media */
-.media { display: grid; grid-template-columns: repeat(3, 1fr); column-gap: 2rem; row-gap: 1.3rem; margin: 1rem 0 2.6rem; }
+.media { display: grid; grid-template-columns: repeat(2, 1fr); column-gap: 3rem; row-gap: 1.3rem; margin: 1rem 0 2.6rem; }
 .media-item { display: block; text-decoration: none; }
 .media-item .media-title { display: block; font-weight: 500; font-size: 1.05rem; line-height: 1.45; color: $forest-dark; }
 .media-item .media-title i { font-size: .72em; margin-left: .35em; color: $forest; }
