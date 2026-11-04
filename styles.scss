@@ -52,7 +52,7 @@ h2 { margin-top: 2.2rem; padding-bottom: .3rem; border-bottom: 1px solid #e6e2d8
 
 /* ---------- Featured studies ---------- */
 .fstudies { display: grid; grid-template-columns: 1fr 1fr; column-gap: 2.5rem; margin: .4rem 0 1.2rem; }
-.fs { padding: 1.3rem 0 1.4rem; border-bottom: 1px solid #d9d4c7; }
+.fs { padding: 1.1rem 0 1.6rem; }
 .fs .fs-theme { font-size: .78rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: #6b7a74; margin: 0 0 .45rem; }
 .fs h3 { font-family: $font-family-serif; font-size: 1.22rem; line-height: 1.32; margin: 0 0 .55rem; color: $forest-dark; }
 .fs p { font-size: .96rem; color: #3d4b46; margin: 0 0 .7rem; }
@@ -63,7 +63,7 @@ h2 { margin-top: 2.2rem; padding-bottom: .3rem; border-bottom: 1px solid #e6e2d8
 
 /* ---------- Academic service ---------- */
 .svc { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin: 1rem 0 1rem; }
-.svc .svc-head { font-family: $font-family-sans-serif; font-size: .8rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: #6b7a74; margin: 0 0 .6rem; padding-bottom: .4rem; border-bottom: 1px solid #d9d4c7; }
+.svc .svc-head { font-family: $font-family-sans-serif; font-size: .8rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: #6b7a74; margin: 0 0 .8rem; }
 .svc ul { list-style: none; padding: 0; margin: 0; }
 .svc li { margin: 0 0 .75rem; line-height: 1.35; }
 .svc-main { display: block; color: $forest-dark; font-weight: 500; font-size: .97rem; }
@@ -117,7 +117,7 @@ a.pub-link i { font-size: .72em; margin-left: .3em; color: $forest; vertical-ali
 
 /* Research page study cards */
 .rstudies { display: grid; grid-template-columns: repeat(3, 1fr); column-gap: 1.8rem; margin: .4rem 0 1.6rem; }
-.rstudies .fs { border-top: 1px solid #d9d4c7; border-bottom: 0; padding: 1rem 0 .4rem; }
+.rstudies .fs { padding: .8rem 0 .6rem; }
 .rstudies .fs h3 { font-size: 1.05rem; line-height: 1.35; }
 .rstudies .fs p { font-size: .9rem; }
 @media (max-width: 900px) { .rstudies { grid-template-columns: 1fr; } }
