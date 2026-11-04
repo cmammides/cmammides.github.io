@@ -19,9 +19,8 @@ body-classes: home
 </div>
 ```
 
-## Recent studies
-
 ```{=html}
+<h2 class="head-row"><span>Recent studies</span><a class="head-link" href="publications.html">Publications</a></h2>
 <div class="fstudies">
 <article class="fs">
 <h3>Large language models have potentially transformative implications for ecology and conservation science.</h3>
@@ -47,9 +46,8 @@ body-classes: home
 <a class="more-btn" href="publications.html">Publications</a>
 ```
 
-## Recent grants
-
 ```{=html}
+<h2 class="head-row"><span>Recent grants</span><a class="head-link" href="grants.html">Grants and awards</a></h2>
 <div class="rgrants">
 <div class="rg"><span class="rg-year">2026</span><span class="svc-main">Research Fund for International Excellent Young Scientists (RFIS-II)</span><span class="svc-sub">National Natural Science Foundation of China</span></div>
 <div class="rg"><span class="rg-year">2025</span><span class="svc-main">High-End Foreign Experts Project</span><span class="svc-sub">Yunnan Revitalization Talent Support Program, Yunnan Provincial Government</span></div>
@@ -57,9 +55,8 @@ body-classes: home
 <a class="more-btn" href="grants.html">Grants and awards</a>
 ```
 
-## Academic service
-
 ```{=html}
+<h2 class="head-row"><span>Academic service</span><a class="head-link" href="cv.html#academic-service">Curriculum vitae</a></h2>
 <div class="svc">
 <div class="svc-col"><h3 class="svc-head">Associate Editor</h3><ul>
 <li><span class="svc-main">Conservation Science and Practice</span><span class="svc-sub">Society for Conservation Biology</span></li>
