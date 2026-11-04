@@ -9,7 +9,7 @@ My research examines how human activities affect biodiversity and how effectivel
 <img class="research-photo" src="images/research.jpg" alt="Asian elephants feeding in dense vegetation">
 ```
 
-## Protected areas and human pressure
+## Protected areas and landscape ecology
 
 Protected areas are central to global conservation policy, but their effectiveness in reducing human pressure varies widely. I map the pressures acting on forests, lakes, rivers, farmland and wilderness, and use quasi-experimental designs to estimate whether protected areas, including the EU's Natura 2000 network, reduce them. I also examine how well remote-sensing indicators capture the threats that matter on the ground, and how protected-area networks could be made more ecologically representative.
 
@@ -57,7 +57,7 @@ Passive acoustic monitoring allows vocalizing animals to be surveyed over large 
 </div>
 ```
 
-## AI and computational methods in ecology
+## Computational methods in ecology
 
 I am interested in how new computational tools, such as large language models and conformal prediction, can support ecological research, from synthesising the literature to quantifying the uncertainty of machine-learning predictions.
 
@@ -81,7 +81,7 @@ I am interested in how new computational tools, such as large language models an
 </div>
 ```
 
-## Conservation science and society
+## Policy and society
 
 I also study the wider context conservation operates in: how much attention biodiversity receives in the media, how the EU allocates its conservation funding, and which species its conservation efforts favour.
 

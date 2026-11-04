@@ -14,6 +14,7 @@ title: "Publications"
 <button class="pf" data-topic="pa">Protected areas</button>
 <button class="pf" data-topic="lu">Landscape ecology</button>
 <button class="pf" data-topic="pam">Soundscape ecology</button>
+<button class="pf" data-topic="cm">Computational methods</button>
 <button class="pf" data-topic="soc">Policy and society</button>
 </div>
 <script>
@@ -55,7 +56,7 @@ document.addEventListener('DOMContentLoaded',function(){
 [Chen, Y. F., **Mammides, C.**, Li, S., Darras, K., & Shen, X.]{.pub-authors}
 :::
 
-::: {.pub topics="pam"}
+::: {.pub topics="pam cm"}
 [Using conformal prediction to quantify uncertainty in machine learning models for monitoring animal communities<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1016/j.indic.2026.101387){.pub-title}
 [*Environmental and Sustainability Indicators, 101387*, 2026]{.pub-journal}
 [**Mammides, C.**, Huang, G., Sreekar, R., Ieronymidou, C., & Papadopoulos, H.]{.pub-authors}
@@ -73,7 +74,7 @@ document.addEventListener('DOMContentLoaded',function(){
 [Sreekar, R., Ni’am, L., Meyers, K., Lim, J. Y., Zeng, Y., Lamba, A., … **Mammides, C.**, … & Watson, J. E.]{.pub-authors}
 :::
 
-::: {.pub topics=""}
+::: {.pub topics="cm"}
 [Emerging applications of large language models in ecology and conservation science<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1111/cobi.70287){.pub-title}
 [*Conservation Biology, e70287*, 2026]{.pub-journal}
 [**Mammides, C.**, Gu, H., Nimalrathna, T. S., Avicena, N. R., Papadopoulos, H., & Campos‐Arceiz, A.]{.pub-authors}
@@ -123,7 +124,7 @@ document.addEventListener('DOMContentLoaded',function(){
 [Wijerathne, I., Deng, Y., Goodale, E., Jiang, A., Karunarathna, S., **Mammides, C.**, … & Zhang, Z.]{.pub-authors}
 :::
 
-::: {.pub topics="pam"}
+::: {.pub topics="pam cm"}
 [The combined effectiveness of acoustic indices in measuring bird species richness in biodiverse sites in Cyprus, China, and Australia<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1016/j.ecolind.2025.113105){.pub-title}
 [*Ecological Indicators, 170, 113105*, 2025]{.pub-journal}
 [**Mammides, C.**, Wuyuan, P., Huang, G., Sreekar, R., Ieronymidou, C., Jiang, A., … & Papadopoulos, H.]{.pub-authors}
@@ -131,7 +132,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ## 2024
 
-::: {.pub topics=""}
+::: {.pub topics="cm"}
 [The role of large language models in interdisciplinary research: Opportunities, challenges and ways forward<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1111/2041-210X.14398){.pub-title}
 [*Methods in Ecology and Evolution, 15 (10), 1774-1776*, 2024]{.pub-journal}
 [**Mammides, C.**, & Papadopoulos, H.]{.pub-authors}

@@ -168,8 +168,8 @@ h2.head-row .head-link { margin-left: auto; order: 99; }
 .pub .pub-authors strong { color: #22302b; }
 
 /* Publication topic filter */
-.pub-filter { display: flex; flex-wrap: wrap; gap: .5rem; margin: .2rem 0 1.4rem; }
-.pf { font: inherit; font-size: .9rem; font-weight: 500; color: $forest-dark; background: #fff; border: 1px solid #c9d6cd; border-radius: 6px; padding: .35rem .75rem; cursor: pointer; }
+.pub-filter { display: flex; flex-wrap: wrap; gap: .4rem; margin: .2rem 0 1.4rem; }
+.pf { font: inherit; font-size: .88rem; font-weight: 500; color: $forest-dark; background: #fff; border: 1px solid #c9d6cd; border-radius: 6px; padding: .32rem .62rem; cursor: pointer; }
 .pf:hover { border-color: $forest; }
 .pf.active { background: $forest; border-color: $forest; color: #fff; }
 .pf .pf-n { margin-left: .4rem; font-size: .8rem; opacity: .7; }
