@@ -114,3 +114,10 @@ a.pub-link i { font-size: .72em; margin-left: .3em; color: $forest; vertical-ali
 
 .cv-flat { padding: .35rem 0; }
 .cv-flat > p { margin: 0; }
+
+/* Research page study cards */
+.rstudies { display: grid; grid-template-columns: repeat(3, 1fr); column-gap: 1.8rem; margin: .4rem 0 1.6rem; }
+.rstudies .fs { border-top: 1px solid #d9d4c7; border-bottom: 0; padding: 1rem 0 .4rem; }
+.rstudies .fs h3 { font-size: 1.05rem; line-height: 1.35; }
+.rstudies .fs p { font-size: .9rem; }
+@media (max-width: 900px) { .rstudies { grid-template-columns: 1fr; } }
