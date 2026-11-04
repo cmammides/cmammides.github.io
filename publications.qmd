@@ -12,10 +12,8 @@ title: "Publications"
 <div class="pub-filter" role="toolbar" aria-label="Filter publications by topic">
 <button class="pf active" data-topic="all">All</button>
 <button class="pf" data-topic="pa">Protected areas</button>
-<button class="pf" data-topic="pam">Soundscape ecology</button>
-<button class="pf" data-topic="ai">AI</button>
 <button class="pf" data-topic="lu">Landscape ecology</button>
-<button class="pf" data-topic="eco">Community ecology</button>
+<button class="pf" data-topic="pam">Soundscape ecology</button>
 <button class="pf" data-topic="soc">Policy and society</button>
 </div>
 <script>
@@ -43,7 +41,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ## 2026
 
-::: {.pub topics="lu eco"}
+::: {.pub topics=""}
 [Beyond conflict in “overabundant” species management: Wild boar abundance is associated with increased crop damage, but also higher vertebrate richness and co-occurrence network stability<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1016/j.biocon.2026.112123){.pub-title}
 [*Biological Conservation, 323, 112123*, 2026]{.pub-journal}
 [He, R. C., **Mammides, C.**, Wang, L., Zhou, J., Li, Z. Y., Gan, Z. L., & Quan, R. C.]{.pub-authors}
@@ -55,13 +53,13 @@ document.addEventListener('DOMContentLoaded',function(){
 [Chen, Y. F., **Mammides, C.**, Li, S., Darras, K., & Shen, X.]{.pub-authors}
 :::
 
-::: {.pub topics="pam ai"}
+::: {.pub topics="pam"}
 [Using conformal prediction to quantify uncertainty in machine learning models for monitoring animal communities<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1016/j.indic.2026.101387){.pub-title}
 [*Environmental and Sustainability Indicators, 101387*, 2026]{.pub-journal}
 [**Mammides, C.**, Huang, G., Sreekar, R., Ieronymidou, C., & Papadopoulos, H.]{.pub-authors}
 :::
 
-::: {.pub topics="eco"}
+::: {.pub topics=""}
 [Human hunters are no substitute for vanishing apex predators<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1111/1365-2656.70306){.pub-title}
 [*Journal of Animal Ecology*, 2026]{.pub-journal}
 [Geng, Y., **Mammides, C.**, He, R. C., Wang, L., Luo, K., Zhang, Z. Y., … & Quan, R. C.]{.pub-authors}
@@ -73,7 +71,7 @@ document.addEventListener('DOMContentLoaded',function(){
 [Sreekar, R., Ni’am, L., Meyers, K., Lim, J. Y., Zeng, Y., Lamba, A., … **Mammides, C.**, … & Watson, J. E.]{.pub-authors}
 :::
 
-::: {.pub topics="ai"}
+::: {.pub topics=""}
 [Emerging applications of large language models in ecology and conservation science<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1111/cobi.70287){.pub-title}
 [*Conservation Biology, e70287*, 2026]{.pub-journal}
 [**Mammides, C.**, Gu, H., Nimalrathna, T. S., Avicena, N. R., Papadopoulos, H., & Campos‐Arceiz, A.]{.pub-authors}
@@ -87,7 +85,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ## 2025
 
-::: {.pub topics="lu eco"}
+::: {.pub topics="lu"}
 [Factors influencing pollinator abundance in Indigenous coffee farms of the Nilgiris, Western Ghats, India<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1080/00218839.2025.2531313){.pub-title}
 [*Journal of Apicultural Research, 1-14*, 2025]{.pub-journal}
 [Sharma, M. V., Viswanathan, P., Leo, R., Gemmill-Herren, B., **Mammides, C.**, & Ngo, H. T.]{.pub-authors}
@@ -105,7 +103,7 @@ document.addEventListener('DOMContentLoaded',function(){
 [**Mammides, C.**, & Campos-Arceiz, A.]{.pub-authors}
 :::
 
-::: {.pub topics="eco lu"}
+::: {.pub topics="lu"}
 [Occupancy and coexistence patterns of sympatric felid species in human-disturbed tropical habitats of Xishuangbanna, southwestern China<i class="bi bi-box-arrow-up-right"></i>](https://dx.doi.org/10.24272/j.issn.2097-3772.2025.002){.pub-title}
 [*Zoological Research: Diversity and Conservation*, 2025]{.pub-journal}
 [Liu, Y., He, R. C., Wang, L., **Mammides, C.**, & Quan, R.]{.pub-authors}
@@ -117,13 +115,13 @@ document.addEventListener('DOMContentLoaded',function(){
 [**Mammides, C.**, Ieronymidou, C., & Papadopoulos, H.]{.pub-authors}
 :::
 
-::: {.pub topics="eco"}
+::: {.pub topics=""}
 [The vulnerability of endemic vertebrates in Sri Lanka to climate change<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1016/j.gecco.2025.e03515){.pub-title}
 [*Global Ecology and Conservation, e03515*, 2025]{.pub-journal}
 [Wijerathne, I., Deng, Y., Goodale, E., Jiang, A., Karunarathna, S., **Mammides, C.**, … & Zhang, Z.]{.pub-authors}
 :::
 
-::: {.pub topics="pam ai"}
+::: {.pub topics="pam"}
 [The combined effectiveness of acoustic indices in measuring bird species richness in biodiverse sites in Cyprus, China, and Australia<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1016/j.ecolind.2025.113105){.pub-title}
 [*Ecological Indicators, 170, 113105*, 2025]{.pub-journal}
 [**Mammides, C.**, Wuyuan, P., Huang, G., Sreekar, R., Ieronymidou, C., Jiang, A., … & Papadopoulos, H.]{.pub-authors}
@@ -131,7 +129,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ## 2024
 
-::: {.pub topics="ai"}
+::: {.pub topics=""}
 [The role of large language models in interdisciplinary research: Opportunities, challenges and ways forward<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1111/2041-210X.14398){.pub-title}
 [*Methods in Ecology and Evolution, 15 (10), 1774-1776*, 2024]{.pub-journal}
 [**Mammides, C.**, & Papadopoulos, H.]{.pub-authors}
@@ -143,7 +141,7 @@ document.addEventListener('DOMContentLoaded',function(){
 [Sreekar, R., Koh, L. P., Lamba, A., **Mammides, C.**, Teo, H. C., Dwiputra, A., & Zeng, Y.]{.pub-authors}
 :::
 
-::: {.pub topics="lu eco"}
+::: {.pub topics="lu"}
 [Rubber plantations are impermeable to an avian understory specialist in Sri Lanka<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1186/s40462-024-00484-8){.pub-title}
 [*Movement Ecology, 12 (1), 47*, 2024]{.pub-journal}
 [Dayananda, S. K., Athukorala, H. F., Peabotuwage, I., Kumara, C., Ranasinghe, T., Samarasinghe, D., Gouveia, A., Kotagama, S. W., **Mammides, C.**, Jiang, A. & Goodale, E.]{.pub-authors}
@@ -161,7 +159,7 @@ document.addEventListener('DOMContentLoaded',function(){
 [**Mammides, C.**, Zotos, S., & Martini, F.]{.pub-authors}
 :::
 
-::: {.pub topics="eco"}
+::: {.pub topics=""}
 [Environmental heterogeneity and lizard assemblages in riparian areas in Cyprus<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.17161/randa.v31i1.18972){.pub-title}
 [*Reptiles & Amphibians, 31 (1), e18972*, 2024]{.pub-journal}
 [Erotokritou, E., **Mammides, C.**, Vogiatzakis, I. N., & Sfenthourakis, S.]{.pub-authors}
@@ -185,7 +183,7 @@ document.addEventListener('DOMContentLoaded',function(){
 [Martini, F., Kounnamas, C., Goodale, E., & **Mammides, C.**]{.pub-authors}
 :::
 
-::: {.pub topics="eco"}
+::: {.pub topics=""}
 [High association strengths are linked to phenotypic similarity, including plumage color and patterns, of participants in mixed-species bird flocks of southwestern China<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1093/cz/zoac096){.pub-title}
 [*Current Zoology*, 2024]{.pub-journal}
 [Zhou, L., **Mammides, C.**, Chen, Y., Zhou, W., Dai, W., Braun, E. L., … & Goodale, E.]{.pub-authors}
@@ -193,7 +191,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ## 2023
 
-::: {.pub topics="eco lu"}
+::: {.pub topics="lu"}
 [Projecting shifts in the distributions of Chinese endemic vertebrate species under climate and land-use change<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.3389/fevo.2023.1174495){.pub-title}
 [*Frontiers in Ecology and Evolution, 11, 521*, 2023]{.pub-journal}
 [Deng, Y., Goodale, E., Dong, A., Jiang, D., Jiang, A., Zhang, Z., & **Mammides, C.**]{.pub-authors}
@@ -201,7 +199,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ## 2022
 
-::: {.pub topics="eco"}
+::: {.pub topics=""}
 [Mixed-species bird flocks re-assemble interspecific associations across an elevational gradient<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1098/rspb.2022.1840){.pub-title}
 [*Proceedings of the Royal Society B, 289 (1989), 20221840*, 2022]{.pub-journal}
 [Shen, Y., Holyoak, M., Goodale, E., **Mammides, C.**, Zou, F., Chen, Y., … & Zhang, Q.]{.pub-authors}
@@ -213,7 +211,7 @@ document.addEventListener('DOMContentLoaded',function(){
 [**Mammides, C.**, Martini, F., & Kounnamas, C.]{.pub-authors}
 :::
 
-::: {.pub topics="eco lu"}
+::: {.pub topics="lu"}
 [Soil, Topography and Forest Structure Shape the Abundance, Richness and Composition of Fern Species in the Fragmented Tropical Landscape of Xishuangbanna, Yunnan, China<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.3390/f13091453){.pub-title}
 [*Forests, 13 (9), 1453*, 2022]{.pub-journal}
 [Cicuzza, D., & **Mammides, C.**]{.pub-authors}
@@ -239,7 +237,7 @@ document.addEventListener('DOMContentLoaded',function(){
 [**Mammides, C.**, Goodale, E., Elleason, M., & Corlett, R. T.]{.pub-authors}
 :::
 
-::: {.pub topics="eco lu"}
+::: {.pub topics="lu"}
 [A review of avian experimental translocations that measure movement through human-modified landscapes<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1016/j.gecco.2021.e01876){.pub-title}
 [*Global Ecology and Conservation, 31, e01876*, 2021]{.pub-journal}
 [Dayananda, S. K., **Mammides, C.**, Liang, D., Kotagama, S. W., & Goodale, E.]{.pub-authors}
@@ -269,7 +267,7 @@ document.addEventListener('DOMContentLoaded',function(){
 [Elleason, M., Guan, Z., Deng, Y., Jiang, A., Goodale, E., & **Mammides, C.**]{.pub-authors}
 :::
 
-::: {.pub topics="soc lu"}
+::: {.pub topics="soc"}
 [Socioeconomic determinants of crop diversity and its effect on farmer income in Guangxi, Southern China<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.3390/agriculture11040336){.pub-title}
 [*Agriculture, 11(4), 336*, 2021]{.pub-journal}
 [Li, C., Chen, X., Jiang, A., Lee, M. B., **Mammides, C.**, & Goodale, E.]{.pub-authors}
@@ -281,19 +279,19 @@ document.addEventListener('DOMContentLoaded',function(){
 [Meaux, E., Castillo-Díaz, D., Pradhan, N., Dayananda, S. K., Balboa, C. M., Goodale, E., … & Goodale, U. M.]{.pub-authors}
 :::
 
-::: {.pub topics="eco"}
+::: {.pub topics=""}
 [Behavioural variables influence contact call rate more than characteristics of the vegetation in a group-living passerine species<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1016/j.beproc.2021.104345){.pub-title}
 [*Behavioural Processes, 185, 104345*, 2021]{.pub-journal}
 [Meaux, E., Peabotuwage, I., **Mammides, C.**, Malykhina, K., Quan, R. C., & Goodale, E.]{.pub-authors}
 :::
 
-::: {.pub topics="eco"}
+::: {.pub topics=""}
 [Plant apparency drives leaf herbivory in seedling communities across four subtropical forests<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1007/s00442-020-04804-8){.pub-title}
 [*Oecologia, 195 (3), 575-587*, 2021]{.pub-journal}
 [Martini, F., Aluthwattha, S. T., **Mammides, C.**, Armani, M., & Goodale, U. M.]{.pub-authors}
 :::
 
-::: {.pub topics="soc eco"}
+::: {.pub topics="soc"}
 [An eco-compensation policy increases shorebird diversity during the non-farming period for aquaculture<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1007/s13157-021-01397-7){.pub-title}
 [*Wetlands, 41, 1-9*, 2021]{.pub-journal}
 [Dai, W., Goodale, E., He, R., **Mammides, C.**, Liu, S., Zhou, L., … & Jiang, A.]{.pub-authors}
@@ -301,7 +299,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ## 2020
 
-::: {.pub topics="lu eco"}
+::: {.pub topics="lu"}
 [Food web structure in exotic eucalyptus plantations in Southern China: stable isotope (δ13C, δ15N) analyses reveal the importance of understory and landscape-level planning<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1016/j.gecco.2020.e01259){.pub-title}
 [*Global Ecology and Conservation, 24, e01259*, 2020]{.pub-journal}
 [Zhou, X., **Mammides, C.**, Zhou, X., Hobson, K. A., Zhu, H., Wen, Y., & Jiang, A.]{.pub-authors}
@@ -313,13 +311,13 @@ document.addEventListener('DOMContentLoaded',function(){
 [Anderson, E., & **Mammides, C.**]{.pub-authors}
 :::
 
-::: {.pub topics="lu eco"}
+::: {.pub topics="lu"}
 [Flower visitors in agricultural farms of Nilgiri Biosphere Reserve: Do forests act as pollinator reservoirs?<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1080/00218839.2020.1762994){.pub-title}
 [*Journal of Apicultural Research, 59 (5), 978-987*, 2020]{.pub-journal}
 [Viswanathan, P., **Mammides, C.**, Roy, P., & Sharma, M. V.]{.pub-authors}
 :::
 
-::: {.pub topics="lu eco"}
+::: {.pub topics="lu"}
 [Drivers of bird beta diversity in the Western Ghats–Sri Lanka biodiversity hotspot are scale dependent: roles of land use, climate, and distance<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1007/s00442-020-04671-3){.pub-title}
 [*Oecologia, 193, 801-809*, 2020]{.pub-journal}
 [Sreekar, R., Koh, L. P., **Mammides, C.**, Corlett, R. T., Dayananda, S., Goodale, U. M., … & Goodale, E.]{.pub-authors}
@@ -369,7 +367,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ## 2019
 
-::: {.pub topics="eco lu"}
+::: {.pub topics="lu"}
 [The response of mixed-species bird flocks to anthropogenic disturbance and elevational variation in southwest China<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1093/condor/duz028){.pub-title}
 [*The Condor, 121 (3), duz028*, 2019]{.pub-journal}
 [Zhou, L., Peabotuwage, I., Gu, H., Jiang, D., Hu, G., Jiang, A., … & Goodale, E.]{.pub-authors}
@@ -389,13 +387,13 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ## 2018
 
-::: {.pub topics="eco"}
+::: {.pub topics=""}
 [Measurement of species associations in mixed‐species bird flocks across environmental and human disturbance gradients<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1002/ecs2.2324){.pub-title}
 [*Ecosphere, 9 (7), e02324*, 2018]{.pub-journal}
 [**Mammides, C.**, Chen, J., Goodale, U. M., Kotagama, S. W., & Goodale, E.]{.pub-authors}
 :::
 
-::: {.pub topics="eco lu"}
+::: {.pub topics="lu"}
 [The importance of artificial wetlands for birds: A case study from Cyprus<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1371/journal.pone.0197286){.pub-title}
 [*PLoS One, 13 (5), e0197286*, 2018]{.pub-journal}
 [Giosa, E., **Mammides, C.**, & Zotos, S.]{.pub-authors}
@@ -415,7 +413,7 @@ document.addEventListener('DOMContentLoaded',function(){
 [Jenkins, H. M., **Mammides, C.**, & Keane, A.]{.pub-authors}
 :::
 
-::: {.pub topics="lu eco"}
+::: {.pub topics="lu"}
 [Topography and soil type are critical to understanding how bird and herpetofaunal communities persist in forest fragments of tropical China<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1016/j.biocon.2017.08.034){.pub-title}
 [*Biological Conservation, 215, 107-115*, 2017]{.pub-journal}
 [Dayananda, S. K., **Mammides, C.**, Lee, M. B., Liu, J. J., Pasion, B. O., Sreekar, R., … & Goodale, E.]{.pub-authors}
@@ -427,19 +425,19 @@ document.addEventListener('DOMContentLoaded',function(){
 [**Mammides, C.**, Goodale, E., Dayananda, S. K., Kang, L., & Chen, J.]{.pub-authors}
 :::
 
-::: {.pub topics="lu"}
+::: {.pub topics=""}
 [Mercury flow through an Asian rice-based food web<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1016/j.envpol.2017.05.067){.pub-title}
 [*Environmental Pollution, 229, 219-228*, 2017]{.pub-journal}
 [Abeysinghe, K. S., Qiu, G., Goodale, E., Anderson, C. W., Bishop, K., Evers, D. C., … & Feng, X.]{.pub-authors}
 :::
 
-::: {.pub topics="eco lu"}
+::: {.pub topics="lu"}
 [The effect of altitude, patch size and disturbance on species richness and density of lianas in montane forest patches<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1016/j.actao.2017.06.004){.pub-title}
 [*Acta Oecologica, 83, 1-14*, 2017]{.pub-journal}
 [Mohandass, D., Campbell, M. J., Hughes, A. C., **Mammides, C.**, & Davidar, P.]{.pub-authors}
 :::
 
-::: {.pub topics="lu"}
+::: {.pub topics=""}
 [Total mercury and methylmercury concentrations over a gradient of contamination in earthworms living in rice paddy soil<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1002/etc.3643){.pub-title}
 [*Environmental Toxicology and Chemistry, 36 (5), 1202-1210*, 2017]{.pub-journal}
 [Abeysinghe, K. S., Yang, X. D., Goodale, E., Anderson, C. W., Bishop, K., Cao, A., … & Qiu, G.]{.pub-authors}
@@ -453,13 +451,13 @@ document.addEventListener('DOMContentLoaded',function(){
 [**Mammides, C.**, Goodale, U. M., Corlett, R. T., Chen, J., Bawa, K. S., Hariya, H., … & Goodale, E.]{.pub-authors}
 :::
 
-::: {.pub topics="lu eco"}
+::: {.pub topics="lu"}
 [Effects of forest fragmentation on nocturnal Asian birds: A case study from Xishuangbanna, China<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.13918/j.issn.2095-8137.2016.3.151){.pub-title}
 [*Zoological Research, 37(3), 151*, 2016]{.pub-journal}
 [Dayananda, S. K., Goodale, E., Lee, M. B., Liu, J. J., **Mammides, C.**, Pasion, B. O., … & Yasuda, M.]{.pub-authors}
 :::
 
-::: {.pub topics="lu eco"}
+::: {.pub topics="lu"}
 [Do unpaved, low-traffic roads affect bird communities?<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1016/j.actao.2016.01.004){.pub-title}
 [*Acta Oecologica, 71, 14-21*, 2016]{.pub-journal}
 [**Mammides, C.**, Kounnamas, C., Goodale, E., & Kadis, C.]{.pub-authors}
@@ -467,19 +465,19 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ## 2015
 
-::: {.pub topics="lu eco"}
+::: {.pub topics="lu"}
 [The indirect effects of habitat disturbance on the bird communities in a tropical African forest<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1007/s10531-015-1001-x){.pub-title}
 [*Biodiversity and Conservation, 24, 3083-3107*, 2015]{.pub-journal}
 [**Mammides, C.**, Schleuning, M., Böhning-Gaese, K., Schaab, G., Farwig, N., Kadis, C., & Coulson, T.]{.pub-authors}
 :::
 
-::: {.pub topics="eco lu"}
+::: {.pub topics="lu"}
 [Does mixed-species flocking influence how birds respond to a gradient of land-use intensity?<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1098/rspb.2015.1118){.pub-title}
 [*Proceedings of the Royal Society B: Biological Sciences, 282 (1811), 20151118*, 2015]{.pub-journal}
 [**Mammides, C.**, Chen, J., Goodale, U. M., Kotagama, S. W., Sidhu, S., & Goodale, E.]{.pub-authors}
 :::
 
-::: {.pub topics="lu eco"}
+::: {.pub topics="lu"}
 [The effect of land-use on the diversity and mass-abundance relationships of understory avian insectivores in Sri Lanka and southern India<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1038/srep11569){.pub-title}
 [*Scientific Reports, 5 (1), 11569*, 2015]{.pub-journal}
 [Sreekar, R., Srinivasan, U., **Mammides, C.**, Chen, J., Manage Goodale, U., Wimalabandara Kotagama, S., … & Goodale, E.]{.pub-authors}
@@ -493,7 +491,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 ## 2009
 
-::: {.pub topics="lu eco"}
+::: {.pub topics="lu"}
 [Effects of habitat disturbance and food supply on population densities of three primate species in the Kakamega Forest, Kenya<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1111/j.1365-2028.2007.00921.x){.pub-title}
 [*African Journal of Ecology, 47 (1), 87-96*, 2009]{.pub-journal}
 [**Mammides, C.**, Cords, M., & Peters, M. K.]{.pub-authors}
