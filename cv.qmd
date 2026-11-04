@@ -60,30 +60,68 @@ title: "Curriculum Vitae"
 <span>**BSc, Biology (Emphasis in Ecology)**, San Diego State University, USA</span>
 :::
 
-## Grants and awards
-
-See the [Grants](grants.qmd) page.
-
 ## Academic service
 
-**Associate Editor**
+### Editorial roles
 
-- *Integrative Conservation* (Xishuangbanna Tropical Botanical Garden / Wiley), 2025 – present
-- *Biodiversity and Conservation* (Springer Nature), 2025 – present
-- *Conservation Science and Practice* (Society for Conservation Biology), 2023 – present
-- *Ecological Solutions and Evidence* (British Ecological Society), 2023 – present
-- *Frontiers in Conservation Science*, Global Threats section, 2021 – 2024
+::: {.cv-item}
+<span class="when">2025 – present</span>
+<span>**Associate Editor**, Integrative Conservation, Xishuangbanna Tropical Botanical Garden and Wiley</span>
+:::
+::: {.cv-item}
+<span class="when">2025 – present</span>
+<span>**Associate Editor**, Biodiversity and Conservation, Springer Nature</span>
+:::
+::: {.cv-item}
+<span class="when">2023 – present</span>
+<span>**Associate Editor**, Conservation Science and Practice, Society for Conservation Biology</span>
+:::
+::: {.cv-item}
+<span class="when">2023 – present</span>
+<span>**Associate Editor**, Ecological Solutions and Evidence, British Ecological Society</span>
+:::
+::: {.cv-item}
+<span class="when">2021 – 2024</span>
+<span>**Associate Editor**, Frontiers in Conservation Science, Global Threats section</span>
+:::
 
-**Research Topic Editor**
+### Expert evaluation
 
-- *Frontiers in Forests and Global Change*: [Global Patterns and Drivers of Forest Loss and Degradation Within Protected Areas](https://www.frontiersin.org/research-topics/20400/global-patterns-and-drivers-of-forest-loss-and-degradation-within-protected-areas) (>135k views and downloads)
+::: {.cv-item}
+<span class="when"></span>
+<span>**Expert evaluator**, EU Horizon Europe Programme (MSCA Postdoctoral Fellowships, Twinning and Cluster 6)</span>
+:::
+::: {.cv-item}
+<span class="when"></span>
+<span>**Reviewer**, UNEP Global Environment Outlook (GEO-7), chapter review</span>
+:::
+::: {.cv-item}
+<span class="when"></span>
+<span>**Reviewer**, Smith Fellows Program, Society for Conservation Biology</span>
+:::
+::: {.cv-item}
+<span class="when"></span>
+<span>**Peer reviewer**, more than 140 manuscripts for journals including Nature Communications, One Earth, Ecology Letters, PLOS Biology, Conservation Biology and Biological Conservation</span>
+:::
 
-**Expert reviewer**
+### Memberships
 
-- Proposals to the EU Horizon Europe Programme (MSCA-PF, Twinning and Cluster 6)
-- Proposals to the Smith Fellows Program (Society for Conservation Biology)
-- Chapters of UNEP's Global Environment Outlook (GEO-7)
-- More than 140 manuscripts for journals including *Nature Communications*, *One Earth*, *Ecology Letters*, *PLOS Biology*, *Conservation Biology* and *Biological Conservation*
+::: {.cv-item}
+<span class="when"></span>
+<span>[IUCN World Commission on Protected Areas (WCPA)](https://iucn.org/our-union/commissions/iucn-world-commission-protected-areas)</span>
+:::
+::: {.cv-item}
+<span class="when"></span>
+<span>[Global Land Programme (GLP)](https://www.glp.earth/people/christos-mammides)</span>
+:::
+::: {.cv-item}
+<span class="when"></span>
+<span>[Impact Evaluation Working Group](https://scb-impact.org/), Society for Conservation Biology</span>
+:::
+::: {.cv-item}
+<span class="when">2024 – present</span>
+<span>[Marie Skłodowska-Curie Actions Alumni](https://www.mariecuriealumni.eu/)</span>
+:::
 
 ## Teaching
 
