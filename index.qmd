@@ -83,21 +83,24 @@ body-classes: home
 
 ```{=html}
 <div class="svc">
-<h3 class="svc-head">Editorial roles</h3>
-<div class="svc-item"><div><div class="svc-main">Associate Editor, Conservation Science and Practice</div><div class="svc-sub">Society for Conservation Biology</div></div></div>
-<div class="svc-item"><div><div class="svc-main">Associate Editor, Ecological Solutions and Evidence</div><div class="svc-sub">British Ecological Society</div></div></div>
-<div class="svc-item"><div><div class="svc-main">Associate Editor, Biodiversity and Conservation</div><div class="svc-sub">Springer Nature</div></div></div>
-<div class="svc-item"><div><div class="svc-main">Associate Editor, Integrative Conservation</div><div class="svc-sub">Xishuangbanna Tropical Botanical Garden and Wiley</div></div></div>
-<h3 class="svc-head">Expert evaluation</h3>
-<div class="svc-item"><div><div class="svc-main">Expert evaluator, EU Horizon Europe Programme</div><div class="svc-sub">Marie Skłodowska-Curie Postdoctoral Fellowships, Twinning and Cluster 6 proposals</div></div></div>
-<div class="svc-item"><div><div class="svc-main">Reviewer, UNEP Global Environment Outlook (GEO-7)</div><div class="svc-sub">Chapters of the seventh Global Environment Outlook assessment</div></div></div>
-<div class="svc-item"><div><div class="svc-main">Reviewer, Smith Fellows Program</div><div class="svc-sub">Society for Conservation Biology</div></div></div>
-<div class="svc-item"><div><div class="svc-main">Peer reviewer, more than 140 manuscripts</div><div class="svc-sub">Including Nature Communications, One Earth, Ecology Letters, PLOS Biology and Conservation Biology</div></div></div>
-<h3 class="svc-head">Memberships</h3>
-<div class="svc-item"><div><div class="svc-main">IUCN World Commission on Protected Areas (WCPA)</div><div class="svc-sub">Member</div></div></div>
-<div class="svc-item"><div><div class="svc-main"><a href="https://www.glp.earth/people/christos-mammides">Global Land Programme (GLP)</a></div><div class="svc-sub">Member, global research network of Future Earth</div></div></div>
-<div class="svc-item"><div><div class="svc-main"><a href="https://scb-impact.org/">Impact Evaluation Working Group</a></div><div class="svc-sub">Member, Society for Conservation Biology</div></div></div>
-<div class="svc-item"><div><div class="svc-main">Marie Skłodowska-Curie Actions Alumni</div><div class="svc-sub">Member</div></div></div>
+<div class="svc-col"><h3 class="svc-head">Associate Editor</h3><ul>
+<li><span class="svc-main">Conservation Science and Practice</span><span class="svc-sub">Society for Conservation Biology</span></li>
+<li><span class="svc-main">Ecological Solutions and Evidence</span><span class="svc-sub">British Ecological Society</span></li>
+<li><span class="svc-main">Biodiversity and Conservation</span><span class="svc-sub">Springer Nature</span></li>
+<li><span class="svc-main">Integrative Conservation</span><span class="svc-sub">XTBG and Wiley</span></li>
+</ul></div>
+<div class="svc-col"><h3 class="svc-head">Expert evaluation</h3><ul>
+<li><span class="svc-main">EU Horizon Europe Programme</span><span class="svc-sub">MSCA Postdoctoral Fellowships, Twinning, Cluster 6</span></li>
+<li><span class="svc-main">UNEP Global Environment Outlook (GEO-7)</span><span class="svc-sub">Chapter reviewer</span></li>
+<li><span class="svc-main">SCB Smith Fellows Program</span><span class="svc-sub">Proposal reviewer</span></li>
+<li><span class="svc-main">Peer review</span><span class="svc-sub">More than 140 manuscripts, including Nature Communications and PLOS Biology</span></li>
+</ul></div>
+<div class="svc-col"><h3 class="svc-head">Memberships</h3><ul>
+<li><span class="svc-main">IUCN World Commission on Protected Areas</span></li>
+<li><span class="svc-main"><a href="https://www.glp.earth/people/christos-mammides">Global Land Programme</a></span></li>
+<li><span class="svc-main"><a href="https://scb-impact.org/">SCB Impact Evaluation Working Group</a></span></li>
+<li><span class="svc-main">Marie Skłodowska-Curie Actions Alumni</span></li>
+</ul></div>
 </div>
 ```
 
