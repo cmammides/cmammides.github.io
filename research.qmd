@@ -59,7 +59,7 @@ Passive acoustic monitoring allows vocalizing animals to be surveyed over large 
 
 ## AI and computational methods in ecology
 
-I am interested in how new computational tools, from large language models to conformal prediction, can support ecological research, from synthesising the literature to quantifying the uncertainty of machine-learning predictions.
+I am interested in how new computational tools, such as large language models and conformal prediction, can support ecological research, from synthesising the literature to quantifying the uncertainty of machine-learning predictions.
 
 ```{=html}
 <div class="rstudies">
