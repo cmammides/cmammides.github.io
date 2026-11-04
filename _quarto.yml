@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - google248636732fb723d9.html
 
 website:
   title: "Christos Mammides"
