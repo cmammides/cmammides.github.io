@@ -12,10 +12,10 @@ title: "Publications"
 <div class="pub-filter" role="toolbar" aria-label="Filter publications by topic">
 <button class="pf active" data-topic="all">All</button>
 <button class="pf" data-topic="pa">Protected areas</button>
-<button class="pf" data-topic="pam">Acoustic monitoring</button>
+<button class="pf" data-topic="pam">Soundscape ecology</button>
 <button class="pf" data-topic="ai">AI</button>
-<button class="pf" data-topic="lu">Land use</button>
-<button class="pf" data-topic="eco">Species and communities</button>
+<button class="pf" data-topic="lu">Landscape ecology</button>
+<button class="pf" data-topic="eco">Community ecology</button>
 <button class="pf" data-topic="soc">Policy and society</button>
 </div>
 <script>
