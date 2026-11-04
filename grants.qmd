@@ -60,10 +60,6 @@ Total funding ≈ €860,000.
 <span>**Marie Skłodowska-Curie Actions Alumni**</span>
 :::
 ::: {.cv-item}
-<span class="when">Current</span>
-<span>**Member**, IUCN World Commission on Protected Areas (WCPA)</span>
-:::
-::: {.cv-item}
 <span class="when">2008 – 2012</span>
 <span>**A.G. Leventis Foundation Scholarship**</span>
 :::
