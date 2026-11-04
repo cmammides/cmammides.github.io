@@ -63,8 +63,6 @@ body-classes: home
 </div>
 ```
 
-[All publications →](publications.qmd)
-
 ## Academic service
 
 ```{=html}
@@ -89,8 +87,6 @@ body-classes: home
 </ul></div>
 </div>
 ```
-
-[Full record in CV →](cv.qmd#academic-service)
 
 ## Contact
 
