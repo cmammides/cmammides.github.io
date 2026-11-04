@@ -46,6 +46,15 @@ body-classes: home
 </div>
 ```
 
+## Recent grants
+
+```{=html}
+<div class="rgrants">
+<div class="rg"><span class="rg-year">2026</span><span class="svc-main">Research Fund for International Excellent Young Scientists (RFIS-II)</span><span class="svc-sub">National Natural Science Foundation of China</span></div>
+<div class="rg"><span class="rg-year">2025</span><span class="svc-main">High-End Foreign Experts Project</span><span class="svc-sub">Yunnan Revitalization Talent Support Program, Yunnan Provincial Government</span></div>
+</div>
+```
+
 ## Academic service
 
 ```{=html}
