@@ -20,16 +20,21 @@ title: "Publications"
 document.addEventListener('DOMContentLoaded',function(){
   var pubs=[].slice.call(document.querySelectorAll('.pub'));
   var btns=[].slice.call(document.querySelectorAll('.pf'));
+  function has(p,t){return (' '+p.dataset.topics+' ').indexOf(' '+t+' ')>-1;}
   btns.forEach(function(b){
     var t=b.dataset.topic;
-    var n=t==='all'?pubs.length:pubs.filter(function(p){return (' '+p.dataset.topics+' ').indexOf(' '+t+' ')>-1;}).length;
-    var c=document.createElement('span');c.className='pf-n';c.textContent=n;b.appendChild(c);
+    var c=document.createElement('span');c.className='pf-n';
+    c.textContent=t==='all'?pubs.length:pubs.filter(function(p){return has(p,t);}).length;
+    b.appendChild(c);
     b.addEventListener('click',function(){
       btns.forEach(function(x){x.classList.remove('active');});b.classList.add('active');
-      pubs.forEach(function(p){p.style.display=(t==='all'||(' '+p.dataset.topics+' ').indexOf(' '+t+' ')>-1)?'':'none';});
+      document.body.classList.toggle('pub-filtered',t!=='all');
+      pubs.forEach(function(p){p.style.display=(t==='all'||has(p,t))?'':'none';});
       document.querySelectorAll('section.level2').forEach(function(sec){
         var ps=[].slice.call(sec.querySelectorAll('.pub'));
-        if(ps.length) sec.style.display=ps.some(function(p){return p.style.display!=='none';})?'':'none';
+        if(!ps.length) return;
+        sec.style.display=ps.some(function(p){return p.style.display!=='none';})?'':'none';
+        var h=sec.querySelector('h2'); if(h) h.style.display=(t==='all')?'':'none';
       });
     });
   });

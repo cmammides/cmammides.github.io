@@ -174,3 +174,6 @@ h2.head-row .head-link { margin-left: auto; order: 99; }
 .pf.active { background: $forest; border-color: $forest; color: #fff; }
 .pf .pf-n { margin-left: .4rem; font-size: .8rem; opacity: .7; }
 @media (max-width: 600px) { .pub-filter { gap: .4rem; } .pf { font-size: .85rem; padding: .3rem .6rem; } }
+
+/* Filtered view: one continuous list without year headings */
+body.pub-filtered section.level2 { margin: 0; }
