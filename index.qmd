@@ -24,8 +24,8 @@ body-classes: home
 <h2>In the media</h2>
 <div class="media">
 <a class="media-item" href="https://wildlife.org/qa-should-wildlife-biologists-embrace-ai/"><span class="rg-year">The Wildlife Society</span><span class="media-title">Q&amp;A: Should wildlife biologists embrace AI?<i class="bi bi-box-arrow-up-right"></i></span></a>
-<a class="media-item" href="https://news.mongabay.com/2025/06/mounting-risks-due-to-climate-change-threaten-sri-lankas-endemic-species/"><span class="rg-year">Mongabay, 2025</span><span class="media-title">Mounting risks due to climate change threaten Sri Lanka’s endemic species<i class="bi bi-box-arrow-up-right"></i></span></a>
-<a class="media-item" href="https://news.mongabay.com/2024/09/protected-areas-in-se-asia-could-do-better-with-more-resources-study-finds/"><span class="rg-year">Mongabay, 2024</span><span class="media-title">Protected areas in SE Asia could do better with more resources, study finds<i class="bi bi-box-arrow-up-right"></i></span></a>
+<a class="media-item" href="https://land.copernicus.eu/en/use-cases/assessing-habitat-vulnerability-to-soil-sealing-with-high-resolution-imperviousness-data/assessing-habitat-vulnerability-to-soil-sealing-with-high-resolution-imperviousness-data"><span class="rg-year">Copernicus</span><span class="media-title">Assessing habitat vulnerability to soil sealing with high-resolution imperviousness data<i class="bi bi-box-arrow-up-right"></i></span></a>
+<a class="media-item" href="https://news.mongabay.com/2024/09/protected-areas-in-se-asia-could-do-better-with-more-resources-study-finds/"><span class="rg-year">Mongabay</span><span class="media-title">Protected areas in SE Asia could do better with more resources, study finds<i class="bi bi-box-arrow-up-right"></i></span></a>
 </div>
 ```
 
