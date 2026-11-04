@@ -73,12 +73,14 @@ h2 { margin-top: 2.2rem; padding-bottom: .3rem; border-bottom: 1px solid #e6e2d8
   .themes a.theme { grid-template-columns: 1fr; gap: .3rem; }
 }
 
-/* ---------- Key facts (service) ---------- */
-.facts { margin: .5rem 0 1rem; }
-.facts .row { display: grid; grid-template-columns: 11rem 1fr; gap: 1rem; padding: .7rem 0; border-bottom: 1px solid #d9d4c7; margin: 0; }
-.facts .label { font-family: $font-family-serif; font-weight: 600; color: $forest-dark; }
-.facts .val { color: #3d4b46; }
-@media (max-width: 600px) { .facts .row { grid-template-columns: 1fr; gap: .2rem; } }
+/* ---------- Academic service ---------- */
+.svc { margin: .3rem 0 1rem; }
+.svc .svc-head { font-family: $font-family-sans-serif; font-size: .8rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: #6b7a74; margin: 1.6rem 0 .2rem; border: 0; }
+.svc-item { display: grid; grid-template-columns: 1fr auto; gap: 1.5rem; padding: .7rem 0; border-bottom: 1px solid #e3dfd4; }
+.svc-main { color: $forest-dark; font-weight: 500; }
+.svc-sub { color: #5b6b65; font-size: .93rem; margin-top: .1rem; }
+.svc-when { color: #6b7a74; font-size: .93rem; white-space: nowrap; padding-top: .1rem; }
+@media (max-width: 600px) { .svc-item { grid-template-columns: 1fr; gap: .2rem; } }
 
 /* ---------- Publications ---------- */
 .pubs ol, ol.pubs { padding-left: 0; list-style: none; }
