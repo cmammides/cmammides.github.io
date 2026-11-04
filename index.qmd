@@ -74,10 +74,10 @@ body-classes: home
 <li><span class="svc-main">Peer review</span><span class="svc-sub">More than 140 manuscripts, including Nature Communications and PLOS Biology</span></li>
 </ul></div>
 <div class="svc-col"><h3 class="svc-head">Memberships</h3><ul>
-<li><span class="svc-main"><a href="https://iucn.org/our-union/commissions/iucn-world-commission-protected-areas">IUCN World Commission on Protected Areas</a></span></li>
-<li><span class="svc-main"><a href="https://www.glp.earth/people/christos-mammides">Global Land Programme</a></span></li>
-<li><span class="svc-main"><a href="https://scb-impact.org/">SCB Impact Evaluation Working Group</a></span></li>
-<li><span class="svc-main"><a href="https://www.mariecuriealumni.eu/">Marie Skłodowska-Curie Actions Alumni</a></span></li>
+<li><span class="svc-main">IUCN World Commission on Protected Areas</span></li>
+<li><span class="svc-main">Global Land Programme</span></li>
+<li><span class="svc-main">SCB Impact Evaluation Working Group</span></li>
+<li><span class="svc-main">Marie Skłodowska-Curie Actions Alumni</span></li>
 </ul></div>
 </div>
 <a class="more-btn" href="cv.html#academic-service">Curriculum vitae</a>
