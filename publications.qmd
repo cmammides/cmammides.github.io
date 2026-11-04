@@ -1,7 +1,16 @@
 ---
 title: "Publications"
-subtitle: "72 peer-reviewed publications. Citation metrics on [Google Scholar](https://scholar.google.com/citations?user=kuDv6QoAAAAJ&hl=en)"
 ---
+
+<!-- Headline numbers: update these occasionally from Google Scholar. -->
+```{=html}
+<div class="stats">
+<div class="stat"><span class="num">70+</span><span class="lab">Peer-reviewed publications</span></div>
+<div class="stat"><span class="num">2,100+</span><span class="lab">Citations</span></div>
+<div class="stat"><span class="num">25</span><span class="lab">h-index</span></div>
+</div>
+<p class="stats-src"><a href="https://scholar.google.com/citations?user=kuDv6QoAAAAJ&hl=en">Google Scholar profile</a></p>
+```
 
 <!-- To add a paper: copy an entry below, paste it under the right year, and edit it. The title is the link: [Title.<icon>](https://doi.org/...). ** marks bold, * marks italics. -->
 

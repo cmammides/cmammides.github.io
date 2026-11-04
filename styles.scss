@@ -112,3 +112,11 @@ body.home .navbar-brand { display: none; }
 a.pub-link { color: $forest-dark; text-decoration: none; font-weight: 500; }
 a.pub-link:hover { color: $forest; text-decoration: underline; text-underline-offset: 3px; }
 a.pub-link i { font-size: .72em; margin-left: .3em; color: $forest; vertical-align: .08em; }
+
+/* Publication headline numbers */
+.stats { display: flex; gap: 3.5rem; margin: 1.4rem 0 .6rem; }
+.stat .num { display: block; font-family: $font-family-serif; font-size: 2.6rem; font-weight: 600; line-height: 1.1; color: $forest-dark; }
+.stat .lab { display: block; font-size: .92rem; color: #6b7a74; margin-top: .2rem; }
+.stats-src { font-size: .9rem; margin: 0 0 1.5rem; }
+@media (max-width: 600px) { .stats { gap: 1.2rem; justify-content: space-between; } .stat .num { font-size: 1.7rem; } .stat .lab { font-size: .8rem; } }
+.stat:not(:first-child) .lab { white-space: nowrap; }
