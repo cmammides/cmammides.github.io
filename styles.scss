@@ -131,12 +131,15 @@ a.pub-link i { font-size: .72em; margin-left: .3em; color: $forest; vertical-ali
 
 /* "See more" buttons under homepage sections */
 .more-btn {
-  display: inline-flex; align-items: center; gap: .55rem;
-  margin: .2rem 0 1rem; padding: .5rem 1.05rem .5rem 1.2rem;
+  display: flex; width: fit-content; align-items: center; gap: .55rem;
+  margin: .4rem auto 1.8rem; padding: .5rem 1.05rem .5rem 1.2rem;
   background: #fff; border: 1px solid $forest; border-radius: 6px;
   font-size: .95rem; font-weight: 500; color: $forest-dark; text-decoration: none;
 }
 .more-btn::after { content: "\203A"; font-size: 1.15rem; line-height: 1; color: $forest; transition: transform .15s; }
 .more-btn:hover { background: #e7eee9; color: $forest-dark; }
 .more-btn:hover::after { transform: translateX(2px); }
-@media (max-width: 720px) { .more-btn { display: flex; justify-content: center; } }
+@media (max-width: 720px) { .more-btn { width: auto; justify-content: center; } }
+
+/* Centred closing Contact section */
+#contact { text-align: center; }
