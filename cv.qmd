@@ -84,6 +84,10 @@ title: "Curriculum Vitae"
 <span class="when">2021 – 2024</span>
 <span>**Associate Editor**, Frontiers in Conservation Science, Global Threats section</span>
 :::
+::: {.cv-item}
+<span class="when"></span>
+<span>**Research Topic Editor**, Frontiers in Forests and Global Change: [Global Patterns and Drivers of Forest Loss and Degradation Within Protected Areas](https://www.frontiersin.org/research-topics/20400/global-patterns-and-drivers-of-forest-loss-and-degradation-within-protected-areas) (more than 135,000 views and downloads)</span>
+:::
 
 ### Expert evaluation
 
