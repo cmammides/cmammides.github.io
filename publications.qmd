@@ -23,9 +23,6 @@ document.addEventListener('DOMContentLoaded',function(){
   function has(p,t){return (' '+p.dataset.topics+' ').indexOf(' '+t+' ')>-1;}
   btns.forEach(function(b){
     var t=b.dataset.topic;
-    var c=document.createElement('span');c.className='pf-n';
-    c.textContent=t==='all'?pubs.length:pubs.filter(function(p){return has(p,t);}).length;
-    b.appendChild(c);
     b.addEventListener('click',function(){
       btns.forEach(function(x){x.classList.remove('active');});b.classList.add('active');
       document.body.classList.toggle('pub-filtered',t!=='all');
