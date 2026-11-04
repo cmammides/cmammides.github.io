@@ -5,7 +5,7 @@ body-classes: home
 
 ```{=html}
 <div class="hero">
-<img class="portrait" src="https://cmammides.wordpress.com/wp-content/uploads/2023/04/cropped-profile-picture-4-1-1.jpeg" alt="Portrait of Christos Mammides">
+<img class="portrait" src="images/portrait.jpg" alt="Portrait of Christos Mammides">
 <div class="hero-text">
 <p class="name">Christos Mammides</p>
 <p class="role">Professor, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences</p>
