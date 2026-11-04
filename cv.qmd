@@ -85,46 +85,38 @@ title: "Curriculum Vitae"
 <span>**Associate Editor**, Frontiers in Conservation Science, Global Threats section</span>
 :::
 ::: {.cv-item}
-<span class="when"></span>
+<span class="when">2022</span>
 <span>**Research Topic Editor**, Frontiers in Forests and Global Change: [Global Patterns and Drivers of Forest Loss and Degradation Within Protected Areas](https://www.frontiersin.org/research-topics/20400/global-patterns-and-drivers-of-forest-loss-and-degradation-within-protected-areas) (more than 135,000 views and downloads)</span>
 :::
 
 ### Expert evaluation
 
-::: {.cv-item}
-<span class="when"></span>
-<span>**Expert evaluator**, EU Horizon Europe Programme (MSCA Postdoctoral Fellowships, Twinning and Cluster 6)</span>
+::: {.cv-flat}
+**Expert evaluator**, EU Horizon Europe Programme (MSCA Postdoctoral Fellowships, Twinning and Cluster 6)
 :::
-::: {.cv-item}
-<span class="when"></span>
-<span>**Reviewer**, UNEP Global Environment Outlook (GEO-7), chapter review</span>
+::: {.cv-flat}
+**Reviewer**, UNEP Global Environment Outlook (GEO-7), chapter review
 :::
-::: {.cv-item}
-<span class="when"></span>
-<span>**Reviewer**, Smith Fellows Program, Society for Conservation Biology</span>
+::: {.cv-flat}
+**Reviewer**, Smith Fellows Program, Society for Conservation Biology
 :::
-::: {.cv-item}
-<span class="when"></span>
-<span>**Peer reviewer**, more than 140 manuscripts for journals including Nature Communications, One Earth, Ecology Letters, PLOS Biology, Conservation Biology and Biological Conservation</span>
+::: {.cv-flat}
+**Peer reviewer**, more than 140 manuscripts for journals including Nature Communications, One Earth, Ecology Letters, PLOS Biology, Conservation Biology and Biological Conservation
 :::
 
 ### Memberships
 
-::: {.cv-item}
-<span class="when"></span>
-<span>[IUCN World Commission on Protected Areas (WCPA)](https://iucn.org/our-union/commissions/iucn-world-commission-protected-areas)</span>
+::: {.cv-flat}
+[IUCN World Commission on Protected Areas (WCPA)](https://iucn.org/our-union/commissions/iucn-world-commission-protected-areas)
 :::
-::: {.cv-item}
-<span class="when"></span>
-<span>[Global Land Programme (GLP)](https://www.glp.earth/people/christos-mammides)</span>
+::: {.cv-flat}
+[Global Land Programme (GLP)](https://www.glp.earth/people/christos-mammides)
 :::
-::: {.cv-item}
-<span class="when"></span>
-<span>[Impact Evaluation Working Group](https://scb-impact.org/), Society for Conservation Biology</span>
+::: {.cv-flat}
+[Impact Evaluation Working Group](https://scb-impact.org/), Society for Conservation Biology
 :::
-::: {.cv-item}
-<span class="when">2024 – present</span>
-<span>[Marie Skłodowska-Curie Actions Alumni](https://www.mariecuriealumni.eu/)</span>
+::: {.cv-flat}
+[Marie Skłodowska-Curie Actions Alumni](https://www.mariecuriealumni.eu/)
 :::
 
 ## Teaching

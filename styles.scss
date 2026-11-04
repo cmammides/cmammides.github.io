@@ -123,3 +123,6 @@ a.pub-link i { font-size: .72em; margin-left: .3em; color: $forest; vertical-ali
 
 /* CV subsection headings */
 h3.anchored { font-size: .8rem; font-family: $font-family-sans-serif; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: #6b7a74; margin: 1.6rem 0 .4rem; }
+
+.cv-flat { padding: .35rem 0; }
+.cv-flat > p { margin: 0; }
