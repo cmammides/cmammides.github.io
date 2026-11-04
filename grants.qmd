@@ -1,5 +1,5 @@
 ---
-title: "Grants & Awards"
+title: "Grants and awards"
 ---
 
 <!-- To add a grant: copy one block (from ::: {.cv-item} to the closing :::) and edit it. -->
