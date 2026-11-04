@@ -11,7 +11,7 @@ My research examines how human activities affect biodiversity and how effectivel
 
 ## Protected areas and human pressure
 
-Protected areas are the cornerstone of global conservation policy, yet whether they reduce human pressure is often assumed rather than tested. I map the pressures acting on forests, lakes, rivers, farmland and wilderness, and use quasi-experimental designs to estimate whether protected areas, including the EU's Natura 2000 network, reduce them. I also examine how well remote-sensing indicators capture the threats that matter on the ground, and how protected-area networks could be made more ecologically representative.
+Protected areas are central to global conservation policy, but their effectiveness in reducing human pressure varies widely. I map the pressures acting on forests, lakes, rivers, farmland and wilderness, and use quasi-experimental designs to estimate whether protected areas, including the EU's Natura 2000 network, reduce them. I also examine how well remote-sensing indicators capture the threats that matter on the ground, and how protected-area networks could be made more ecologically representative.
 
 ```{=html}
 <div class="rstudies">
@@ -35,7 +35,7 @@ Protected areas are the cornerstone of global conservation policy, yet whether t
 
 ## Soundscape ecology
 
-Passive acoustic monitoring can survey vocalizing animals at scales no field team can match. My group develops and tests acoustic indices and machine-learning approaches for estimating bird diversity, examines what confounds them, and shares open acoustic datasets.
+Passive acoustic monitoring allows vocalizing animals to be surveyed over large spatial and temporal scales. My group develops and tests acoustic indices and machine-learning approaches for estimating bird diversity, examines what confounds them, and shares open acoustic datasets.
 
 ```{=html}
 <div class="rstudies">
@@ -59,7 +59,7 @@ Passive acoustic monitoring can survey vocalizing animals at scales no field tea
 
 ## AI and computational methods in ecology
 
-I am interested in how new computational tools, from large language models to conformal prediction, can make ecological research faster, more transparent and better at quantifying uncertainty.
+I am interested in how new computational tools, from large language models to conformal prediction, can support ecological research, from synthesising the literature to quantifying the uncertainty of machine-learning predictions.
 
 ```{=html}
 <div class="rstudies">
