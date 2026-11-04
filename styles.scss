@@ -118,7 +118,7 @@ a.pub-link i { font-size: .72em; margin-left: .3em; color: $forest; vertical-ali
 /* Research page study cards */
 .rstudies { display: grid; grid-template-columns: repeat(3, 1fr); column-gap: 1.8rem; margin: .4rem 0 1.6rem; }
 .rstudies .fs { padding: .8rem 0 .6rem; }
-.rstudies .fs h3 { font-family: $font-family-sans-serif; font-weight: 600; font-size: 1.08rem; line-height: 1.4; }
+.rstudies .fs h3 { font-size: 1.15rem; line-height: 1.35; }
 .rstudies .fs p { font-size: 1rem; }
 @media (max-width: 900px) { .rstudies { grid-template-columns: 1fr; } }
 
