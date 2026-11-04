@@ -10,7 +10,7 @@ Total funding ≈ €860,000.
 
 ::: {.cv-item}
 <span class="when">2026</span>
-<span>**Research Fund for International Excellent Young Scientists (RFIS-II)**<br>National Natural Science Foundation of China · NSFC 3261101766</span>
+<span>**Research Fund for International Excellent Young Scientists (RFIS-II)**<br>National Natural Science Foundation of China, NSFC 3261101766</span>
 :::
 ::: {.cv-item}
 <span class="when">2025</span>
@@ -18,19 +18,19 @@ Total funding ≈ €860,000.
 :::
 ::: {.cv-item}
 <span class="when">2023</span>
-<span>**PRO-COAST: A proactive approach for communities to enable societal transformation**<br>European Commission, Horizon Europe (HORIZON-CL6-2022-BIODIV-01-09) · [101082327](https://cordis.europa.eu/project/id/101082327)</span>
+<span>**PRO-COAST: A proactive approach for communities to enable societal transformation**<br>European Commission, Horizon Europe (HORIZON-CL6-2022-BIODIV-01-09), [101082327](https://cordis.europa.eu/project/id/101082327)</span>
 :::
 ::: {.cv-item}
 <span class="when">2022</span>
-<span>**BIOMON: European Research Area (ERA) Fellowship**<br>European Commission, Horizon Europe (HORIZON-WIDERA-2022-TALENTS) · [101090273](https://cordis.europa.eu/project/id/101090273)</span>
+<span>**BIOMON: European Research Area (ERA) Fellowship**<br>European Commission, Horizon Europe (HORIZON-WIDERA-2022-TALENTS), [101090273](https://cordis.europa.eu/project/id/101090273)</span>
 :::
 ::: {.cv-item}
 <span class="when">2019</span>
-<span>**Young International Scientist Award**<br>National Natural Science Foundation of China · NSFC 31950410549</span>
+<span>**Young International Scientist Award**<br>National Natural Science Foundation of China, NSFC 31950410549</span>
 :::
 ::: {.cv-item}
 <span class="when">2019</span>
-<span>**Regional Science Project**<br>National Natural Science Foundation of China · NSFC 31960235</span>
+<span>**Regional Science Project**<br>National Natural Science Foundation of China, NSFC 31960235</span>
 :::
 ::: {.cv-item}
 <span class="when">2016</span>
@@ -42,7 +42,7 @@ Total funding ≈ €860,000.
 :::
 ::: {.cv-item}
 <span class="when">2008</span>
-<span>**Using statistical modelling to examine the impacts of social and biological factors on the biodiversity of the Pafos Forest**<br>Research Promotion Foundation, Cyprus · PENEK/SUPPORT/0308/42</span>
+<span>**Using statistical modelling to examine the impacts of social and biological factors on the biodiversity of the Pafos Forest**<br>Research Promotion Foundation, Cyprus, PENEK/SUPPORT/0308/42</span>
 :::
 
 ## Awards and memberships

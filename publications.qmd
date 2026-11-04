@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-subtitle: "72 peer-reviewed publications · full metrics on [Google Scholar](https://scholar.google.com/citations?user=kuDv6QoAAAAJ&hl=en)"
+subtitle: "72 peer-reviewed publications. Citation metrics on [Google Scholar](https://scholar.google.com/citations?user=kuDv6QoAAAAJ&hl=en)"
 ---
 
 <!-- To add a paper: copy an entry below, paste it under the right year, and edit it. Your name is in bold; ** marks bold, * marks italics. -->

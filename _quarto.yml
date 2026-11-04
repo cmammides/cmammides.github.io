@@ -20,13 +20,6 @@ website:
         text: Grants
       - href: cv.qmd
         text: CV
-    right:
-      - icon: mortarboard-fill
-        href: https://scholar.google.com/citations?user=kuDv6QoAAAAJ&hl=en
-        aria-label: Google Scholar
-      - icon: linkedin
-        href: https://www.linkedin.com/in/christos-mammides/
-        aria-label: LinkedIn
   page-footer:
     left: "© Christos Mammides"
     right: "Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences"

@@ -1,25 +1,62 @@
 ---
-pagetitle: "Christos Mammides · Conservation scientist"
+pagetitle: "Christos Mammides | Conservation scientist"
 ---
 
-::: {.hero}
+```{=html}
+<div class="hero">
 <img class="portrait" src="https://cmammides.wordpress.com/wp-content/uploads/2023/04/cropped-profile-picture-4-1-1.jpeg" alt="Portrait of Christos Mammides">
-
-<div>
-<h1>Christos Mammides</h1>
-<div class="role">Professor · Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences</div>
-<div class="tagline">I study whether conservation actually works, using satellite data, causal inference and the sounds of ecosystems to measure human impact on biodiversity.</div>
-<div class="links">
-<a href="publications.html">Publications</a>
-<a href="research.html">Research</a>
-<a href="cv.html">CV</a>
-<a href="https://scholar.google.com/citations?user=kuDv6QoAAAAJ&hl=en">Google Scholar</a>
-<a href="https://www.linkedin.com/in/christos-mammides/">LinkedIn</a>
+<div class="hero-text">
+<p class="name">Christos Mammides</p>
+<p class="role">Professor<br>Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences</p>
+<div class="profiles">
+<a href="https://scholar.google.com/citations?user=kuDv6QoAAAAJ&hl=en"><i class="bi bi-mortarboard-fill"></i>Google Scholar</a>
+<a href="https://www.linkedin.com/in/christos-mammides/"><i class="bi bi-linkedin"></i>LinkedIn</a>
+<!-- <a href="mailto:YOUR-EMAIL"><i class="bi bi-envelope-fill"></i>Email</a> -->
+<!-- <a href="https://orcid.org/YOUR-ORCID"><i class="bi bi-person-badge-fill"></i>ORCID</a> -->
 </div>
 </div>
-:::
+</div>
+<div class="statement">
+<p class="big">I test whether conservation actually works.</p>
+<p class="sub">Using satellite data, causal inference and the sounds of ecosystems to measure human impact on biodiversity.</p>
+</div>
+```
 
-I am a conservation scientist working at the interface of spatial ecology, statistics and policy. My research evaluates the effectiveness of protected areas and other area-based conservation measures in reducing human pressures on biodiversity, often using quasi-experimental designs applied to global remote-sensing data. I also work in soundscape ecology, developing methods to monitor vocalizing animal communities from acoustic recordings in biodiverse ecosystems.
+## Featured studies
+
+```{=html}
+<div class="studies">
+<div class="study">
+<div class="chart"><svg viewBox="0 0 400 120" width="100%" role="img" aria-label="Human pressure increased in 16% of lakes, was unchanged in 66% and decreased in 18%, 1993 to 2009" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif" xmlns="http://www.w3.org/2000/svg"><rect x="0.0" y="40" width="64.0" height="44" fill="#1f5f4a"/><text x="32.0" y="67" text-anchor="middle" font-size="15" font-weight="600" fill="#fff">16%</text><text x="32.0" y="30" text-anchor="middle" font-size="13.5" fill="#5b6b65">Increased</text><rect x="64.0" y="40" width="264.0" height="44" fill="#c9cfcb"/><text x="196.0" y="67" text-anchor="middle" font-size="15" font-weight="600" fill="#22302b">66%</text><text x="196.0" y="30" text-anchor="middle" font-size="13.5" fill="#5b6b65">Unchanged</text><rect x="328.0" y="40" width="72.0" height="44" fill="#9aa59f"/><text x="364.0" y="67" text-anchor="middle" font-size="15" font-weight="600" fill="#fff">18%</text><text x="364.0" y="30" text-anchor="middle" font-size="13.5" fill="#5b6b65">Decreased</text><text x="0" y="112" font-size="12.5" fill="#5b6b65">Change in human pressure on lakes worldwide, 1993–2009</text></svg></div>
+<div class="story">
+<p class="kicker">Global Environmental Change, 2020</p>
+<h3>One in three of the world’s lakes is under considerable human pressure.</h3>
+<p>Pressure rose fastest on lakes in the tropics, especially in Africa. Lakes inside protected areas fared better, with many exceptions in the tropics.</p>
+<a href="https://doi.org/10.1016/j.gloenvcha.2020.102084">Read the paper →</a>
+</div>
+</div>
+<div class="study">
+<div class="chart"><svg viewBox="0 0 400 136" width="100%" role="img" aria-label="Media stories: COP27 150,371; Taylor Swift 55,147; COP15 22,422" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif" xmlns="http://www.w3.org/2000/svg"><text x="142" y="27" text-anchor="end" font-size="13.5" fill="#5b6b65" >COP27 (climate)</text><rect x="152" y="12" width="185.0" height="22" fill="#9aa59f"/><text x="343.0" y="28" font-size="13.5" fill="#22302b">150,371</text><text x="142" y="63" text-anchor="end" font-size="13.5" fill="#5b6b65" >Taylor Swift</text><rect x="152" y="48" width="67.8" height="22" fill="#9aa59f"/><text x="225.8" y="64" font-size="13.5" fill="#22302b">55,147</text><text x="142" y="99" text-anchor="end" font-size="13.5" fill="#22302b" font-weight="600">COP15 (biodiversity)</text><rect x="152" y="84" width="27.6" height="22" fill="#1f5f4a"/><text x="185.6" y="100" font-size="13.5" fill="#22302b">22,422</text><text x="0" y="128" font-size="12.5" fill="#5b6b65">Media stories worldwide (Media Cloud)</text></svg></div>
+<div class="story">
+<p class="kicker">npj Biodiversity, 2025</p>
+<h3>The climate summit received nearly seven times the media coverage of the biodiversity summit.</h3>
+<p>Across 227,940 stories from 6,939 outlets in more than 80 languages, COP15 was also outpaced by Taylor Swift, more than twice over.</p>
+<a href="https://doi.org/10.1038/s44185-025-00082-w">Read the paper →</a>
+</div>
+</div>
+<div class="study">
+<div class="chart"><svg viewBox="0 0 400 154" width="100%" role="img" aria-label="R squared: Cyprus 0.06, China 0.31, Australia 0.52" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif" xmlns="http://www.w3.org/2000/svg"><line x1="80" y1="4" x2="80" y2="112" stroke="#e3e0d7" stroke-width="1"/><text x="80" y="126" text-anchor="middle" font-size="11" fill="#5b6b65">0</text><line x1="230.0" y1="4" x2="230.0" y2="112" stroke="#e3e0d7" stroke-width="1"/><text x="230.0" y="126" text-anchor="middle" font-size="11" fill="#5b6b65">0.5</text><line x1="380.0" y1="4" x2="380.0" y2="112" stroke="#e3e0d7" stroke-width="1"/><text x="380.0" y="126" text-anchor="middle" font-size="11" fill="#5b6b65">1</text><text x="70" y="27" text-anchor="end" font-size="13.5" fill="#5b6b65">Cyprus</text><rect x="80" y="12" width="18.0" height="22" fill="#1f5f4a"/><text x="104.0" y="28" font-size="13.5" fill="#22302b">0.06</text><text x="70" y="61" text-anchor="end" font-size="13.5" fill="#5b6b65">China</text><rect x="80" y="46" width="93.0" height="22" fill="#1f5f4a"/><text x="179.0" y="62" font-size="13.5" fill="#22302b">0.31</text><text x="70" y="95" text-anchor="end" font-size="13.5" fill="#5b6b65">Australia</text><rect x="80" y="80" width="156.0" height="22" fill="#1f5f4a"/><text x="242.0" y="96" font-size="13.5" fill="#22302b">0.52</text><text x="0" y="146" font-size="12.5" fill="#5b6b65">Variance in bird species richness explained (R²)</text></svg></div>
+<div class="story">
+<p class="kicker">Ecological Indicators, 2025</p>
+<h3>Acoustic indices are not yet reliable for measuring bird diversity.</h3>
+<p>We tested 60 indices at 114 sites in Cyprus, China and Australia. Accuracy varied widely between regions, and no single index was useful in all three.</p>
+<a href="https://doi.org/10.1016/j.ecolind.2025.113105">Read the paper →</a>
+</div>
+</div>
+</div>
+```
+
+[All publications →](publications.qmd)
 
 ## Research themes
 
@@ -44,16 +81,6 @@ I am a conservation scientist working at the interface of spatial ecology, stati
 
 [More about my research →](research.qmd)
 
-## Selected publications
-
-- **Mammides, C.**, & Campos-Arceiz, A. (2025). Media coverage of biodiversity falls short compared to climate change and popular culture. *npj Biodiversity*. [DOI](https://doi.org/10.1038/s44185-025-00082-w)
-- **Mammides, C.**, Gu, H., Nimalrathna, T. S., Avicena, N. R., Papadopoulos, H., & Campos-Arceiz, A. (2026). Emerging applications of large language models in ecology and conservation science. *Conservation Biology*. [DOI](https://doi.org/10.1111/cobi.70287)
-- Sreekar, R., Koh, L. P., Lamba, A., **Mammides, C.**, Teo, H. C., Dwiputra, A., & Zeng, Y. (2024). Conservation opportunities through improved management of recently established protected areas in Southeast Asia. *Current Biology*. [DOI](https://doi.org/10.1016/j.cub.2024.07.031)
-- **Mammides, C.**, Zotos, S., & Martini, F. (2024). Quantifying the amount of land lost to artificial surfaces in European habitats: a comparison inside and outside Natura 2000 sites using a quasi-experimental design. *Biological Conservation*. [DOI](https://doi.org/10.1016/j.biocon.2024.110556)
-- **Mammides, C.**, Goodale, E., Elleason, M., & Corlett, R. T. (2021). Designing an ecologically representative global network of protected areas requires coordination between countries. *Environmental Research Letters*. [DOI](https://doi.org/10.1088/1748-9326/ac3534)
-
-[All publications →](publications.qmd)
-
 ## Service
 
 <div class="facts">
@@ -67,8 +94,6 @@ I am a conservation scientist working at the interface of spatial ecology, stati
 
 ## Contact
 
-**Christos Mammides**<br>
 Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences<br>
-Menglun, Mengla County, Yunnan 666303, China<br>
-<!-- Add your institutional email here, e.g.: Email: <a href="mailto:name@xtbg.ac.cn">name@xtbg.ac.cn</a> -->
-[Google Scholar](https://scholar.google.com/citations?user=kuDv6QoAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/christos-mammides/)
+Menglun, Mengla County, Yunnan 666303, China
+<!-- Add your institutional email here, e.g.: <br>Email: <a href="mailto:name@xtbg.ac.cn">name@xtbg.ac.cn</a> -->

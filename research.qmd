@@ -11,47 +11,52 @@ My work combines spatial and statistical tools to study how people affect biodiv
 
 Protected areas are the cornerstone of global conservation policy, yet whether they actually reduce human pressure is often assumed rather than tested. I use quasi-experimental designs, such as matching protected and comparable unprotected land, to estimate how protected areas and the EU's Natura 2000 network affect forest loss, land conversion, settlements and other pressures. I also study how protected-area networks could be designed to be more ecologically representative.
 
-**Key papers:**
-[Natura 2000 and artificial land](https://doi.org/10.1016/j.biocon.2024.110556) (Biol. Conserv. 2024) ·
-[Southeast Asia's new protected areas](https://doi.org/10.1016/j.cub.2024.07.031) (Curr. Biol. 2024) ·
-[Representative global PA network](https://doi.org/10.1088/1748-9326/ac3534) (ERL 2021) ·
-[Strict vs. multiple-use PAs](https://doi.org/10.1007/s13280-020-01426-5) (Ambio 2021) ·
-[PAs and poverty](https://doi.org/10.1016/j.biocon.2019.108353) (Biol. Conserv. 2020)
+**Key papers**
+
+- [Natura 2000 and artificial land](https://doi.org/10.1016/j.biocon.2024.110556) (Biol. Conserv. 2024)
+- [Southeast Asia's new protected areas](https://doi.org/10.1016/j.cub.2024.07.031) (Curr. Biol. 2024)
+- [Representative global PA network](https://doi.org/10.1088/1748-9326/ac3534) (ERL 2021)
+- [Strict vs. multiple-use PAs](https://doi.org/10.1007/s13280-020-01426-5) (Ambio 2021)
+- [PAs and poverty](https://doi.org/10.1016/j.biocon.2019.108353) (Biol. Conserv. 2020)
 
 ## Human pressure on biodiversity
 
 Beyond protected areas, I map and explain the pressures acting on ecosystems: human pressure on the world's lakes, threats to wilderness, high-nature-value farmland and riparian zones, and how threats co-occur. I also test whether remotely sensed indicators capture the threats that matter on the ground.
 
-**Key papers:**
-[Human pressure on the world's lakes](https://doi.org/10.1016/j.gloenvcha.2020.102084) (Glob. Environ. Change 2020) ·
-[Riparian zones in the EU](https://doi.org/10.1016/j.biocon.2026.111856) (Biol. Conserv. 2026) ·
-[Co-occurring threats in PAs](https://doi.org/10.1007/s13280-023-01966-6) (Ambio 2024) ·
-[Remote assessments miss threats](https://doi.org/10.1002/inc3.11) (Integr. Conserv. 2022)
+**Key papers**
+
+- [Human pressure on the world's lakes](https://doi.org/10.1016/j.gloenvcha.2020.102084) (Glob. Environ. Change 2020)
+- [Riparian zones in the EU](https://doi.org/10.1016/j.biocon.2026.111856) (Biol. Conserv. 2026)
+- [Co-occurring threats in PAs](https://doi.org/10.1007/s13280-023-01966-6) (Ambio 2024)
+- [Remote assessments miss threats](https://doi.org/10.1002/inc3.11) (Integr. Conserv. 2022)
 
 ## Soundscape ecology
 
 Passive acoustic monitoring can survey vocalizing animals at scales no field team can match. My group develops and tests acoustic indices and machine-learning approaches for estimating bird diversity, examines what confounds them, and shares open acoustic datasets.
 
-**Key papers:**
-[Acoustic indices across Cyprus, China and Australia](https://doi.org/10.1016/j.ecolind.2025.113105) (Ecol. Indic. 2025) ·
-[Cyprus ecoacoustic dataset](https://doi.org/10.1038/s41597-025-04807-1) (Sci. Data 2025) ·
-[Worldwide Soundscapes](https://doi.org/10.1111/geb.70021) (GEB 2025) ·
-[Latitude and acoustic indices: a meta-analysis](https://doi.org/10.1016/j.ecolind.2024.111747) (Ecol. Indic. 2024)
+**Key papers**
+
+- [Acoustic indices across Cyprus, China and Australia](https://doi.org/10.1016/j.ecolind.2025.113105) (Ecol. Indic. 2025)
+- [Cyprus ecoacoustic dataset](https://doi.org/10.1038/s41597-025-04807-1) (Sci. Data 2025)
+- [Worldwide Soundscapes](https://doi.org/10.1111/geb.70021) (GEB 2025)
+- [Latitude and acoustic indices: a meta-analysis](https://doi.org/10.1016/j.ecolind.2024.111747) (Ecol. Indic. 2024)
 
 ## AI and computational methods in ecology
 
 I am interested in how new computational tools, from large language models to conformal prediction, can make ecological research faster, more transparent and better at quantifying uncertainty.
 
-**Key papers:**
-[LLMs in ecology and conservation](https://doi.org/10.1111/cobi.70287) (Conserv. Biol. 2026) ·
-[Conformal prediction for monitoring](https://doi.org/10.1016/j.indic.2026.101387) (Environ. Sustain. Indic. 2026) ·
-[LLMs in interdisciplinary research](https://doi.org/10.1111/2041-210X.14398) (Methods Ecol. Evol. 2024)
+**Key papers**
+
+- [LLMs in ecology and conservation](https://doi.org/10.1111/cobi.70287) (Conserv. Biol. 2026)
+- [Conformal prediction for monitoring](https://doi.org/10.1016/j.indic.2026.101387) (Environ. Sustain. Indic. 2026)
+- [LLMs in interdisciplinary research](https://doi.org/10.1111/2041-210X.14398) (Methods Ecol. Evol. 2024)
 
 ## Conservation science and society
 
 I also study the wider context conservation operates in: how the EU allocates conservation funding, biases in the conservation literature, and how much attention biodiversity receives in the media.
 
-**Key papers:**
-[Media coverage of biodiversity](https://doi.org/10.1038/s44185-025-00082-w) (npj Biodivers. 2025) ·
-[EU conservation funding](https://doi.org/10.1017/S0376892920000028) (Environ. Conserv. 2020) ·
-[Taxonomic bias in EU conservation](https://doi.org/10.1007/s10531-019-01725-8) (Biodivers. Conserv. 2019)
+**Key papers**
+
+- [Media coverage of biodiversity](https://doi.org/10.1038/s44185-025-00082-w) (npj Biodivers. 2025)
+- [EU conservation funding](https://doi.org/10.1017/S0376892920000028) (Environ. Conserv. 2020)
+- [Taxonomic bias in EU conservation](https://doi.org/10.1007/s10531-019-01725-8) (Biodivers. Conserv. 2019)
