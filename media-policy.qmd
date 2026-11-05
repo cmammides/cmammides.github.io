@@ -1,6 +1,6 @@
 ---
 title: "Media and policy"
-subtitle: "Media coverage of our research and policy documents that cite it"
+subtitle: "Media coverage and policy citations of our research"
 ---
 
 ## Media coverage
