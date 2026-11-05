@@ -125,6 +125,10 @@ Marie Skłodowska-Curie Actions Alumni
 ## Policy citations
 
 ::: {.cv-item}
+<span class="when">2026</span>
+<span>**Grantham Research Institute on Climate Change and the Environment, London School of Economics**, *China’s Role in Implementing the Kunming-Montreal Global Biodiversity Framework*<br><span class="cv-cites">Cites and reproduces a figure from: Media coverage of biodiversity falls short compared to climate change and popular culture (Mammides & Campos-Arceiz 2025)</span></span>
+:::
+::: {.cv-item}
 <span class="when">2023</span>
 <span>**Québec Government**, *Category VI Protected Area Case Study*<br><span class="cv-cites">Cites: Strictly protected areas are not necessarily more effective than areas in which multiple human uses are permitted (Elleason et al. 2021)</span></span>
 :::
