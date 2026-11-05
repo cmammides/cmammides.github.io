@@ -44,8 +44,8 @@ body-classes: home
 <h2 class="head-row"><span>Recent studies</span><a class="head-link" href="publications.html">Publications</a></h2>
 <div class="fstudies">
 <article class="fs">
-<h3>Large language models have potentially transformative implications for ecology and conservation science.</h3>
-<p>We synthesized emerging applications of large language models in conservation science, along with the associated challenges and potential ways to address them.</p>
+<h3>Large language models have potentially transformative implications for ecology and conservation science when applied responsibly.</h3>
+<p>We synthesized emerging applications of large language models in conservation science, discussing also associated challenges and potential ways to address them.</p>
 <a class="fs-link" href="https://doi.org/10.1111/cobi.70287">Conservation Biology, 2026<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
