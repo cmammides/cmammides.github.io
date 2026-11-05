@@ -113,7 +113,7 @@ document.addEventListener('DOMContentLoaded',function(){
 :::
 
 ::: {.pub topics="lu"}
-[Occupancy and coexistence patterns of sympatric felid species in human-disturbed tropical habitats of Xishuangbanna, southwestern China<i class="bi bi-box-arrow-up-right"></i>](https://dx.doi.org/10.24272/j.issn.2097-3772.2025.002){.pub-title}
+[Occupancy and coexistence patterns of sympatric felid species in human-disturbed tropical habitats of Xishuangbanna, southwestern China<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.24272/j.issn.2097-3772.2025.002){.pub-title}
 [*Zoological Research: Diversity and Conservation*, 2025]{.pub-journal}
 [Liu, Y., He, R. C., Wang, L., **Mammides, C.**, & Quan, R.]{.pub-authors}
 :::
@@ -389,7 +389,7 @@ document.addEventListener('DOMContentLoaded',function(){
 :::
 
 ::: {.pub topics="lu"}
-[Selective logging intensity alters the population stand structure of Cullenia-Mesua-Palaquium dominated tropical wet evergreen forest of the Western Ghats, South India<i class="bi bi-box-arrow-up-right"></i>](http://dx.doi.org/10.15666/aeer/1704_95919607){.pub-title}
+[Selective logging intensity alters the population stand structure of Cullenia-Mesua-Palaquium dominated tropical wet evergreen forest of the Western Ghats, South India<i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.15666/aeer/1704_95919607){.pub-title}
 [*Applied Ecology and Environmental Research, 17 (4), 9591-9607*, 2019]{.pub-journal}
 [Ramachandran, V. S., Mohandass, D., Campbell, M. J., **Mammides, C.**, & Shao, S. C.]{.pub-authors}
 :::
