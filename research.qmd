@@ -2,7 +2,7 @@
 title: "Research"
 subtitle: "Human impacts on biodiversity and the effectiveness of conservation measures"
 ---
-My research examines how human activities affect biodiversity and how effectively conservation measures mitigate these impacts, combining large-scale spatial data with quasi-experimental and statistical methods. In conjunction, I develop and evaluate acoustic and computational approaches for biodiversity monitoring.
+My research examines how human activities affect biodiversity and how effectively conservation measures mitigate these impacts, combining large-scale spatial data with quasi-experimental and statistical methods. I also develop and evaluate acoustic and computational approaches for biodiversity monitoring.
 
 ```{=html}
 <img class="research-photo" src="images/research.jpg" alt="Asian elephants feeding in dense vegetation">
@@ -20,8 +20,8 @@ Protected areas are central to global conservation policy, yet their effectivene
 <a class="fs-link" href="https://doi.org/10.1016/j.biocon.2026.111856">Biological Conservation, 2026<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
-<h3>Only 36 of 80 recently established protected areas in Southeast Asia were effective in reducing deforestation.</h3>
-<p>We compared each protected area with a synthetic control built from unprotected forest and found that only 45% reduced deforestation. Investing at least US$17 million annually in improving the management of the remaining 44 could enhance their effectiveness in curbing forest loss and protecting carbon stocks, with carbon markets offering a potential source of funding.</p>
+<h3>Many recently established protected areas in Southeast Asia have not curbed deforestation.</h3>
+<p>We compared each of 80 protected areas with a synthetic control built from unprotected forest and found that only 36 (45%) reduced deforestation. Investing at least US$17 million annually in improving the management of the remaining 44 could enhance their effectiveness in curbing forest loss and protecting carbon stocks, with carbon markets offering a potential source of funding.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.cub.2024.07.031">Current Biology, 2024<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
@@ -97,7 +97,7 @@ My research also explores the broader social and policy context of conservation,
 <a class="fs-link" href="https://doi.org/10.1017/S0376892920000028">Environmental Conservation, 2020<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
-<h3>The European Union’s conservation efforts are taxonomically biased.</h3>
+<h3>Many of the EU’s threatened species are overlooked by its conservation efforts.</h3>
 <p>An analysis of EU conservation legislation and LIFE Programme funding revealed a taxonomic bias, with conservation efforts focusing largely on species listed in the Birds and Habitats Directives, which over-represent vertebrates, particularly birds.</p>
 <a class="fs-link" href="https://doi.org/10.1007/s10531-019-01725-8">Biodiversity and Conservation, 2019<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
