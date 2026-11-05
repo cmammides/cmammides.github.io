@@ -6,7 +6,16 @@ subtitle: "Media coverage of our research and policy documents that cite it"
 ## Media coverage
 
 ::: {.cv-flat .mp-item}
+**Focus**, [È in corso la Cop17 sulla biodiversità: ecco quali sono gli obiettivi (più realistici)<i class="bi bi-box-arrow-up-right"></i>](https://www.focus.it/ambiente/ecologia/e-in-corso-la-cop17-sulla-biodiversita-ecco-quali-sono-gli-obiettivi){.mp-link} (in Italian)<br><span class="cv-cites">Covers: Media coverage of biodiversity falls short compared to climate change and popular culture (Mammides & Campos-Arceiz 2025)</span>
+:::
+::: {.cv-flat .mp-item}
+**Mongabay**, [Small-scale farming, logging eclipse megaprojects as top threats to Tapanuli orangutan habitat<i class="bi bi-box-arrow-up-right"></i>](https://news.mongabay.com/2026/07/small-scale-farming-logging-eclipse-megaprojects-as-top-threats-to-tapanuli-orangutan-habitat/){.mp-link}<br><span class="cv-cites">Covers: Disentangling the impacts of agriculture, logging, and extractive industries on Tapanuli orangutan habitat (Sreekar et al. 2026)</span>
+:::
+::: {.cv-flat .mp-item}
 **The Wildlife Society**, [Q&A: Should wildlife biologists embrace AI?<i class="bi bi-box-arrow-up-right"></i>](https://wildlife.org/qa-should-wildlife-biologists-embrace-ai/){.mp-link}<br><span class="cv-cites">Covers: Emerging applications of large language models in ecology and conservation science (Mammides et al. 2026)</span>
+:::
+::: {.cv-flat .mp-item}
+**Copernicus Land Monitoring Service**, [Land Service data helps reveal pressures on Europe’s riparian zones<i class="bi bi-box-arrow-up-right"></i>](https://land.copernicus.eu/en/use-cases/land-service-data-helps-reveal-pressures-on-europes-riparian-zones/land-service-data-helps-reveal-pressures-on-europes-riparian-zones){.mp-link}<br><span class="cv-cites">Covers: Riparian zones across the European Union face continued threats from agriculture and urbanization (Pontikis et al. 2026)</span>
 :::
 ::: {.cv-flat .mp-item}
 **Mongabay**, [Mounting risks due to climate change threaten Sri Lanka’s endemic species<i class="bi bi-box-arrow-up-right"></i>](https://news.mongabay.com/2025/06/mounting-risks-due-to-climate-change-threaten-sri-lankas-endemic-species/){.mp-link}<br><span class="cv-cites">Covers: The vulnerability of endemic vertebrates in Sri Lanka to climate change (Wijerathne et al. 2025)</span>
