@@ -110,16 +110,16 @@ title: "Curriculum vitae"
 ### Memberships
 
 ::: {.cv-flat}
-[IUCN World Commission on Protected Areas (WCPA)](https://iucn.org/our-union/commissions/iucn-world-commission-protected-areas)
+IUCN World Commission on Protected Areas (WCPA)
 :::
 ::: {.cv-flat}
-[Global Land Programme (GLP)](https://www.glp.earth/people/christos-mammides)
+Global Land Programme (GLP)
 :::
 ::: {.cv-flat}
-[Impact Evaluation Working Group](https://scb-impact.org/), Society for Conservation Biology
+Impact Evaluation Working Group, Society for Conservation Biology
 :::
 ::: {.cv-flat}
-[Marie Skłodowska-Curie Actions Alumni](https://www.mariecuriealumni.eu/)
+Marie Skłodowska-Curie Actions Alumni
 :::
 
 ## Teaching
