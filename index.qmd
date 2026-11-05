@@ -99,7 +99,6 @@ body-classes: home
 <li><span class="svc-main">Marie Skłodowska-Curie Actions Alumni</span></li>
 </ul></div>
 </div>
-<a class="more-btn" href="cv.html#academic-service">Curriculum vitae</a>
 ```
 
 ## Contact

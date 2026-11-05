@@ -131,17 +131,13 @@ a.pub-link i { font-size: .72em; margin-left: .3em; color: $forest; vertical-ali
 .rg .rg-year { display: block; font-size: .85rem; font-weight: 600; letter-spacing: .08em; color: #6b7a74; margin-bottom: .25rem; }
 @media (max-width: 720px) { .rgrants { grid-template-columns: 1fr; } }
 
-/* "See more" buttons under homepage sections */
+/* "See more" links under homepage sections (phones only) */
 .more-btn {
-  display: flex; width: fit-content; align-items: center; gap: .55rem;
-  margin: .4rem auto 1.8rem; padding: .5rem 1.05rem .5rem 1.2rem;
-  background: #fff; border: 1px solid $forest; border-radius: 6px;
-  font-size: .95rem; font-weight: 500; color: $forest-dark; text-decoration: none;
+  display: block; width: fit-content; margin: .4rem 0 2rem auto;
+  font-size: .95rem; font-weight: 500; color: $forest; text-decoration: none;
 }
-.more-btn::after { content: "\203A"; font-size: 1.15rem; line-height: 1; color: $forest; transition: transform .15s; }
-.more-btn:hover { background: #e7eee9; color: $forest-dark; }
-.more-btn:hover::after { transform: translateX(2px); }
-@media (max-width: 720px) { .more-btn { width: auto; justify-content: center; } }
+.more-btn::after { content: " \203A"; }
+.more-btn:hover { text-decoration: underline; text-underline-offset: 3px; }
 
 /* Centred closing Contact section */
 #contact { text-align: center; }
@@ -187,3 +183,4 @@ body.pub-filtered section.level2 { margin: 0; }
 .media-item .media-title i { font-size: .72em; margin-left: .35em; color: $forest; }
 .media-item:hover .media-title { text-decoration: underline; text-underline-offset: 3px; }
 @media (max-width: 720px) { .media { grid-template-columns: 1fr; } }
+.fstudies + .more-btn { margin-top: -1rem; }
