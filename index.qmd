@@ -45,22 +45,22 @@ body-classes: home
 <div class="fstudies">
 <article class="fs">
 <h3>Large language models have potentially transformative implications for ecology and conservation science.</h3>
-<p>We synthesised emerging applications of large language models, described the associated challenges, and outlined potential ways to address them.</p>
+<p>We synthesized emerging applications of large language models in conservation science, along with the associated challenges and potential ways to address them.</p>
 <a class="fs-link" href="https://doi.org/10.1111/cobi.70287">Conservation Biology, 2026<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>Media coverage of biodiversity falls short compared to climate change and popular culture.</h3>
-<p>We showed that COP15, the summit at which the Kunming-Montreal Global Biodiversity Framework was adopted, received far less media attention than the climate summit held a month earlier.</p>
+<p>We showed that COP15, the summit at which the Kunming-Montreal Global Biodiversity Framework was adopted, received far less media attention and public interest than the climate summit held a month earlier.</p>
 <a class="fs-link" href="https://doi.org/10.1038/s44185-025-00082-w">npj Biodiversity, 2025<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>Acoustic indices may not yet be effective for accurately monitoring bird species richness.</h3>
-<p>We analysed 60 acoustic indices across 114 sites in Cyprus, China and Australia and found that accurately monitoring bird species richness with them remained challenging.</p>
+<p>We analysed 60 acoustic indices across 114 sites in Cyprus, China, and Australia, and found that accurately monitoring bird species richness with them remained challenging.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.ecolind.2025.113105">Ecological Indicators, 2025<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>Land artificialisation is lower inside Natura 2000 sites, but it has not been halted.</h3>
-<p>Impervious surfaces were lower within Natura 2000 sites for all habitats examined, yet coastal, grassland and agricultural habitats remained affected, even within protected sites.</p>
+<p>Impervious surfaces were lower within Natura 2000 sites for all habitats examined, yet coastal, grassland and agricultural habitats remained affected by land artificialisation, even within protected sites.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.biocon.2024.110556">Biological Conservation, 2024<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
