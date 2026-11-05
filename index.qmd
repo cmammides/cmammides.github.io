@@ -5,6 +5,16 @@ body-classes: home
 ---
 
 ```{=html}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[
+{"@type":"WebSite","@id":"https://cmammides.github.io/#website","name":"Christos Mammides","alternateName":"Christos Mammides – personal academic website","url":"https://cmammides.github.io/"},
+{"@type":"Person","@id":"https://cmammides.github.io/#person","name":"Christos Mammides","url":"https://cmammides.github.io/","image":"https://cmammides.github.io/images/portrait.jpg","jobTitle":"Professor","worksFor":{"@type":"Organization","name":"Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences"},"sameAs":["https://scholar.google.com/citations?user=kuDv6QoAAAAJ","https://www.linkedin.com/in/christos-mammides/"]}
+]}
+</script>
+```
+
+
+```{=html}
 <div class="hero">
 <img class="portrait" src="images/portrait.jpg" alt="Portrait of Christos Mammides">
 <div class="hero-text">

@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resources:
     - google248636732fb723d9.html
+    - favicon.ico
 
 website:
   title: "Christos Mammides"
