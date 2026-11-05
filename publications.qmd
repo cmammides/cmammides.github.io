@@ -4,7 +4,7 @@ title: "Publications"
 
 <!-- Summary line: update the numbers occasionally from Google Scholar. -->
 ```{=html}
-<p class="pub-lead">More than 70 peer-reviewed papers, cited nearly 2,200 times (h-index 26), in journals including Global Environmental Change, Current Biology, Conservation Biology, Proceedings of the Royal Society B and Ecological Indicators.</p>
+<p class="pub-lead">Author of more than 70 peer-reviewed publications, with approximately 2,200 citations and an h-index of 26, in journals such as Global Environmental Change, Current Biology, Conservation Biology, and Proceedings of the Royal Society B.</p>
 <div class="profiles pub-profiles"><a href="https://scholar.google.com/citations?user=kuDv6QoAAAAJ&hl=en"><i class="bi bi-mortarboard-fill"></i>Google Scholar</a></div>
 ```
 
