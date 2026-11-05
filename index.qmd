@@ -43,10 +43,10 @@ body-classes: home
 ```{=html}
 <h2 class="head-row"><span>Policy impact</span><a class="head-link" href="cv.html#policy-citations">Policy citations</a></h2>
 <div class="media policy">
-<div class="media-item"><span class="rg-year">European Environment Agency</span><span class="media-title"><em>State of Nature in the EU</em> (2020)</span><span class="policy-cites">Cites our study of land-cover change in high nature value farmland inside and outside Natura 2000 sites</span></div>
-<div class="media-item"><span class="rg-year">European Commission</span><span class="media-title">Fitness Check of the Birds and Habitats Directives (2016)</span><span class="policy-cites">Cites our study of road networks and bird species richness in Natura 2000 sites in Cyprus</span></div>
-<div class="media-item"><span class="rg-year">FAO</span><span class="media-title"><em>Mainstreaming Biodiversity in Forestry</em> (2022)</span><span class="policy-cites">Cites our study of protected areas in the world’s last wilderness areas</span></div>
-<div class="media-item"><span class="rg-year">UNEP</span><span class="media-title">Global Mercury Assessment 2018, technical background report (2019)</span><span class="policy-cites">Cites our study of mercury flow through a rice-based food web</span></div>
+<div class="media-item"><span class="rg-year">European Environment Agency</span><span class="media-title"><em>State of Nature in the EU</em> (2020)</span><span class="policy-cites">Changes in land-cover within high nature value farmlands inside and outside Natura 2000 sites in Europe, Ambio, 2020</span></div>
+<div class="media-item"><span class="rg-year">European Commission</span><span class="media-title">Fitness Check of the Birds and Habitats Directives (2016)</span><span class="policy-cites">The effects of road networks and habitat heterogeneity on the species richness of birds in Natura 2000 sites in Cyprus, Landscape Ecology, 2015</span></div>
+<div class="media-item"><span class="rg-year">Food and Agriculture Organization of the United Nations</span><span class="media-title"><em>Mainstreaming Biodiversity in Forestry</em> (2022)</span><span class="policy-cites">The role of protected areas in mitigating human impact in the world’s last wilderness areas, Ambio, 2020</span></div>
+<div class="media-item"><span class="rg-year">United Nations Environment Programme</span><span class="media-title">Global Mercury Assessment 2018, technical background report (2019)</span><span class="policy-cites">Mercury flow through an Asian rice-based food web, Environmental Pollution, 2017</span></div>
 </div>
 <a class="more-btn" href="cv.html#policy-citations">Policy citations</a>
 ```
