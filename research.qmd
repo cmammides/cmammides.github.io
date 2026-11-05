@@ -16,17 +16,17 @@ Protected areas are central to global conservation policy, yet their effectivene
 <div class="rstudies">
 <article class="fs">
 <h3>Riparian zones across the EU face continued threats from agriculture and urbanization, although pressures are lower within Natura 2000 sites.</h3>
-<p>Agriculture and urban areas cover 42.66% of riparian zones outside the network and 16.85% inside. Riparian zones within Natura 2000 sites are 5.01 times less likely to be affected by urbanization, but only 2.61 times less likely to be affected by agriculture.</p>
+<p>We mapped agriculture and urban areas in riparian zones across the EU and found that they covered 43% of riparian zones outside Natura 2000 sites but 17% inside, with protection curbing urbanization more than agriculture. Riparian zones may need stronger safeguards against agriculture, even within protected areas.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.biocon.2026.111856">Biological Conservation, 2026<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>Only 36 of 80 recently established protected areas in Southeast Asia were effective in reducing deforestation.</h3>
-<p>Comparing each protected area with a synthetic control built from unprotected forest, the remaining 44 showed similar or higher deforestation rates than before designation, highlighting opportunities for improved management.</p>
+<p>We compared each protected area with a synthetic control built from unprotected forest and found that the remaining 44 did not reduce deforestation. Designating new protected areas is not enough on its own; many also need better management.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.cub.2024.07.031">Current Biology, 2024<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>Remote assessments of human pressure on biodiversity may miss important human threats.</h3>
-<p>Indices derived largely from remote sensing, such as the Human Footprint and Human Modification indices, may miss crucial threats within protected areas, such as hunting and invasive species, which should be complemented with information collected in the field.</p>
+<p>We compared three widely used indices of human pressure, including the Human Footprint, with the threats recorded in Natura 2000 sites and found that they missed threats such as hunting and invasive species. Relying on remote sensing alone may therefore underestimate the pressures facing protected areas.</p>
 <a class="fs-link" href="https://doi.org/10.1002/inc3.11">Integrative Conservation, 2022<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
@@ -39,18 +39,18 @@ Passive acoustic monitoring allows vocalizing animals to be surveyed across larg
 ```{=html}
 <div class="rstudies">
 <article class="fs">
-<h3>Acoustic indices are more strongly correlated with biodiversity at higher latitudes.</h3>
-<p>Using 524 effect sizes from 49 studies, we found a moderate positive correlation between acoustic indices and biodiversity (r = 0.32). Latitude was the second most important moderator, after the type of acoustic index.</p>
+<h3>Acoustic indices are only moderately correlated with biodiversity.</h3>
+<p>We analysed 524 effect sizes from 49 studies and found a moderate positive correlation between acoustic indices and biodiversity (r = 0.32), which was stronger at higher latitudes. Acoustic indices should therefore be tested locally before they are used as proxies for biodiversity.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.ecolind.2024.111747">Ecological Indicators, 2024<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>Non-focal sounds confound the relationships between acoustic indices and bird species richness.</h3>
-<p>Only seven of 42 correlations between bird species richness and seven commonly used indices were even moderate. The amounts of different sound categories, such as insects, wind and human noise, were more influential on the indices than bird species richness.</p>
+<p>We tested seven commonly used acoustic indices and found that sounds such as insects, wind and human noise influenced them more than bird species richness did. These sounds need to be accounted for before acoustic indices are used to monitor birds.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.gecco.2024.e02922">Global Ecology and Conservation, 2024<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>A large ecoacoustic dataset from the Mediterranean Basin biodiversity hotspot.</h3>
-<p>More than 313,000 audio files, representing over 5,200 hours of recordings from sixty-one sites on Cyprus, made openly available to support passive acoustic monitoring and the study of fundamental ecological questions.</p>
+<p>We made openly available more than 5,200 hours of recordings from 61 sites on Cyprus to support passive acoustic monitoring and the study of fundamental ecological questions. Open datasets like this allow researchers to develop and test acoustic methods without collecting new recordings.</p>
 <a class="fs-link" href="https://doi.org/10.1038/s41597-025-04807-1">Scientific Data, 2025<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
@@ -64,17 +64,17 @@ I am interested in exploring how various computational tools, including large la
 <div class="rstudies">
 <article class="fs">
 <h3>Large language models have potentially transformative implications for ecology and conservation science.</h3>
-<p>We synthesise emerging applications, from analysing unstructured texts to enhancing biodiversity monitoring and generating policy-relevant insights, together with the technical and ethical challenges they raise.</p>
+<p>We synthesised emerging applications of large language models, described the associated challenges, and outlined potential ways to address them. Their benefits for the field will depend on careful validation and responsible use.</p>
 <a class="fs-link" href="https://doi.org/10.1111/cobi.70287">Conservation Biology, 2026<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>Large language models can facilitate interdisciplinary research, but carry important risks.</h3>
-<p>Using them for complex tasks can generate inaccurate information. We recommend appropriate prompts, dividing complex tasks into smaller ones, and formal training in LLMs within academic programs.</p>
+<p>We argued that LLMs can lower the barriers between disciplines, helping ecologists adopt techniques common in other fields, but that their outputs must be validated and researchers trained to use them responsibly. This matters because challenges such as biodiversity loss and climate change require interdisciplinary research.</p>
 <a class="fs-link" href="https://doi.org/10.1111/2041-210X.14398">Methods in Ecology and Evolution, 2024<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>Conformal prediction can quantify the uncertainty of machine learning models used to monitor animal communities.</h3>
-<p>Machine learning methods such as random forests do not provide a measure of the uncertainty of their predictions. The conformal prediction framework provides prediction intervals with guaranteed coverage.</p>
+<p>We showed how conformal prediction can add prediction intervals with guaranteed coverage to machine learning models, such as random forests, used to estimate bird species richness from acoustic data. Reporting this uncertainty helps users judge how far model-based estimates can be trusted.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.indic.2026.101387">Environmental and Sustainability Indicators, 2026<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
@@ -88,17 +88,17 @@ My research also explores the broader social and policy context of conservation,
 <div class="rstudies">
 <article class="fs">
 <h3>Media coverage of biodiversity falls short compared to climate change and popular culture.</h3>
-<p>Analysing 227,940 media stories worldwide, we found that the climate summit COP27 received nearly seven times more coverage than the biodiversity summit COP15, which was also overshadowed by Taylor Swift.</p>
+<p>We analysed 227,940 media stories worldwide and found that COP27 received nearly seven times more coverage than COP15, which was also overshadowed by Taylor Swift. Limited media attention may weaken public and political support for tackling biodiversity loss.</p>
 <a class="fs-link" href="https://doi.org/10.1038/s44185-025-00082-w">npj Biodiversity, 2025<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>EU conservation funding is unevenly distributed among habitats and member states.</h3>
-<p>Analysing the LIFE programme since 1992, we found that a quarter of habitats have never received funding, the number of projects per state is only weakly related to its number of habitats (R² = 0.39), and transnational cooperation is low.</p>
+<p>We analysed LIFE projects funded since 1992 and found that a quarter of habitats had never received funding and that transnational cooperation was low. Allocating funds more strategically could help reach habitats that have so far been overlooked.</p>
 <a class="fs-link" href="https://doi.org/10.1017/S0376892920000028">Environmental Conservation, 2020<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>The European Union’s conservation efforts are taxonomically biased.</h3>
-<p>EU efforts focus mostly on the species listed in the annexes of the Birds and Habitats Directives, which over-represent vertebrates, especially birds.</p>
+<p>I argued that EU conservation efforts focus mostly on the species listed in the Birds and Habitats Directives, which over-represent vertebrates, especially birds, leaving many other threatened species overlooked. Broadening the legislation to cover more taxa could help protect more of the EU’s threatened species.</p>
 <a class="fs-link" href="https://doi.org/10.1007/s10531-019-01725-8">Biodiversity and Conservation, 2019<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
