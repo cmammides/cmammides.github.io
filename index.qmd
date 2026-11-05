@@ -51,7 +51,7 @@ body-classes: home
 </article>
 <article class="fs">
 <h3>Media coverage of biodiversity falls short compared to climate change and popular culture.</h3>
-<p>We showed that COP15, the summit at which the Kunming-Montreal Global Biodiversity Framework was adopted, attracted substantially less media coverage and public interest than the climate summit held just a month earlier, highlighting the persistent gap in public awareness between biodiversity loss and climate change.</p>
+<p>We showed that COP15, the summit at which the Kunming-Montreal Global Biodiversity Framework was adopted, attracted substantially less media coverage and public interest than the climate summit held just a month earlier, highlighting the gap in public discourse between biodiversity loss and climate change.</p>
 <a class="fs-link" href="https://doi.org/10.1038/s44185-025-00082-w">npj Biodiversity, 2025<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
@@ -61,7 +61,7 @@ body-classes: home
 </article>
 <article class="fs">
 <h3>Land artificialization is lower inside Natura 2000 sites, but it has not been halted.</h3>
-<p>Impervious surface cover was consistently lower within Natura 2000 sites across all habitats examined, yet coastal, grassland, and agricultural habitats remained vulnerable to land artificialization, emphasizing the need for improved management to strengthen the effectiveness of protected areas.</p>
+<p>Impervious surface cover was consistently lower within Natura 2000 sites across all habitats examined, yet coastal, grassland, and agricultural habitats remained vulnerable to land artificialization even within protected areas, emphasizing the need for improved management to strengthen effectiveness.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.biocon.2024.110556">Biological Conservation, 2024<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
