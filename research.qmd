@@ -2,8 +2,7 @@
 title: "Research"
 subtitle: "Human impacts on biodiversity and the effectiveness of conservation measures"
 ---
-
-My research examines how human activities affect biodiversity and how effectively conservation measures mitigate these impacts, combining large-scale spatial data with quasi-experimental and statistical methods. I also develop and evaluate acoustic and computational approaches for biodiversity monitoring.
+My research examines how human activities affect biodiversity and how effectively conservation measures mitigate these impacts, combining large-scale spatial data with quasi-experimental and statistical methods. In conjunction, I develop and evaluate acoustic and computational approaches for biodiversity monitoring.
 
 ```{=html}
 <img class="research-photo" src="images/research.jpg" alt="Asian elephants feeding in dense vegetation">
@@ -11,7 +10,7 @@ My research examines how human activities affect biodiversity and how effectivel
 
 ## Protected areas and landscape ecology
 
-Protected areas are central to global conservation policy, but their effectiveness in reducing human pressure varies widely. I map the pressures acting on forests, lakes, rivers, farmland and wilderness, and use quasi-experimental designs to estimate whether protected areas, including the EU's Natura 2000 network, reduce them. I also examine how well remote-sensing indicators capture the threats that matter on the ground, and how protected-area networks could be made more ecologically representative.
+Protected areas are central to global conservation policy, yet their effectiveness in reducing human pressure varies widely. My work focuses on quantifying human pressures on natural ecosystems and using quasi-experimental designs to estimate the extent to which protected areas, including the EU’s Natura 2000 network, mitigate these pressures. I have also explored how well remote-sensing indicators capture threats on the ground and how protected-area networks could be made more ecologically representative.
 
 ```{=html}
 <div class="rstudies">
@@ -35,7 +34,7 @@ Protected areas are central to global conservation policy, but their effectivene
 
 ## Soundscape ecology
 
-Passive acoustic monitoring allows vocalizing animals to be surveyed over large spatial and temporal scales. My group develops and tests acoustic indices and machine-learning approaches for estimating bird diversity, examines what confounds them, and shares open acoustic datasets.
+Passive acoustic monitoring allows vocalizing animals to be surveyed across large spatial and temporal scales. My work in this area focuses on evaluating and improving acoustic methods, including machine-learning approaches, for biodiversity monitoring.
 
 ```{=html}
 <div class="rstudies">
@@ -83,7 +82,7 @@ I am interested in how new computational tools, such as large language models an
 
 ## Policy and society
 
-I also study the wider context conservation operates in: how much attention biodiversity receives in the media, how the EU allocates its conservation funding, and which species its conservation efforts favour.
+My research also explores the broader social and policy context of conservation, including how biodiversity is represented in the media, how the EU allocates funding for conservation, and which species benefit most from its conservation efforts.
 
 ```{=html}
 <div class="rstudies">
