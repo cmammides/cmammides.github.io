@@ -60,7 +60,7 @@ body-classes: home
 </article>
 <article class="fs">
 <h3>Land artificialization is lower inside Natura 2000 sites, but it has not been halted.</h3>
-<p>Impervious surface cover was consistently lower within Natura 2000 sites across all habitats examined, yet coastal, grassland, and agricultural habitats remained vulnerable to land artificialization, underscoring the need for improved management to strengthen the effectiveness of protected areas.</p>
+<p>Impervious surface cover was consistently lower within Natura 2000 sites across all habitats examined, yet coastal, grassland, and agricultural habitats remained vulnerable to land artificialization, emphasizing the need for improved management to strengthen the effectiveness of protected areas.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.biocon.2024.110556">Biological Conservation, 2024<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
