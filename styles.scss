@@ -171,7 +171,7 @@ h2.head-row .head-link { margin-left: auto; order: 99; }
 .pf:hover { border-color: $forest; }
 .pf.active { background: $forest; border-color: $forest; color: #fff; }
 .pf .pf-n { margin-left: .4rem; font-size: .8rem; opacity: .7; }
-@media (max-width: 600px) { .pub-filter { gap: .4rem; } .pf { font-size: .85rem; padding: .3rem .6rem; } }
+@media (max-width: 600px) { .pub-filter { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .45rem; } .pf { font-size: .8rem; padding: .45rem .25rem; text-align: center; white-space: nowrap; } }
 
 /* Filtered view: one continuous list without year headings */
 body.pub-filtered section.level2 { margin: 0; }
@@ -184,3 +184,4 @@ body.pub-filtered section.level2 { margin: 0; }
 .media-item:hover .media-title { text-decoration: underline; text-underline-offset: 3px; }
 @media (max-width: 720px) { .media { grid-template-columns: 1fr; } }
 .fstudies + .more-btn { margin-top: -1rem; }
+@media (max-width: 380px) { .pf { font-size: .72rem; padding-left: .1rem; padding-right: .1rem; } }
