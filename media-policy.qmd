@@ -12,6 +12,9 @@ subtitle: "Media coverage of our research and policy documents that cite it"
 **Mongabay**, [Small-scale farming, logging eclipse megaprojects as top threats to Tapanuli orangutan habitat<i class="bi bi-box-arrow-up-right"></i>](https://news.mongabay.com/2026/07/small-scale-farming-logging-eclipse-megaprojects-as-top-threats-to-tapanuli-orangutan-habitat/){.mp-link}<br><span class="cv-cites">Covers: Disentangling the impacts of agriculture, logging, and extractive industries on Tapanuli orangutan habitat (Sreekar et al. 2026)</span>
 :::
 ::: {.cv-flat .mp-item}
+**The Times of India**, [When disappearing wetlands left birds with nowhere safe to nest, the United States began building artificial islands that now shelter thousands of breeding waterbirds<i class="bi bi-box-arrow-up-right"></i>](https://timesofindia.indiatimes.com/world/us/when-disappearing-wetlands-left-birds-with-nowhere-safe-to-nest-the-united-states-began-building-artificial-islands-that-now-shelter-thousands-of-breeding-waterbirds/articleshow/132308068.cms){.mp-link}<br><span class="cv-cites">Covers: The importance of artificial wetlands for birds: A case study from Cyprus (Giosa et al. 2018)</span>
+:::
+::: {.cv-flat .mp-item}
 **The Wildlife Society**, [Q&A: Should wildlife biologists embrace AI?<i class="bi bi-box-arrow-up-right"></i>](https://wildlife.org/qa-should-wildlife-biologists-embrace-ai/){.mp-link}<br><span class="cv-cites">Covers: Emerging applications of large language models in ecology and conservation science (Mammides et al. 2026)</span>
 :::
 ::: {.cv-flat .mp-item}
