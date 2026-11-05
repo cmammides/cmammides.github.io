@@ -64,17 +64,17 @@ I am interested in exploring how various computational tools, including large la
 <div class="rstudies">
 <article class="fs">
 <h3>Large language models have potentially transformative implications for ecology and conservation science.</h3>
-<p>We synthesised emerging applications of large language models, described the associated challenges, and outlined potential ways to address them. Applied thoughtfully, these models can be a valuable addition to the ecologist’s toolkit, but they require prudent implementation to limit their risks.</p>
+<p>We synthesised emerging applications of large language models, described the associated challenges, and outlined potential ways to address them. Applied thoughtfully, these models can be a valuable addition to the ecologist’s toolkit, but they require careful implementation to limit their risks.</p>
 <a class="fs-link" href="https://doi.org/10.1111/cobi.70287">Conservation Biology, 2026<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>Large language models can facilitate interdisciplinary research, but carry important risks.</h3>
-<p>We argued that LLMs can support interdisciplinary research by helping ecologists understand and adopt techniques common in other fields, but that they can generate inaccurate information when used for complex tasks. Journals should ensure that information and code generated with LLMs are validated, and academic programs should offer formal training in their use.</p>
+<p>We argued that LLMs can support interdisciplinary research by helping ecologists understand and adopt techniques from other fields, but that they can also generate inaccurate information when used for complex tasks. Capacity building is needed and academic programs should therefore offer formal training in their use.</p>
 <a class="fs-link" href="https://doi.org/10.1111/2041-210X.14398">Methods in Ecology and Evolution, 2024<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>Conformal prediction can quantify the uncertainty of machine learning models used to monitor animal communities.</h3>
-<p>We showed how conformal prediction can add prediction intervals with guaranteed coverage to machine learning models, such as random forests, used to estimate bird species richness from acoustic data.</p>
+<p>We showed how conformal prediction can provide prediction intervals with guaranteed coverage for machine learning models, such as random forests, used to estimate bird species richness from acoustic data. This approach can make biodiversity estimates more reliable by providing a measure of their uncertainty.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.indic.2026.101387">Environmental and Sustainability Indicators, 2026<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
