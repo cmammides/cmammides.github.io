@@ -16,17 +16,17 @@ Protected areas are central to global conservation policy, yet their effectivene
 <div class="rstudies">
 <article class="fs">
 <h3>Riparian zones across the EU face continued threats from agriculture and urbanization, although pressures are lower within Natura 2000 sites.</h3>
-<p>We mapped agriculture and urban areas in riparian zones across the EU and found that they covered 43% of riparian zones outside Natura 2000 sites but 17% inside, with protection curbing urbanization more than agriculture.</p>
+<p>Across the EU, agriculture and urban areas covered 43% of riparian zones outside Natura 2000 sites, compared with 17% inside, with Natura 2000 protection more effective at limiting urbanization than agricultural encroachment.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.biocon.2026.111856">Biological Conservation, 2026<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>Only 36 of 80 recently established protected areas in Southeast Asia were effective in reducing deforestation.</h3>
-<p>We compared each protected area with a synthetic control built from unprotected forest and found that the remaining 44 did not reduce deforestation. Improving the management of these areas, estimated to require at least US$17 million, represents an important conservation opportunity.</p>
+<p>We compared each protected area with a synthetic control built from unprotected forest and found that only 45% reduced deforestation. Investing at least US$17 million annually in improving the management of the remaining 44 could enhance their effectiveness in curbing forest loss and protecting carbon stocks, with carbon markets offering a potential source of funding.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.cub.2024.07.031">Current Biology, 2024<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>Remote assessments of human pressure on biodiversity may miss important human threats.</h3>
-<p>We compared three widely used indices of human pressure, including the Human Footprint, with the threats recorded in Natura 2000 sites and found that they missed threats such as hunting and invasive species. Researchers and practitioners should be aware of these limitations and complement remote assessments with information collected in the field whenever possible.</p>
+<p>We compared three widely used indices of human pressure, including the Human Footprint, with threats recorded in Natura 2000 sites and found that they failed to capture threats such as hunting and invasive species. These findings highlight the need for researchers and practitioners to complement remote assessments with field-based information whenever possible.</p>
 <a class="fs-link" href="https://doi.org/10.1002/inc3.11">Integrative Conservation, 2022<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
