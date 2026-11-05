@@ -95,7 +95,7 @@ title: "Curriculum vitae"
 ### Expert evaluation
 
 ::: {.cv-flat}
-**Expert evaluator**, EU Horizon Europe Programme (MSCA Postdoctoral Fellowships, Twinning and Cluster 6)
+**Expert evaluator**, EU Horizon Europe Programme (MSCA Postdoctoral Fellowships, Twinning, and Cluster 6)
 :::
 ::: {.cv-flat}
 **Reviewer**, UNEP Global Environment Outlook (GEO-7), chapter review
@@ -104,7 +104,7 @@ title: "Curriculum vitae"
 **Reviewer**, Smith Fellows Program, Society for Conservation Biology
 :::
 ::: {.cv-flat}
-**Peer reviewer**, more than 140 manuscripts for journals including Nature Communications, One Earth, Ecology Letters, PLOS Biology, Conservation Biology and Biological Conservation
+**Peer reviewer**, more than 140 manuscripts for journals including Nature Communications, One Earth, Ecology Letters, PLOS Biology, Conservation Biology, and Biological Conservation
 :::
 
 ### Memberships
@@ -131,4 +131,4 @@ title: "Curriculum vitae"
 
 ## Skills
 
-R, ArcGIS Pro, Python, QGIS; quasi-experimental and causal-inference methods; species distribution modelling; passive acoustic monitoring.
+R, ArcGIS Pro, Python, QGIS; quasi-experimental and causal-inference methods; species distribution modeling; passive acoustic monitoring.

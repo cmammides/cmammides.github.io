@@ -40,12 +40,12 @@ Passive acoustic monitoring allows vocalizing animals to be surveyed across larg
 <div class="rstudies">
 <article class="fs">
 <h3>Acoustic indices are only moderately correlated with biodiversity.</h3>
-<p>We analysed 524 effect sizes from 49 studies and found a moderate positive correlation between acoustic indices and biodiversity (r = 0.32), which was stronger at higher latitudes. This suggests that acoustic indices may underestimate biodiversity in the tropics, highlighting the need to investigate the mechanisms underlying this latitudinal pattern.</p>
+<p>We analyzed 524 effect sizes from 49 studies and found a moderate positive correlation between acoustic indices and biodiversity (r = 0.32), which was stronger at higher latitudes. This suggests that acoustic indices may underestimate biodiversity in the tropics, highlighting the need to investigate the mechanisms underlying this latitudinal pattern.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.ecolind.2024.111747">Ecological Indicators, 2024<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>Non-focal sounds confound the relationships between acoustic indices and bird species richness.</h3>
-<p>We tested seven commonly used acoustic indices in southern China and found that sounds such as insects, wind and human noise influenced them more strongly than bird species richness. The indices also reflected the amount of bird sound rather than the number of species, limiting their usefulness for monitoring bird diversity.</p>
+<p>We tested seven commonly used acoustic indices in southern China and found that sounds such as insects, wind, and human noise influenced them more strongly than bird species richness. The indices also reflected the amount of bird sound rather than the number of species, limiting their usefulness for monitoring bird diversity.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.gecco.2024.e02922">Global Ecology and Conservation, 2024<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
@@ -58,13 +58,13 @@ Passive acoustic monitoring allows vocalizing animals to be surveyed across larg
 
 ## Computational methods in ecology
 
-I am interested in exploring how various computational tools, including large language models and conformal prediction, can advance ecological research, from synthesising scientific literature to quantifying uncertainty in machine-learning predictions.
+I am interested in exploring how various computational tools, including large language models and conformal prediction, can advance ecological research, from synthesizing scientific literature to quantifying uncertainty in machine-learning predictions.
 
 ```{=html}
 <div class="rstudies">
 <article class="fs">
 <h3>Large language models have potentially transformative implications for ecology and conservation science.</h3>
-<p>We synthesised emerging applications of large language models, described the associated challenges, and outlined potential ways to address them. Applied thoughtfully, these models can be a valuable addition to the ecologist’s toolkit, but they require careful implementation to limit their risks.</p>
+<p>We synthesized emerging applications of large language models, described the associated challenges, and outlined potential ways to address them. Applied thoughtfully, these models can be a valuable addition to the ecologist’s toolkit, but they require careful implementation to limit their risks.</p>
 <a class="fs-link" href="https://doi.org/10.1111/cobi.70287">Conservation Biology, 2026<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
@@ -88,12 +88,12 @@ My research also explores the broader social and policy context of conservation,
 <div class="rstudies">
 <article class="fs">
 <h3>Media coverage of biodiversity falls short compared to climate change and popular culture.</h3>
-<p>We analysed 227,940 media stories worldwide and found that COP27 received nearly seven times more coverage than COP15, which was also overshadowed by Taylor Swift. This limited media attention represents a missed opportunity to communicate the urgency of biodiversity action to the public and decision-makers.</p>
+<p>We analyzed 227,940 media stories worldwide and found that COP27 received nearly seven times more coverage than COP15, which was also overshadowed by Taylor Swift. This limited media attention represents a missed opportunity to communicate the urgency of biodiversity action to the public and decision-makers.</p>
 <a class="fs-link" href="https://doi.org/10.1038/s44185-025-00082-w">npj Biodiversity, 2025<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>EU conservation funding is unevenly distributed among habitats and member states.</h3>
-<p>We analysed LIFE projects funded since 1992 and found that a quarter of habitats had never received funding and that transnational cooperation was limited. The EU should prioritise projects in underfunded member states, particularly those targeting habitats with an unfavourable conservation status, and encourage greater transnational cooperation.</p>
+<p>We analyzed LIFE projects funded since 1992 and found that a quarter of habitats had never received funding and that transnational cooperation was limited. The EU should prioritize projects in underfunded member states, particularly those targeting habitats with an unfavorable conservation status, and encourage greater transnational cooperation.</p>
 <a class="fs-link" href="https://doi.org/10.1017/S0376892920000028">Environmental Conservation, 2020<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
