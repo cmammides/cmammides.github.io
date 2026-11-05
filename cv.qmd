@@ -22,7 +22,7 @@ title: "Curriculum vitae"
 :::
 ::: {.cv-item}
 <span class="when">2022, 2023</span>
-<span>**Visiting Lecturer** (spring semesters), University of Cyprus, Cyprus</span>
+<span>**Visiting Lecturer** (Spring semesters), University of Cyprus, Cyprus</span>
 :::
 ::: {.cv-item}
 <span class="when">2016 – 2021</span>
