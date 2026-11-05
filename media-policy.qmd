@@ -24,6 +24,12 @@ subtitle: "Media coverage and policy citations of our research"
 **Mongabay**, [Mounting risks due to climate change threaten Sri Lanka’s endemic species<i class="bi bi-box-arrow-up-right"></i>](https://news.mongabay.com/2025/06/mounting-risks-due-to-climate-change-threaten-sri-lankas-endemic-species/){.mp-link}<br><span class="cv-cites">Covers: The vulnerability of endemic vertebrates in Sri Lanka to climate change (Wijerathne et al. 2025)</span>
 :::
 ::: {.cv-flat .mp-item}
+**Phys.org**, [A global network of researchers pools sound data on biodiversity<i class="bi bi-box-arrow-up-right"></i>](https://phys.org/news/2025-05-global-network-pools-biodiversity.html){.mp-link}<br><span class="cv-cites">Covers: Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms (Darras et al. 2025)</span>
+:::
+::: {.cv-flat .mp-item}
+**France Culture**, [Plus de bruits humains, moins de sons naturels : une corrélation prouvée par le suivi acoustique passif<i class="bi bi-box-arrow-up-right"></i>](https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/plus-de-bruits-humains-moins-de-sons-naturels-une-correlation-prouvee-par-le-suivi-acoustique-passif-8833650){.mp-link} (radio, in French)<br><span class="cv-cites">Covers: Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms (Darras et al. 2025)</span>
+:::
+::: {.cv-flat .mp-item}
 **Mongabay**, [Study highlights effects of habitat fragmentation on Sri Lankan specialist birds<i class="bi bi-box-arrow-up-right"></i>](https://news.mongabay.com/2025/02/study-highlights-effects-of-habitat-fragmentation-on-sri-lankan-specialist-birds/){.mp-link}<br><span class="cv-cites">Covers: Rubber plantations are impermeable to an avian understory specialist in Sri Lanka (Dayananda et al. 2024)</span>
 :::
 ::: {.cv-flat .mp-item}
