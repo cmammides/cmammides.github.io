@@ -35,6 +35,9 @@ subtitle: "Media coverage and policy citations of our research"
 ::: {.cv-flat .mp-item}
 **The Conversation**, [Sin cambios drásticos, la PAC seguirá fomentando la pérdida de biodiversidad<i class="bi bi-box-arrow-up-right"></i>](https://theconversation.com/sin-cambios-drasticos-la-pac-seguira-fomentando-la-perdida-de-biodiversidad-148401){.mp-link} (in Spanish)<br><span class="cv-cites">Covers: Changes in land-cover within high nature value farmlands inside and outside Natura 2000 sites in Europe (Anderson & Mammides 2020)</span>
 :::
+::: {.cv-flat .mp-item}
+**British Ornithologists’ Union**, [Birds of many feathers flock together<i class="bi bi-box-arrow-up-right"></i>](https://bou.org.uk/blog-mammides-goodale-species-associations-gradients/){.mp-link} (blog post)<br><span class="cv-cites">Covers: Measurement of species associations in mixed-species bird flocks across environmental and human disturbance gradients (Mammides et al. 2018)</span>
+:::
 
 ## Policy impact
 
