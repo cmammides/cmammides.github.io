@@ -89,7 +89,7 @@ body-classes: home
 <li><span class="svc-main">EU Horizon Europe Programme</span><span class="svc-sub">MSCA Postdoctoral Fellowships, Twinning, Cluster 6</span></li>
 <li><span class="svc-main">UNEP Global Environment Outlook (GEO-7)</span><span class="svc-sub">Chapter reviewer</span></li>
 <li><span class="svc-main">SCB Smith Fellows Program</span><span class="svc-sub">Proposal reviewer</span></li>
-<li><span class="svc-main">Peer review</span><span class="svc-sub">More than 140 manuscripts, including Nature Communications and PLOS Biology</span></li>
+<li><span class="svc-main">Peer review</span><span class="svc-sub">More than 140 manuscripts, including Nature Communications and One Earth</span></li>
 </ul></div>
 <div class="svc-col"><h3 class="svc-head">Memberships</h3><ul>
 <li><span class="svc-main">IUCN World Commission on Protected Areas</span></li>
