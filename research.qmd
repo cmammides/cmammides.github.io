@@ -2,7 +2,7 @@
 title: "Research"
 subtitle: "Human impacts on biodiversity and the effectiveness of conservation measures"
 ---
-My research examines how human activities affect biodiversity and how effectively conservation measures mitigate these impacts, combining large-scale spatial data with quasi-experimental and statistical methods. I also develop and evaluate acoustic and computational approaches for biodiversity monitoring.
+My research examines human impacts on biodiversity, the effectiveness of conservation measures, and approaches to monitoring biodiversity. I combine large-scale spatial data, quasi-experimental and statistical methods, and acoustic and computational tools.
 
 ```{=html}
 <img class="research-photo" src="images/research.jpg" alt="Asian elephants feeding in dense vegetation">
@@ -10,23 +10,23 @@ My research examines how human activities affect biodiversity and how effectivel
 
 ## Protected areas and landscape ecology
 
-Protected areas are central to global conservation policy, yet their effectiveness in reducing human pressure varies widely. My work focuses on quantifying human pressures on natural ecosystems and using quasi-experimental designs to estimate the extent to which protected areas, including the EU’s Natura 2000 network, mitigate these pressures. I have also explored how well remote-sensing indicators capture threats on the ground and how protected-area networks could be made more ecologically representative.
+Protected areas are central to global conservation policy, yet their effectiveness in reducing human pressures varies widely. My research focuses on quantifying these pressures and uses quasi-experimental designs to assess how effectively protected areas, including the EU’s Natura 2000 network, mitigate them.
 
 ```{=html}
 <div class="rstudies">
 <article class="fs">
-<h3>Riparian zones across the EU face continued threats from agriculture and urbanization, although pressures are lower within Natura 2000 sites.</h3>
-<p>Across the EU, agriculture and urban areas covered 43% of riparian zones outside Natura 2000 sites, compared with 17% inside, with Natura 2000 protection more effective at limiting urbanization than agricultural encroachment.</p>
+<h3>Riparian zones across the European Union (EU) face continued threats from agriculture and urbanization, although pressures are lower within Natura 2000 sites.</h3>
+<p> Agriculture and urban areas covered 43% of the EU's riparian zones outside Natura 2000 sites, compared with 17% inside, with Natura 2000 protection more effective at limiting urbanization than agricultural encroachment.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.biocon.2026.111856">Biological Conservation, 2026<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>Many recently established protected areas in Southeast Asia have not curbed deforestation.</h3>
-<p>We compared each of 80 protected areas with a synthetic control built from unprotected forest and found that only 36 (45%) reduced deforestation. Investing at least US$17 million annually in improving the management of the remaining 44 could enhance their effectiveness in curbing forest loss and protecting carbon stocks, with carbon markets offering a potential source of funding.</p>
+<p>We compared 80 protected areas with synthetic controls derived from unprotected forests and found that only 36 (45%) reduced deforestation. An annual investment of at least US$17 million to improve management of the remaining 44 could enhance their effectiveness in curbing forest loss and protecting carbon stocks, with carbon markets offering a potential funding source.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.cub.2024.07.031">Current Biology, 2024<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>Remote assessments of human pressure on biodiversity may miss important human threats.</h3>
-<p>We compared three widely used indices of human pressure, including the Human Footprint, with threats recorded in Natura 2000 sites and found that they failed to capture threats such as hunting and invasive species. These findings highlight the need for researchers and practitioners to complement remote assessments with field-based information whenever possible.</p>
+<p>We evaluated three widely used indices of human pressure, including the Human Modification Index, with threats recorded in Natura 2000 sites and found that they failed to reflect threats such as hunting and invasive species. These findings highlight the need for researchers and practitioners to complement remote assessments with field-based information whenever possible.</p>
 <a class="fs-link" href="https://doi.org/10.1002/inc3.11">Integrative Conservation, 2022<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
@@ -40,7 +40,7 @@ Passive acoustic monitoring allows vocalizing animals to be surveyed across larg
 <div class="rstudies">
 <article class="fs">
 <h3>Acoustic indices are only moderately correlated with biodiversity.</h3>
-<p>We analyzed 524 effect sizes from 49 studies and found a moderate positive correlation between acoustic indices and biodiversity (r = 0.32), which was stronger at higher latitudes. This suggests that acoustic indices may underestimate biodiversity in the tropics, highlighting the need to investigate the mechanisms underlying this latitudinal pattern.</p>
+<p>We analyzed 49 acoustic studies and found a moderate positive correlation between acoustic indices and biodiversity (r = 0.32), which was stronger at higher latitudes. This suggests that acoustic indices may underestimate biodiversity in the tropics, highlighting the need to investigate further the mechanisms underlying this latitudinal pattern.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.ecolind.2024.111747">Ecological Indicators, 2024<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
@@ -69,12 +69,12 @@ I am interested in exploring how various computational tools, including large la
 </article>
 <article class="fs">
 <h3>Large language models can facilitate interdisciplinary research, but carry important risks.</h3>
-<p>We argued that LLMs can support interdisciplinary research by helping ecologists understand and adopt techniques from other fields, but that they can also generate inaccurate information when used for complex tasks. Capacity building is needed and academic programs should therefore offer formal training in their use.</p>
+<p>Large language models can facilitate interdisciplinary research by helping ecologists adopt methods from other fields, but their use in complex tasks can generate inaccurate information. Building capacity through formal training in academic programs is therefore essential.</p>
 <a class="fs-link" href="https://doi.org/10.1111/2041-210X.14398">Methods in Ecology and Evolution, 2024<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>Conformal prediction can quantify the uncertainty of machine learning models used to monitor animal communities.</h3>
-<p>We showed how conformal prediction can provide prediction intervals with guaranteed coverage for machine learning models, such as random forests, used to estimate bird species richness from acoustic data. This approach can make biodiversity estimates more reliable by providing a measure of their uncertainty.</p>
+<p>We demonstrated how conformal prediction provides guaranteed-coverage prediction intervals for machine learning estimates of bird diversity from acoustic data, improving the reliability of biodiversity estimates by quantifying their uncertainty.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.indic.2026.101387">Environmental and Sustainability Indicators, 2026<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
@@ -82,13 +82,13 @@ I am interested in exploring how various computational tools, including large la
 
 ## Policy and society
 
-My research also explores the broader social and policy context of conservation, including how biodiversity is represented in the media, how the EU allocates funding for conservation, and which species benefit most from its conservation efforts.
+My research also explores the broader social and policy context of conservation, including how the media represents biodiversity, how the European Union allocates conservation funding, and which species benefit most from its efforts.
 
 ```{=html}
 <div class="rstudies">
 <article class="fs">
 <h3>Media coverage of biodiversity falls short compared to climate change and popular culture.</h3>
-<p>We analyzed 227,940 media stories worldwide and found that COP27 received nearly seven times more coverage than COP15, which was also overshadowed by Taylor Swift. This limited media attention represents a missed opportunity to communicate the urgency of biodiversity action to the public and decision-makers.</p>
+<p>We analyzed 227,940 media stories worldwide and found that COP27 received nearly seven times more coverage than COP15, the summit at which the Kunming-Montreal Global Biodiversity Framework was adopted, which was also overshadowed by popular culture. This limited media attention represents a missed opportunity to communicate the urgency of biodiversity action to the public and decision-makers.</p>
 <a class="fs-link" href="https://doi.org/10.1038/s44185-025-00082-w">npj Biodiversity, 2025<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
