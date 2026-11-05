@@ -4,6 +4,8 @@ subtitle: "Human impacts on biodiversity and the effectiveness of conservation m
 ---
 My research examines human impacts on biodiversity, the effectiveness of conservation measures, and approaches to monitoring biodiversity. I combine large-scale spatial data, quasi-experimental and statistical methods, and acoustic and computational tools.
 
+My work has informed policy assessments by the European Environment Agency, the European Commission, FAO, and UNEP, including the EEA’s *State of Nature in the EU* report, the European Commission’s Fitness Check of the Birds and Habitats Directives, and FAO’s *Mainstreaming Biodiversity in Forestry*.
+
 ```{=html}
 <img class="research-photo" src="images/research.jpg" alt="Asian elephants feeding in dense vegetation">
 ```

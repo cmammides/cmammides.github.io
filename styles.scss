@@ -185,3 +185,8 @@ body.pub-filtered section.level2 { margin: 0; }
 @media (max-width: 720px) { .media { grid-template-columns: 1fr; } }
 .fstudies + .more-btn { margin-top: -1rem; }
 @media (max-width: 380px) { .pf { font-size: .72rem; padding-left: .1rem; padding-right: .1rem; } }
+
+/* Policy note (homepage) and policy citations (CV) */
+.policy-note { display: flex; align-items: baseline; gap: .55rem; margin: -1.2rem 0 2.6rem; font-size: 1rem; color: #3d4b46; }
+.policy-note i { color: $forest; font-size: 1rem; }
+.cv-cites { display: block; font-size: .92rem; color: #6b7a74; margin-top: .15rem; }

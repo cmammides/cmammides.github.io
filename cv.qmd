@@ -122,6 +122,37 @@ Impact Evaluation Working Group of the Society for Conservation Biology
 Marie Skłodowska-Curie Actions Alumni
 :::
 
+## Policy citations
+
+::: {.cv-item}
+<span class="when">2023</span>
+<span>**Québec Government**, *Category VI Protected Area Case Study*<br><span class="cv-cites">Cites: Strictly protected areas are not necessarily more effective than areas in which multiple human uses are permitted (Ambio, 2021)</span></span>
+:::
+::: {.cv-item}
+<span class="when">2023</span>
+<span>**European Commission**, *Mapping and Analysis of CAP Strategic Plans*<br><span class="cv-cites">Cites: Changes in land-cover within high nature value farmlands inside and outside Natura 2000 sites in Europe (Ambio, 2020)</span></span>
+:::
+::: {.cv-item}
+<span class="when">2022</span>
+<span>**FAO**, *Mainstreaming Biodiversity in Forestry*<br><span class="cv-cites">Cites: The role of protected areas in mitigating human impact in the world’s last wilderness areas (Ambio, 2020)</span></span>
+:::
+::: {.cv-item}
+<span class="when">2020</span>
+<span>**European Environment Agency**, *State of Nature in the EU: Results from Reporting under the Nature Directives 2013–2018*<br><span class="cv-cites">Cites: Changes in land-cover within high nature value farmlands inside and outside Natura 2000 sites in Europe (Ambio, 2020)</span></span>
+:::
+::: {.cv-item}
+<span class="when">2020</span>
+<span>**European Commission**, *Potential Impacts of Bioenergy Developments on Habitats and Species Protected under the Birds and Habitats Directives*<br><span class="cv-cites">Cites: The effects of road networks and habitat heterogeneity on the species richness of birds in Natura 2000 sites in Cyprus (Landscape Ecology, 2015)</span></span>
+:::
+::: {.cv-item}
+<span class="when">2019</span>
+<span>**UNEP**, *Technical Background Report to the Global Mercury Assessment 2018*<br><span class="cv-cites">Cites: Mercury flow through an Asian rice-based food web (Environmental Pollution, 2017)</span></span>
+:::
+::: {.cv-item}
+<span class="when">2016</span>
+<span>**European Commission**, *Evaluation Study to Support the Fitness Check of the Birds and Habitats Directives*<br><span class="cv-cites">Cites: The effects of road networks and habitat heterogeneity on the species richness of birds in Natura 2000 sites in Cyprus (Landscape Ecology, 2015)</span></span>
+:::
+
 ## Teaching
 
 - **GIS and Remote Sensing in Ecology** (graduate), University of Cyprus, 2022, 2023
