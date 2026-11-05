@@ -40,17 +40,17 @@ Passive acoustic monitoring allows vocalizing animals to be surveyed across larg
 <div class="rstudies">
 <article class="fs">
 <h3>Acoustic indices are only moderately correlated with biodiversity.</h3>
-<p>We analysed 524 effect sizes from 49 studies and found a moderate positive correlation between acoustic indices and biodiversity (r = 0.32), which was stronger at higher latitudes. Acoustic indices may therefore underestimate diversity in the tropics, and the mechanisms behind this effect need further study.</p>
+<p>We analysed 524 effect sizes from 49 studies and found a moderate positive correlation between acoustic indices and biodiversity (r = 0.32), which was stronger at higher latitudes. This suggests that acoustic indices may underestimate biodiversity in the tropics, highlighting the need to investigate the mechanisms underlying this latitudinal pattern.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.ecolind.2024.111747">Ecological Indicators, 2024<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>Non-focal sounds confound the relationships between acoustic indices and bird species richness.</h3>
-<p>We tested seven commonly used acoustic indices in southern China and found that sounds such as insects, wind and human noise influenced them more than bird species richness did. The indices were sensitive to the amount of bird sound rather than the number of species, which limits their use for monitoring bird diversity.</p>
+<p>We tested seven commonly used acoustic indices in southern China and found that sounds such as insects, wind and human noise influenced them more strongly than bird species richness. The indices also reflected the amount of bird sound rather than the number of species, limiting their usefulness for monitoring bird diversity.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.gecco.2024.e02922">Global Ecology and Conservation, 2024<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
 <h3>A large ecoacoustic dataset from the Mediterranean Basin biodiversity hotspot.</h3>
-<p>We made openly available more than 5,200 hours of recordings from 61 sites on Cyprus, through Hugging Face and the ARBIMON platform. Large datasets from biodiverse areas are needed to improve the accuracy of passive acoustic monitoring methods.</p>
+<p>We made more than 5,200 hours of recordings from 61 sites across Cyprus openly available through Hugging Face and the ARBIMON platform. Such large-scale datasets from biodiverse areas are essential for improving the accuracy of passive acoustic monitoring methods.</p>
 <a class="fs-link" href="https://doi.org/10.1038/s41597-025-04807-1">Scientific Data, 2025<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
