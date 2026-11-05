@@ -1,0 +1,30 @@
+---
+title: "Media and policy"
+subtitle: "Media coverage of our research and policy documents that cite it"
+---
+
+## Media coverage
+
+```{=html}
+<div class="media">
+<a class="media-item" href="https://wildlife.org/qa-should-wildlife-biologists-embrace-ai/"><span class="rg-year">The Wildlife Society</span><span class="media-title">Q&amp;A: Should wildlife biologists embrace AI?<i class="bi bi-box-arrow-up-right"></i></span></a>
+<a class="media-item" href="https://news.mongabay.com/2024/09/protected-areas-in-se-asia-could-do-better-with-more-resources-study-finds/"><span class="rg-year">Mongabay</span><span class="media-title">Protected areas in SE Asia could do better with more resources, study finds<i class="bi bi-box-arrow-up-right"></i></span></a>
+<a class="media-item" href="https://news.mongabay.com/2025/02/study-highlights-effects-of-habitat-fragmentation-on-sri-lankan-specialist-birds/"><span class="rg-year">Mongabay</span><span class="media-title">Study highlights effects of habitat fragmentation on Sri Lankan specialist birds<i class="bi bi-box-arrow-up-right"></i></span></a>
+<a class="media-item" href="https://land.copernicus.eu/en/use-cases/assessing-habitat-vulnerability-to-soil-sealing-with-high-resolution-imperviousness-data/assessing-habitat-vulnerability-to-soil-sealing-with-high-resolution-imperviousness-data"><span class="rg-year">Copernicus</span><span class="media-title">Assessing habitat vulnerability to soil sealing with high-resolution imperviousness data<i class="bi bi-box-arrow-up-right"></i></span></a>
+</div>
+```
+
+## Policy impact
+
+```{=html}
+<div class="media policy">
+<div class="media-item"><span class="rg-year">Grantham Research Institute, London School of Economics</span><span class="media-title"><em>China’s Role in Implementing the Kunming-Montreal Global Biodiversity Framework</em> (2026)</span><span class="policy-cites">Media coverage of biodiversity falls short compared to climate change and popular culture (Mammides & Campos-Arceiz 2025)</span></div>
+<div class="media-item"><span class="rg-year">Government of Québec</span><span class="media-title"><em>Category VI Protected Area Case Study</em> (2023)</span><span class="policy-cites">Strictly protected areas are not necessarily more effective than areas in which multiple human uses are permitted (Elleason et al. 2021)</span></div>
+<div class="media-item"><span class="rg-year">European Commission</span><span class="media-title"><em>Mapping and Analysis of CAP Strategic Plans</em> (2023)</span><span class="policy-cites">Changes in land-cover within high nature value farmlands inside and outside Natura 2000 sites in Europe (Anderson & Mammides 2020)</span></div>
+<div class="media-item"><span class="rg-year">Food and Agriculture Organization of the United Nations</span><span class="media-title"><em>Mainstreaming Biodiversity in Forestry</em> (2022)</span><span class="policy-cites">The role of protected areas in mitigating human impact in the world’s last wilderness areas (Anderson & Mammides 2020)</span></div>
+<div class="media-item"><span class="rg-year">European Environment Agency</span><span class="media-title"><em>State of Nature in the EU: Results from Reporting under the Nature Directives 2013–2018</em> (2020)</span><span class="policy-cites">Changes in land-cover within high nature value farmlands inside and outside Natura 2000 sites in Europe (Anderson & Mammides 2020)</span></div>
+<div class="media-item"><span class="rg-year">European Commission</span><span class="media-title"><em>Potential Impacts of Bioenergy Developments on Habitats and Species Protected under the Birds and Habitats Directives</em> (2020)</span><span class="policy-cites">The effects of road networks and habitat heterogeneity on the species richness of birds in Natura 2000 sites in Cyprus (Mammides et al. 2015)</span></div>
+<div class="media-item"><span class="rg-year">United Nations Environment Programme</span><span class="media-title"><em>Technical Background Report to the Global Mercury Assessment 2018</em> (2019)</span><span class="policy-cites">Mercury flow through an Asian rice-based food web (Abeysinghe et al. 2017)</span></div>
+<div class="media-item"><span class="rg-year">European Commission</span><span class="media-title"><em>Evaluation Study to Support the Fitness Check of the Birds and Habitats Directives</em> (2016)</span><span class="policy-cites">The effects of road networks and habitat heterogeneity on the species richness of birds in Natura 2000 sites in Cyprus (Mammides et al. 2015)</span></div>
+</div>
+```

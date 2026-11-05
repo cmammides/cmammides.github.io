@@ -22,6 +22,8 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
+      - href: media-policy.qmd
+        text: Media and policy
       - href: grants.qmd
         text: Grants
       - href: cv.qmd
