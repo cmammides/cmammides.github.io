@@ -22,8 +22,8 @@ body-classes: home
 <p class="role">Professor, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences</p>
 <p class="tagline">I am a conservation scientist using quantitative and spatial methods to study human impacts on biodiversity and inform evidence-based conservation. My research integrates spatial ecology, causal inference, and acoustic monitoring to assess anthropogenic pressures and the effectiveness of conservation measures.</p>
 <div class="profiles">
-<a href="https://scholar.google.com/citations?user=kuDv6QoAAAAJ&hl=en"><i class="bi bi-mortarboard-fill"></i>Google Scholar</a>
 <a href="https://www.linkedin.com/in/christos-mammides/"><i class="bi bi-linkedin"></i>LinkedIn</a>
+<a href="https://scholar.google.com/citations?user=kuDv6QoAAAAJ&hl=en"><i class="bi bi-mortarboard-fill"></i>Google Scholar</a>
 <a href="cv.html"><i class="bi bi-file-earmark-person-fill"></i>CV</a>
 <!-- <a href="https://orcid.org/YOUR-ORCID"><i class="bi bi-person-badge-fill"></i>ORCID</a> -->
 </div>
