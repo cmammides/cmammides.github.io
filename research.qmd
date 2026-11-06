@@ -7,6 +7,15 @@ My research examines human impacts on biodiversity, the effectiveness of conserv
 My work has informed policy assessments by the European Environment Agency, the European Commission, FAO, and UNEP, including the EEA’s *State of Nature in the EU* report, the European Commission’s Fitness Check of the Birds and Habitats Directives, and FAO’s *Mainstreaming Biodiversity in Forestry*.
 
 ```{=html}
+<nav class="theme-jump" aria-label="Research themes">
+<a class="pf" href="#protected-areas-and-landscape-ecology">Protected areas and landscape ecology</a>
+<a class="pf" href="#soundscape-ecology">Soundscape ecology</a>
+<a class="pf" href="#computational-methods-in-ecology">Computational methods</a>
+<a class="pf" href="#policy-and-society">Policy and society</a>
+</nav>
+```
+
+```{=html}
 <img class="research-photo" src="images/research.jpg" alt="Asian elephants feeding in dense vegetation">
 ```
 

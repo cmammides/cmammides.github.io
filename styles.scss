@@ -195,3 +195,13 @@ body.pub-filtered section.level2 { margin: 0; }
 .mp-link i { font-size: .75em; margin-left: .35em; }
 .mp-link:hover { text-decoration: underline; text-underline-offset: 3px; }
 .mp-item { padding: .45rem 0 .55rem; }
+
+/* Research page: jump links to themes */
+.theme-jump { display: flex; flex-wrap: wrap; gap: .5rem; margin: 1.2rem 0 1.6rem; }
+.theme-jump .pf { text-decoration: none; }
+html { scroll-behavior: smooth; }
+section.level2 { scroll-margin-top: 80px; }
+@media (max-width: 600px) {
+  .theme-jump { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .45rem; }
+  .theme-jump .pf { font-size: .8rem; padding: .45rem .15rem; text-align: center; white-space: normal; line-height: 1.3; display: flex; align-items: center; justify-content: center; }
+}
