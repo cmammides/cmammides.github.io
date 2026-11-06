@@ -140,6 +140,14 @@ Marie Skłodowska-Curie Actions Alumni
 <span class="when">2024</span>
 <span>*Curbing land take across European habitats: The role of Natura 2000 sites*<br>Workshop “Being serious about no net land take: Can other policy areas help to get closer to this goal?”, German Environment Agency and Öko-Institut (online)</span>
 :::
+::: {.cv-item}
+<span class="when">2024</span>
+<span>*A race against time: Can we protect 30% of the planet by 2030?*<br>Environment and Ecology Academic Salon, Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen, China (online)</span>
+:::
+::: {.cv-item}
+<span class="when">2021</span>
+<span>*To achieve the post-2020 global biodiversity targets, countries must address the factors limiting the effectiveness of protected areas*<br>Postgraduate Seminar Series, Department of Biological Sciences, University of Cyprus, Nicosia, Cyprus</span>
+:::
 
 ## Teaching
 
