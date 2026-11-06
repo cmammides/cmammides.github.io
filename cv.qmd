@@ -162,7 +162,7 @@ Marie Skłodowska-Curie Actions Alumni
 - **GIS and Remote Sensing in Ecology** (graduate), University of Cyprus, 2022, 2023
 - **Advanced Statistical Methods in Ecology** (graduate), Guangxi University, 2017 – 2021
 - **Frontiers in Ecology and Conservation** (undergraduate, co-taught), Guangxi University, 2019
-- Workshops: Data Analysis in R (2022, 2023); Scientific Writing (co-taught)
+- Workshops: **Emerging Applications of Large Language Models in Ecology and Conservation Science** (organizer), Annual Meeting of the Association for Tropical Biology and Conservation (ATBC 2026), Xishuangbanna, China; Data Analysis in R (2022, 2023); Scientific Writing (co-taught)
 
 ## Skills
 
