@@ -129,6 +129,10 @@ Marie Skłodowska-Curie Actions Alumni
 <span>*Passive acoustic monitoring of biodiversity in agricultural landscapes*<br>Sino-French Science Seminar on Agroecology and One Health, Yunnan Academy of Agricultural Sciences and CIRAD, Kunming, China</span>
 :::
 ::: {.cv-item}
+<span class="when">2026</span>
+<span>*Leveraging public data for biodiversity conservation: The emerging role of large language models*<br>International Symposium on Public Data in Environmental and Ecological Research in the Era of AI, Department of Health and Environmental Sciences, Xi’an Jiaotong-Liverpool University, Suzhou, China (online)</span>
+:::
+::: {.cv-item}
 <span class="when">2025</span>
 <span>*Application and use cases of the High Resolution Layer Imperviousness*<br>Copernicus Land Monitoring Service user webinar, European Environment Agency (online)</span>
 :::
