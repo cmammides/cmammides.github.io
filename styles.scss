@@ -208,3 +208,5 @@ details.studies-toggle[open] .st-show { display: none; }
 details.studies-toggle[open] .st-hide { display: inline; }
 details.studies-toggle[open] > summary { margin-bottom: .6rem; }
 @media (min-width: 721px) { details.studies-toggle > summary { display: none; } }
+/* Publications: no rule under year headings */
+main:has(.pub-filter) h2 { border-bottom: 0; padding-bottom: 0; }
