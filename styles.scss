@@ -207,3 +207,4 @@ details.studies-toggle .st-hide { display: none; }
 details.studies-toggle[open] .st-show { display: none; }
 details.studies-toggle[open] .st-hide { display: inline; }
 details.studies-toggle[open] > summary { margin-bottom: .6rem; }
+@media (min-width: 721px) { details.studies-toggle > summary { display: none; } }
