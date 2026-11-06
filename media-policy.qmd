@@ -30,6 +30,9 @@ subtitle: "Media coverage and policy citations of our research"
 **France Culture**, [Plus de bruits humains, moins de sons naturels : une corrélation prouvée par le suivi acoustique passif<i class="bi bi-box-arrow-up-right"></i>](https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/plus-de-bruits-humains-moins-de-sons-naturels-une-correlation-prouvee-par-le-suivi-acoustique-passif-8833650){.mp-link} (radio, in French)<br><span class="cv-cites">Covers: Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms (Darras et al. 2025)</span>
 :::
 ::: {.cv-flat .mp-item}
+**Carbon Brief**, [Biodiversity loss still in climate’s shadow<i class="bi bi-box-arrow-up-right"></i>](https://www.carbonbrief.org/debriefed-11-april-2025-trump-tariff-chaos-climate-penalties-for-shipping-why-is-biodiversity-loss-overlooked/){.mp-link} (guest post)<br><span class="cv-cites">Covers: Media coverage of biodiversity falls short compared to climate change and popular culture (Mammides & Campos-Arceiz 2025)</span>
+:::
+::: {.cv-flat .mp-item}
 **Center for Data Innovation**, [Observing biodiversity in the Mediterranean Basin<i class="bi bi-box-arrow-up-right"></i>](https://datainnovation.org/2025/04/observing-biodiversity-in-the-mediterranean-basin/){.mp-link}<br><span class="cv-cites">Covers: An ecoacoustic dataset collected on the island of Cyprus in the Mediterranean Basin biodiversity hotspot (Mammides et al. 2025)</span>
 :::
 ::: {.cv-flat .mp-item}
