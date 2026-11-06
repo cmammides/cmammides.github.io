@@ -148,6 +148,14 @@ Marie Skłodowska-Curie Actions Alumni
 <span class="when">2021</span>
 <span>*To achieve the post-2020 global biodiversity targets, countries must address the factors limiting the effectiveness of protected areas*<br>Postgraduate Seminar Series, Department of Biological Sciences, University of Cyprus, Nicosia, Cyprus</span>
 :::
+::: {.cv-item}
+<span class="when">2021</span>
+<span>*Factors influencing the effectiveness of protected areas across the globe*<br>XTBG Seminar, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, Yunnan, China</span>
+:::
+::: {.cv-item}
+<span class="when">2018</span>
+<span>*Anthropogenic impacts on bird communities in protected areas: Examples from Cyprus, Kenya, and Sri Lanka*<br>Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, China</span>
+:::
 
 ## Teaching
 
