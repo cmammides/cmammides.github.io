@@ -7,16 +7,6 @@ My research examines human impacts on biodiversity, the effectiveness of conserv
 My work has informed policy assessments by the European Environment Agency, the European Commission, FAO, and UNEP, including the EEA’s *State of Nature in the EU* report, the European Commission’s Fitness Check of the Birds and Habitats Directives, and FAO’s *Mainstreaming Biodiversity in Forestry*.
 
 ```{=html}
-<nav class="theme-list" aria-label="Research themes">
-<div class="theme-list-label">Research themes</div>
-<a href="#protected-areas-and-landscape-ecology">Protected areas and landscape ecology</a>
-<a href="#soundscape-ecology">Soundscape ecology</a>
-<a href="#computational-methods-in-ecology">Computational methods in ecology</a>
-<a href="#policy-and-society">Policy and society</a>
-</nav>
-```
-
-```{=html}
 <img class="research-photo" src="images/research.jpg" alt="Asian elephants feeding in dense vegetation">
 ```
 
@@ -25,6 +15,8 @@ My work has informed policy assessments by the European Environment Agency, the 
 Protected areas are central to global conservation policy, yet their effectiveness in reducing human pressures varies widely. My research focuses on quantifying these pressures and uses quasi-experimental designs to assess how effectively protected areas, including the EU’s Natura 2000 network, mitigate them.
 
 ```{=html}
+<details class="studies-toggle" open>
+<summary><span class="st-show">Show studies</span><span class="st-hide">Hide studies</span></summary>
 <div class="rstudies">
 <article class="fs">
 <h3>Riparian zones across the European Union (EU) face continued threats from agriculture and urbanization, although pressures are lower within Natura 2000 sites.</h3>
@@ -42,6 +34,7 @@ Protected areas are central to global conservation policy, yet their effectivene
 <a class="fs-link" href="https://doi.org/10.1002/inc3.11">Integrative Conservation, 2022<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
+</details>
 ```
 
 ## Soundscape ecology
@@ -49,6 +42,8 @@ Protected areas are central to global conservation policy, yet their effectivene
 Passive acoustic monitoring allows vocalizing animals to be surveyed across large spatial and temporal scales. My work in this area focuses on evaluating and improving acoustic methods, including machine-learning approaches, for biodiversity monitoring.
 
 ```{=html}
+<details class="studies-toggle" open>
+<summary><span class="st-show">Show studies</span><span class="st-hide">Hide studies</span></summary>
 <div class="rstudies">
 <article class="fs">
 <h3>Acoustic indices are only moderately correlated with biodiversity.</h3>
@@ -66,6 +61,7 @@ Passive acoustic monitoring allows vocalizing animals to be surveyed across larg
 <a class="fs-link" href="https://doi.org/10.1038/s41597-025-04807-1">Scientific Data, 2025<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
+</details>
 ```
 
 ## Computational methods in ecology
@@ -73,6 +69,8 @@ Passive acoustic monitoring allows vocalizing animals to be surveyed across larg
 I am interested in exploring how various computational tools, including large language models and conformal prediction, can advance ecological research, from synthesizing scientific literature to quantifying uncertainty in machine-learning predictions.
 
 ```{=html}
+<details class="studies-toggle" open>
+<summary><span class="st-show">Show studies</span><span class="st-hide">Hide studies</span></summary>
 <div class="rstudies">
 <article class="fs">
 <h3>Large language models have potentially transformative implications for ecology and conservation science.</h3>
@@ -90,6 +88,7 @@ I am interested in exploring how various computational tools, including large la
 <a class="fs-link" href="https://doi.org/10.1016/j.indic.2026.101387">Environmental and Sustainability Indicators, 2026<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
+</details>
 ```
 
 ## Policy and society
@@ -97,6 +96,8 @@ I am interested in exploring how various computational tools, including large la
 My research also explores the broader social and policy context of conservation, including how the media represents biodiversity, how the European Union allocates conservation funding, and which species benefit most from its efforts.
 
 ```{=html}
+<details class="studies-toggle" open>
+<summary><span class="st-show">Show studies</span><span class="st-hide">Hide studies</span></summary>
 <div class="rstudies">
 <article class="fs">
 <h3>Media coverage of biodiversity falls short compared to climate change and popular culture.</h3>
@@ -114,5 +115,11 @@ My research also explores the broader social and policy context of conservation,
 <a class="fs-link" href="https://doi.org/10.1007/s10531-019-01725-8">Biodiversity and Conservation, 2019<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
+</details>
 ```
 
+```{=html}
+<script>
+(function(){if(window.matchMedia("(max-width: 720px)").matches){document.querySelectorAll("details.studies-toggle").forEach(function(d){d.removeAttribute("open");});}})();
+</script>
+```

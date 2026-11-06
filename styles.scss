@@ -196,12 +196,14 @@ body.pub-filtered section.level2 { margin: 0; }
 .mp-link:hover { text-decoration: underline; text-underline-offset: 3px; }
 .mp-item { padding: .45rem 0 .55rem; }
 
-/* Research page: list of themes */
-.theme-list { margin: 1.2rem 0 1.8rem; max-width: 34rem; }
-.theme-list-label { font-size: .8rem; letter-spacing: .06em; text-transform: uppercase; color: #6b7a74; margin-bottom: .2rem; }
-.theme-list a { display: flex; justify-content: space-between; align-items: center; padding: .55rem 0; border-bottom: 1px solid #e3e8e5; color: $forest; font-weight: 500; text-decoration: none; }
-.theme-list a::after { content: "\2193"; color: #7a8a83; margin-left: 1rem; }
-.theme-list a:hover { text-decoration: underline; text-underline-offset: 3px; }
-html { scroll-behavior: smooth; }
-section.level2 { scroll-margin-top: 80px; }
-@media (max-width: 600px) { .theme-list a { font-size: .97rem; line-height: 1.35; } }
+/* Research page: collapsible study cards */
+details.studies-toggle { margin: .4rem 0 1.4rem; }
+details.studies-toggle > summary { list-style: none; cursor: pointer; display: inline-flex; align-items: center; gap: .35rem; color: $forest; font-weight: 500; font-size: .98rem; padding: .3rem 0; }
+details.studies-toggle > summary::-webkit-details-marker { display: none; }
+details.studies-toggle > summary::after { content: "\2304"; font-size: 1rem; line-height: 1; }
+details.studies-toggle[open] > summary::after { content: "\2303"; }
+details.studies-toggle > summary:hover { text-decoration: underline; text-underline-offset: 3px; }
+details.studies-toggle .st-hide { display: none; }
+details.studies-toggle[open] .st-show { display: none; }
+details.studies-toggle[open] .st-hide { display: inline; }
+details.studies-toggle[open] > summary { margin-bottom: .6rem; }
