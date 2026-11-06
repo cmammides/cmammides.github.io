@@ -38,7 +38,7 @@ title: "Curriculum vitae"
 :::
 ::: {.cv-item}
 <span class="when">2005 – 2006</span>
-<span>**Teaching Assistant**, Columbia University, USA</span>
+<span>**Teaching Assistant**, Certificate Program in Conservation and Environmental Sustainability, Earth Institute Center for Environmental Sustainability (EICES), Columbia University, USA</span>
 :::
 
 ## Education
