@@ -122,6 +122,13 @@ Impact Evaluation Working Group of the Society for Conservation Biology
 Marie Skłodowska-Curie Actions Alumni
 :::
 
+## Selected invited talks
+
+::: {.cv-item}
+<span class="when">2026</span>
+<span>*Passive acoustic monitoring of biodiversity in agricultural landscapes*<br>Sino-French Science Seminar on Agroecology and One Health, Yunnan Academy of Agricultural Sciences and CIRAD, Kunming, China</span>
+:::
+
 ## Teaching
 
 - **GIS and Remote Sensing in Ecology** (graduate), University of Cyprus, 2022, 2023
