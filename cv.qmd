@@ -136,6 +136,10 @@ Marie Skłodowska-Curie Actions Alumni
 <span class="when">2025</span>
 <span>*Application and use cases of the High Resolution Layer Imperviousness*<br>Copernicus Land Monitoring Service user webinar, European Environment Agency (online)</span>
 :::
+::: {.cv-item}
+<span class="when">2024</span>
+<span>*Curbing land take across European habitats: The role of Natura 2000 sites*<br>Workshop “Being serious about no net land take: Can other policy areas help to get closer to this goal?”, German Environment Agency and Öko-Institut (online)</span>
+:::
 
 ## Teaching
 
