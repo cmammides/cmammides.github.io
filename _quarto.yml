@@ -1,5 +1,6 @@
 project:
   type: website
+  post-render: fix-title.py
   output-dir: _site
   resources:
     - google248636732fb723d9.html
