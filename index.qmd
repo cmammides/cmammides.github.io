@@ -1,5 +1,5 @@
 ---
-pagetitle: "Christos Mammides"
+pagetitle: "Christos Mammides | Conservation Scientist"
 description: "Conservation scientist and Professor at Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, studying human impacts on biodiversity and the effectiveness of protected areas and other conservation measures."
 body-classes: home
 ---
