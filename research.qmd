@@ -4,7 +4,7 @@ subtitle: "Human impacts on biodiversity and the effectiveness of conservation m
 ---
 My research examines human impacts on biodiversity, the effectiveness of conservation measures, and approaches to monitoring biodiversity. I combine large-scale spatial data, quasi-experimental and statistical methods, and acoustic and computational tools.
 
-My work has informed policy assessments by the European Environment Agency, the European Commission, FAO, and UNEP, including the EEA’s *State of Nature in the EU* report, the European Commission’s Fitness Check of the Birds and Habitats Directives, and FAO’s *Mainstreaming Biodiversity in Forestry*.
+My work has informed policy assessments by the European Environment Agency (EEA), the European Commission, the Food and Agriculture Organization of the United Nations (FAO), and the United Nations Environment Programme, including the EEA’s *State of Nature in the EU* report, the European Commission’s Fitness Check of the Birds and Habitats Directives, and FAO’s *Mainstreaming Biodiversity in Forestry*.
 
 ```{=html}
 <img class="research-photo" src="images/research.jpg" alt="Asian elephants feeding in dense vegetation">
@@ -20,7 +20,7 @@ Protected areas are central to global conservation policy, yet their effectivene
 <div class="rstudies">
 <article class="fs">
 <h3>Riparian zones across the European Union (EU) face continued threats from agriculture and urbanization, although pressures are lower within Natura 2000 sites.</h3>
-<p> Agriculture and urban areas covered 43% of the EU's riparian zones outside Natura 2000 sites, compared with 17% inside, with Natura 2000 protection more effective at limiting urbanization than agricultural encroachment.</p>
+<p>Agriculture and urban areas covered 43% of the EU’s riparian zones outside Natura 2000 sites, compared with 17% inside, with Natura 2000 protection more effective at limiting urbanization than agricultural encroachment.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.biocon.2026.111856">Biological Conservation, 2026<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">

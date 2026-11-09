@@ -45,7 +45,7 @@ subtitle: "Media coverage and policy citations of our research"
 **Copernicus Land Monitoring Service**, [Assessing habitat vulnerability to soil sealing with high-resolution imperviousness data<i class="bi bi-box-arrow-up-right"></i>](https://land.copernicus.eu/en/use-cases/assessing-habitat-vulnerability-to-soil-sealing-with-high-resolution-imperviousness-data/assessing-habitat-vulnerability-to-soil-sealing-with-high-resolution-imperviousness-data){.mp-link}<br><span class="cv-cites">Covers: Quantifying the amount of land lost to artificial surfaces in European habitats (Mammides et al. 2024)</span>
 :::
 ::: {.cv-flat .mp-item}
-**The Conversation**, [Sin cambios drásticos, la PAC seguirá fomentando la pérdida de biodiversidad<i class="bi bi-box-arrow-up-right"></i>](https://theconversation.com/sin-cambios-drasticos-la-pac-seguira-fomentando-la-perdida-de-biodiversidad-148401){.mp-link} (in Spanish)<br><span class="cv-cites">Covers: Changes in land-cover within high nature value farmlands inside and outside Natura 2000 sites in Europe (Anderson & Mammides 2020)</span>
+**The Conversation**, [Sin cambios drásticos, la PAC seguirá fomentando la pérdida de biodiversidad<i class="bi bi-box-arrow-up-right"></i>](https://theconversation.com/sin-cambios-drasticos-la-pac-seguira-fomentando-la-perdida-de-biodiversidad-148401){.mp-link} (in Spanish)<br><span class="cv-cites">Covers: Changes in land-cover within high nature value farmlands inside and outside Natura 2000 sites in Europe (Anderson & Mammides 2020a)</span>
 :::
 ::: {.cv-flat .mp-item}
 **British Ornithologists’ Union**, [Birds of many feathers flock together<i class="bi bi-box-arrow-up-right"></i>](https://bou.org.uk/blog-mammides-goodale-species-associations-gradients/){.mp-link} (blog post)<br><span class="cv-cites">Covers: Measurement of species associations in mixed-species bird flocks across environmental and human disturbance gradients (Mammides et al. 2018)</span>
@@ -60,13 +60,13 @@ subtitle: "Media coverage and policy citations of our research"
 **Government of Québec**, *Category VI Protected Area Case Study*<br><span class="cv-cites">Cites: Strictly protected areas are not necessarily more effective than areas in which multiple human uses are permitted (Elleason et al. 2021)</span>
 :::
 ::: {.cv-flat .mp-item}
-**European Commission**, *Mapping and Analysis of CAP Strategic Plans*<br><span class="cv-cites">Cites: Changes in land-cover within high nature value farmlands inside and outside Natura 2000 sites in Europe (Anderson & Mammides 2020)</span>
+**European Commission**, *Mapping and Analysis of CAP Strategic Plans*<br><span class="cv-cites">Cites: Changes in land-cover within high nature value farmlands inside and outside Natura 2000 sites in Europe (Anderson & Mammides 2020a)</span>
 :::
 ::: {.cv-flat .mp-item}
-**Food and Agriculture Organization of the United Nations**, *Mainstreaming Biodiversity in Forestry*<br><span class="cv-cites">Cites: The role of protected areas in mitigating human impact in the world’s last wilderness areas (Anderson & Mammides 2020)</span>
+**Food and Agriculture Organization of the United Nations**, *Mainstreaming Biodiversity in Forestry*<br><span class="cv-cites">Cites: The role of protected areas in mitigating human impact in the world’s last wilderness areas (Anderson & Mammides 2020b)</span>
 :::
 ::: {.cv-flat .mp-item}
-**European Environment Agency**, *State of Nature in the EU: Results from Reporting under the Nature Directives 2013–2018*<br><span class="cv-cites">Cites: Changes in land-cover within high nature value farmlands inside and outside Natura 2000 sites in Europe (Anderson & Mammides 2020)</span>
+**European Environment Agency**, *State of Nature in the EU: Results from Reporting under the Nature Directives 2013–2018*<br><span class="cv-cites">Cites: Changes in land-cover within high nature value farmlands inside and outside Natura 2000 sites in Europe (Anderson & Mammides 2020a)</span>
 :::
 ::: {.cv-flat .mp-item}
 **European Commission**, *Potential Impacts of Bioenergy Developments on Habitats and Species Protected under the Birds and Habitats Directives*<br><span class="cv-cites">Cites: The effects of road networks and habitat heterogeneity on the species richness of birds in Natura 2000 sites in Cyprus (Mammides et al. 2015)</span>
