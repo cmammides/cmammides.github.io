@@ -46,6 +46,11 @@ Passive acoustic monitoring allows vocalizing animals to be surveyed across larg
 <summary><span class="st-show">Show studies</span><span class="st-hide">Hide studies</span></summary>
 <div class="rstudies">
 <article class="fs">
+<h3>A large ecoacoustic dataset from the Mediterranean Basin biodiversity hotspot.</h3>
+<p>We made more than 5,200 hours of recordings from 61 sites across Cyprus openly available through Hugging Face and the ARBIMON platform. Such large-scale datasets from biodiverse areas are essential for improving the accuracy of passive acoustic monitoring methods.</p>
+<a class="fs-link" href="https://doi.org/10.1038/s41597-025-04807-1">Scientific Data, 2025<i class="bi bi-box-arrow-up-right"></i></a>
+</article>
+<article class="fs">
 <h3>Acoustic indices are only moderately correlated with biodiversity.</h3>
 <p>We analyzed 49 acoustic studies and found a moderate positive correlation between acoustic indices and biodiversity (r = 0.32), which was stronger at higher latitudes. This suggests that acoustic indices may underestimate biodiversity in the tropics, highlighting the need to investigate further the mechanisms underlying this latitudinal pattern.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.ecolind.2024.111747">Ecological Indicators, 2024<i class="bi bi-box-arrow-up-right"></i></a>
@@ -54,11 +59,6 @@ Passive acoustic monitoring allows vocalizing animals to be surveyed across larg
 <h3>Non-focal sounds confound the relationships between acoustic indices and bird species richness.</h3>
 <p>We tested seven commonly used acoustic indices in southern China and found that sounds such as insects, wind, and human noise influenced them more strongly than bird species richness. The indices also reflected the amount of bird sound rather than the number of species, limiting their usefulness for monitoring bird diversity.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.gecco.2024.e02922">Global Ecology and Conservation, 2024<i class="bi bi-box-arrow-up-right"></i></a>
-</article>
-<article class="fs">
-<h3>A large ecoacoustic dataset from the Mediterranean Basin biodiversity hotspot.</h3>
-<p>We made more than 5,200 hours of recordings from 61 sites across Cyprus openly available through Hugging Face and the ARBIMON platform. Such large-scale datasets from biodiverse areas are essential for improving the accuracy of passive acoustic monitoring methods.</p>
-<a class="fs-link" href="https://doi.org/10.1038/s41597-025-04807-1">Scientific Data, 2025<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
 </details>
@@ -78,14 +78,14 @@ I am interested in exploring how various computational tools, including large la
 <a class="fs-link" href="https://doi.org/10.1111/cobi.70287">Conservation Biology, 2026<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 <article class="fs">
-<h3>Large language models can facilitate interdisciplinary research, but carry important risks.</h3>
-<p>Large language models can facilitate interdisciplinary research by helping ecologists adopt methods from other fields, but their use in complex tasks can generate inaccurate information. Building capacity through formal training in academic programs is therefore essential.</p>
-<a class="fs-link" href="https://doi.org/10.1111/2041-210X.14398">Methods in Ecology and Evolution, 2024<i class="bi bi-box-arrow-up-right"></i></a>
-</article>
-<article class="fs">
 <h3>Conformal prediction can quantify the uncertainty of machine learning models used to monitor animal communities.</h3>
 <p>We demonstrated how conformal prediction provides guaranteed-coverage prediction intervals for machine learning estimates of bird diversity from acoustic data, improving the reliability of biodiversity estimates by quantifying their uncertainty.</p>
 <a class="fs-link" href="https://doi.org/10.1016/j.indic.2026.101387">Environmental and Sustainability Indicators, 2026<i class="bi bi-box-arrow-up-right"></i></a>
+</article>
+<article class="fs">
+<h3>Large language models can facilitate interdisciplinary research, but carry important risks.</h3>
+<p>Large language models can facilitate interdisciplinary research by helping ecologists adopt methods from other fields, but their use in complex tasks can generate inaccurate information. Building capacity through formal training in academic programs is therefore essential.</p>
+<a class="fs-link" href="https://doi.org/10.1111/2041-210X.14398">Methods in Ecology and Evolution, 2024<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
 </details>
