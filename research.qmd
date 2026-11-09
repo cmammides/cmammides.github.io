@@ -30,7 +30,7 @@ Protected areas are central to global conservation policy, yet their effectivene
 </article>
 <article class="fs">
 <h3>Remote assessments of human pressure on biodiversity may miss important human threats.</h3>
-<p>We evaluated three widely used indices of human pressure, including the Human Modification Index, with threats recorded in Natura 2000 sites and found that they failed to reflect threats such as hunting and invasive species. These findings highlight the need for researchers and practitioners to complement remote assessments with field-based information whenever possible.</p>
+<p>We evaluated three widely used indices of human pressure, including the Human Modification Index, against threats recorded in Natura 2000 sites and found that they failed to reflect threats such as hunting and invasive species. These findings highlight the need for researchers and practitioners to complement remote assessments with field-based information whenever possible.</p>
 <a class="fs-link" href="https://doi.org/10.1002/inc3.11">Integrative Conservation, 2022<i class="bi bi-box-arrow-up-right"></i></a>
 </article>
 </div>
