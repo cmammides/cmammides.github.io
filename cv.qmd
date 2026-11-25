@@ -95,7 +95,7 @@ title: "Curriculum vitae"
 ### Expert evaluation
 
 ::: {.cv-flat}
-**Expert evaluator**, EU Horizon Europe Programme (MSCA Postdoctoral Fellowships, Twinning, and Cluster 6)
+**Expert evaluator and Rapporteur**, EU Horizon Europe Programme (MSCA Postdoctoral Fellowships, Twinning, and Cluster 6)
 :::
 ::: {.cv-flat}
 **Reviewer**, UNEP Global Environment Outlook (GEO-7), chapter review
